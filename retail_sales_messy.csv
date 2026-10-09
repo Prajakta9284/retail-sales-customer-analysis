@@ -1,0 +1,1216 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Region,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method
+ORD00001,2025-03-13,C0053,Anjali Verma,Yoga Mat,Sports,North,1.0,1029.0,0.1,926.1,687.96,238.14,Net Banking
+ORD00002,2025-11-05,C0014,,T-Shirt,Fashion,South,1.0,773.05,0.05,734.4,514.19,220.21,Net Banking
+ORD00003,2025-01-04,C0082,Pooja Deshmukh,T-Shirt,Fashion ,East,2.0,886.29,0.1,1595.32,732.64,130.04,UPI
+ORD00004,2025-07-14,C0050,Rohan Mehta,Headphones,Electronics,East,2.0,2842.91,0.1,5117.24,1787.11,1543.02,Net Banking
+ORD00005,2025-07-13,C0041,Anjali Verma,Desk,Furniture,East,1.0,12827.03,0.2,10261.62,8144.54,2117.08,Net Banking
+ORD00006,2025-04-27,C0149,Priya Joshi,Water Bottle,Home & Kitchen,South,3.0,716.24,0.0,2148.72,438.93,831.93,Credit Card
+ORD00007,2025-07-01,C0108, Neha Shah ,T-Shirt,Fashion,North,3.0,887.42,0.1,2396.03,572.87,677.42,Net Banking
+ORD00008,2025-07-14,C0139,Anjali Verma,Yoga Mat,Sports,South,2.0,1212.29,0.05,2303.35,782.84,737.67,UPI
+ORD00009,2025-07-25,C0138,Priya Joshi,Mixer Grinder,Home & Kitchen,South,1.0,3491.11,0.0,3491.11,2881.61,609.5,Net Banking
+ORD00010,2025-11-26,C0235,Rahul Patil,Water Bottle,Home & Kitchen,East,3.0,639.65,0.15,1631.11,454.65,267.16,Debit Card
+ORD00011,2025-10-26,C0205,,Office Chair,Furniture,South,5.0,8599.39,0.2,34397.56,6191.23,3441.41,Debit Card
+ORD00012,2025-03-20,C0322,Rahul Patil,Jacket,Fashion,West,4.0,2807.27,0.0,11229.08,2361.22,1784.2,Net Banking
+ORD00013,2025-10-11,C0006,Priya Joshi,Smartphone,Electronics,Central,4.0,24112.14,0.15,81981.28,18039.55,9823.08,UPI
+ORD00014,2025-01-02,C0135,Anjali Verma,Coffee Maker,Home & Kitchen,South,3.0,3975.6,0.15,10137.78,2561.42,2453.52,Net Banking
+ORD00015,2025-09-17,C0312,Sneha Kulkarni,Water Bottle,Home & Kitchen,South,1.0,777.81,0.1,700.03,649.99,50.04,UPI
+ORD00016,2025-11-03,C0166,Vikas Gupta,Coffee Maker,Home & Kitchen,North,2.0,4553.16,0.2,7285.06,3902.87,-520.68,Credit Card
+ORD00017,2025-05-04,C0291,Priya Joshi,Water Bottle,Home & Kitchen,North,3.0,779.53,0.1,2104.73,519.98,544.79,Cash
+ORD00018,2025-03-07,C0338,Vikas Gupta,Mixer Grinder,Home & Kitchen,Central,1.0,4344.9,0.2,3475.92,3538.63,-62.71,Debit Card
+ORD00019,2025-10-04,C0103,Neha Shah,Desk,Furniture,West,5.0,13340.76,0.15,56698.23,11606.75,-1335.52,UPI
+ORD00020,2025-06-23,C0011,Suresh Pawar,Jeans, furniture,Central,5.0,1773.8,0.05,8425.55,1175.88,2546.15,Debit Card
+ORD00021,2025-01-17,C0170,Priya Joshi,Running Shoes,Sports,Central,2.0,2982.55,0.0,5965.1,1980.72,2003.66,Debit Card
+ORD00022,2025-10-20,C0296,Vikas Gupta,Desk,Furniture,South,4.0,10971.25,0.05,41690.75,8804.85,6471.35,Cash
+ORD00023,2025-07-01,C0217,Pooja Deshmukh,Coffee Maker,Home & Kitchen,West,4.0,4082.05,0.0,16328.2,3202.43,3518.48,Credit Card
+ORD00024,2025-02-25,C0128,Sneha Kulkarni,Yoga Mat,Sports,South,1.0,1041.82,0.1,937.64,858.63,79.01,Net Banking
+ORD00025,2025-02-08,C0227,Anjali Verma,Jeans,Fashion,North,2.0,1757.82,0.1,3164.08,1282.39,599.3,Credit Card
+ORD00026,2025-05-02,C0086,Pooja Deshmukh,Yoga Mat,Sports,West,5.0,1320.97,0.0,6604.85,1135.22,928.75,Cash
+ORD00027,2025-07-19,C0136, Vikas Gupta ,Office Chair,Furniture,East,4.0,9526.23,0.05,36199.67,6726.59,9293.31,Cash
+ORD00028,2025-06-01,C0112,Amit Sharma,Cricket Bat,Sports,Central,5.0,2935.97,0.15,12477.87,1888.84,3033.67,Net Banking
+ORD00029,2025-09-29,C0081,Amit Sharma,Laptop,Electronics,Central,3.0,47693.23,0.2,114463.75,34983.02,9514.69,Credit Card
+ORD00030,2025-05-01,C0207,Priya Joshi,Mixer Grinder,Home & Kitchen,Central,2.0,3308.11,0.0,6616.22,2610.3,1395.62,Debit Card
+ORD00031,2025-10-26,C0290,Anjali Verma,Running Shoes,Sports,East,5.0,3016.73,0.0,15083.65,2164.15,4262.9,UPI
+ORD00032,2025-11-27,C0154,Vikas Gupta,Office Chair,Furniture,East,3.0,7833.65,0.15,19975.81,4987.26,5014.03,Credit Card
+ORD00033,2025-02-07,C0276,Sneha Kulkarni,Laptop,Electronics,Central,4.0,56999.13,0.2,182397.22,50096.93,-17990.5,UPI
+ORD00034,2025-03-22,C0225,Anjali Verma,Headphones,Electronics,East,3.0,2785.65,0.05,7939.1,1959.61,2060.27,Net Banking
+ORD00035,2025-12-06,C0054,Rahul Patil,Coffee Maker,Home & Kitchen,East,5.0,3835.56,0.2,15342.24,2622.86,2227.94,Credit Card
+ORD00036,2025-11-06,C0108,Rohan Mehta,Water Bottle,SPORTS,South,1.0,750.91,0.05,713.36,507.81,205.55,UPI
+ORD00037,2025-08-05,C0142,Amit Sharma,Jacket,Fashion,North,4.0,2961.08,0.0,11844.32,1853.17,4431.64,UPI
+ORD00038,2025-08-15,C0283,Pooja Deshmukh,Coffee Maker,Home & Kitchen,Central,2.0,4685.1,0.1,8433.18,3023.03,2387.12,Credit Card
+ORD00039,2025-07-09,C0299,Anjali Verma,Smartphone,Electronics,South,1.0,28337.88,0.05,26920.99,21331.77,5589.22,Cash
+ORD00040,2025-04-18,C0350,Sneha Kulkarni,Headphones,Electronics,North,1.0,2356.19,0.0,2356.19,2006.76,349.43,UPI
+ORD00041,2025-03-21,C0122,Rahul Patil,Coffee Maker,Home & Kitchen,South,5.0,5018.58,0.15,21328.97,4379.59,-568.98,Cash
+ORD00042,2025-07-30,C0343,Sneha Kulkarni,Laptop,Electronics,East,2.0,58903.31,0.1,106025.96,48245.83,9534.3,Debit Card
+ORD00043,2025-04-24,C0103, Vikas Gupta ,Coffee Maker,Home & Kitchen,East,1.0,4341.43,0.0,4341.43,3648.56,692.87,UPI
+ORD00044,2025-05-23,C0036,Neha Shah,Mixer Grinder,Home & Kitchen,East,2.0,3484.13,0.05,6619.85,2479.2,1661.45,Net Banking
+ORD00045,2025-05-14,C0092,Suresh Pawar,T-Shirt,Fashion,East,5.0,854.41,0.0,4272.05,540.24,1570.85,Credit Card
+ORD00046,2025-09-19,C0060,Pooja Deshmukh,Smartphone,Electronics,Central,5.0,24509.23,0.1,110291.54,17700.33,21789.89,Debit Card
+ORD00047,2025-10-03,C0344,Sneha Kulkarni,Desk,Furniture,East,1.0,12751.63,0.0,12751.63,9507.33,3244.3,Cash
+ORD00048,2025-06-03,C0260,Neha Shah,Smartphone,Electronics,West,3.0,25923.67,0.0,77771.01,20778.63,15435.12,UPI
+ORD00049,2025-07-14,C0347,Rahul Patil,T-Shirt,Fashion,Central,3.0,914.69,0.05,2606.87,656.5,637.37,Net Banking
+ORD00050,2025-04-18,C0221,Suresh Pawar,Desk,Furniture,Central,4.0,12172.57,0.0,48690.28,8339.24,15333.32,UPI
+ORD00051,2025-03-28,C0338,Priya Joshi,Jeans,Fashion,East,4.0,1768.77,0.05,6721.33,1314.42,1463.65,Net Banking
+ORD00052,2025-04-26,C0102,Rahul Patil,Yoga Mat,Sports,North,5.0,1140.67,0.05,5418.18,899.28,921.78,Credit Card
+ORD00053,2025-11-19,C0295,Sneha Kulkarni,Office Chair,Furniture,West,4.0,8783.75,0.0,35135.0,6390.32,9573.72,Cash
+ORD00054,2025-02-24,C0218,Sneha Kulkarni,T-Shirt,Fashion,South,2.0,804.84,0.0,1609.68,684.07,241.54,Net Banking
+ORD00055,2025-08-26,C0342,Anjali Verma,Jeans,Fashion,Central,1.0,1831.0,0.0,1831.0,1332.62,498.38,Net Banking
+ORD00056,2025-10-08,C0229,Rahul Patil,Bookshelf,Furniture,West,4.0,7236.57,0.2,23157.02,5206.62,2330.54,Cash
+ORD00057,2025-09-24,C0249,Sneha Kulkarni,Desk,Furniture,East,2.0,13223.51,0.1,23802.32,10769.59,2263.14,Cash
+ORD00058,2025-10-04,C0042,Rahul Patil,Smartphone,Electronics,South,3.0,23008.7,0.1,62123.49,15864.93,14528.7,Debit Card
+ORD00059,2025-06-19,C0278,Vikas Gupta,T-Shirt,Fashion,West,2.0,955.73,0.0,1911.46,684.46,542.54,Credit Card
+ORD00060,2025-01-11,C0295,Pooja Deshmukh,Office Chair,Furniture,West,4.0,8218.17,0.2,26298.14,7107.87,-2133.34,Credit Card
+ORD00061,2025-10-07,C0309,Sneha Kulkarni,Bookshelf,Furniture,West,3.0,7532.3,0.15,19207.37,5654.51,2243.84,Debit Card
+ORD00062,2025-12-14,C0208,Rahul Patil,Desk,Furniture,West,4.0,11948.31,0.15,40624.25,8293.52,7450.17,Debit Card
+ORD00063,2025-12-06,C0014,Priya Joshi,Running Shoes,Sports,West,5.0,3003.31,0.15,12764.07,2299.72,1265.47,Debit Card
+ORD00064,2025-04-19,C0233,Rohan Mehta,Mixer Grinder,Home & Kitchen,East,4.0,3437.17,0.1,12373.81,2427.15,2665.21,Cash
+ORD00065,2025-10-04,C0027,Rohan Mehta,Desk,Furniture,South,4.0,11108.18,0.0,44432.72,8127.7,11921.92,Credit Card
+ORD00066,2025-01-11,C0319,Rahul Patil,Coffee Maker,Home & Kitchen,South,1.0,4843.21,0.05,4601.05,3176.28,1424.77,
+ORD00067,2025-05-12,C0189,Rahul Patil,Jeans,Fashion,Central,1.0,1834.54,0.05,1742.81,1339.6,403.21,Net Banking
+ORD00068,2025-02-25,C0297,Amit Sharma,Cricket Bat,Sports,East,1.0,3033.35,0.05,2881.68,2639.38,242.3,Net Banking
+ORD00069,2025-12-20,C0322,Sneha Kulkarni,Yoga Mat,Sports,North,4.0,1162.8,0.05,4418.64,722.42,1528.96,UPI
+ORD00070,2025-06-27,C0273,Pooja Deshmukh,Mixer Grinder,Home & Kitchen,East,5.0,4148.3,0.2,16593.2,3398.03,-396.95,Credit Card
+ORD00071,2025-02-24,C0222,Rohan Mehta,Jacket,Fashion,West,3.0,2732.15,0.15,6966.98,2268.37,161.87,Debit Card
+ORD00072,2025-10-03,C0248,Vikas Gupta,T-Shirt,Fashion,West,2.0,963.12,0.1,1733.62,743.97,245.68,Net Banking
+ORD00073,2025-08-19,C0125,Vikas Gupta,Desk,Furniture,Central,3.0,13266.17,0.0,39798.51,8995.79,12811.14,Net Banking
+ORD00074,2025-04-04,C0250,Sneha Kulkarni,Yoga Mat,Sports,East,4.0,1141.1,0.15,3879.74,956.55,53.54,UPI
+ORD00075,2025-09-22,C0098,Priya Joshi,Bookshelf,Furniture,South,3.0,7798.67,0.1,21056.41,5892.84,3377.89,Cash
+ORD00076,2025-09-09,C0230,Amit Sharma,Jeans,Fashion,North,5.0,1939.41,0.15,8242.49,1514.39,670.54,UPI
+ORD00077,2025-07-08,C0243,Anjali Verma,Office Chair,Furniture,Central,4.0,8989.06,0.1,32360.62,7064.58,4102.3,UPI
+ORD00078,2025-05-09,C0119,Priya Joshi,T-Shirt,Fashion,South,5.0,854.31,0.15,3630.82,577.39,743.87,UPI
+ORD00079,2025-09-05,C0142,Suresh Pawar,Smartphone,Electronics,Central,5.0,28381.58,0.05,134812.51,18551.09,42057.06,Net Banking
+ORD00080,2025-04-02,C0155,Amit Sharma,Desk,Furniture,Central,1.0,13197.46,0.1,11877.71,8759.09,3118.62,Debit Card
+ORD00081,2025-03-06,C0327,Vikas Gupta,Desk,Furniture,North,1.0,13707.46,0.2,10965.97,9345.72,1620.25,Credit Card
+ORD00082,2025-01-27,C0130,Vikas Gupta,Running Shoes,Sports,North,3.0,3467.87,0.15,8843.07,2411.55,1608.42,Credit Card
+ORD00083,2025-10-16,C0156,Priya Joshi,T-Shirt,Fashion,South,4.0,785.0,0.0,3140.0,504.35,1122.6,Credit Card
+ORD00084,2025-09-25,C0195,Vikas Gupta,Jacket,Fashion,West,4.0,3302.06,0.2,10566.59,2189.9,1806.99,UPI
+ORD00085,2025-01-31,C0313,Priya Joshi,Mixer Grinder,Home & Kitchen, West ,5.0,4358.64,0.1,19613.88,3309.15,3068.13,Debit Card
+ORD00086,2025-03-22,C0002,Pooja Deshmukh,Desk,Furniture,West,1.0,10765.41,0.05,10227.14,8123.12,2104.02,Net Banking
+ORD00087,2025-12-26,C0233,Priya Joshi,Jeans,Fashion,South,3.0,1547.63,0.1,4178.6,1234.93,473.81,UPI
+ORD00088,2025-10-06,C0116,Rahul Patil,Coffee Maker,Home & Kitchen,East,5.0,4717.6,0.05,22408.6,3392.14,5447.9,Debit Card
+ORD00089,2025-10-19,C0148,Vikas Gupta,Smartphone,Electronics,North,1.0,22494.42,0.1,20244.98,17244.5,3000.48,Cash
+ORD00090,2025-09-10,C0225,Priya Joshi,Cricket Bat,Sports,Central,3.0,2967.78,0.1,8013.01,2196.55,1423.36,Credit Card
+ORD00091,2025-02-16,C0118,Suresh Pawar,Water Bottle,Home & Kitchen,Central,4.0,749.25,0.2,2397.6,502.07,389.32,Credit Card
+ORD00092,2025-11-30,C0227,Neha Shah,Coffee Maker,Home & Kitchen,South,3.0,4602.93,0.05,13118.35,3368.15,3013.9,Net Banking
+ORD00093,2025-06-20,C0165,Priya Joshi,T-Shirt,Fashion ,South,4.0,1026.64,0.15,3490.58,716.01,626.54,UPI
+ORD00094,2025-10-09,C0019,Vikas Gupta,T-Shirt,Fashion,North,4.0,842.82,0.15,2865.59,697.69,74.83,UPI
+ORD00095,2025-01-01,C0337,Anjali Verma,Desk,Furniture,West,3.0,10617.32,0.15,27074.17,8941.64,249.25,Cash
+ORD00096,2025-11-17,C0227,Amit Sharma,Laptop,Electronics,South,2.0,55304.25,0.2,88486.8,44896.22,-1305.64,UPI
+ORD00097,2025-09-06,C0063,Amit Sharma,Jacket,Fashion,Central,2.0,3610.57,0.15,6137.97,3056.84,24.29,Debit Card
+ORD00098,2025-02-17,C0116,Priya Joshi,Cricket Bat,Sports,West,2.0,2641.03,0.0,5282.06,1993.0,1296.06,Credit Card
+ORD00099,2025-05-20,C0213,Vikas Gupta,Yoga Mat,Sports,West,2.0,1199.42,0.1,2158.96,890.55,377.86,Debit Card
+ORD00100,2025-09-18,C0070,Priya Joshi,Jeans,Fashion,East,5.0,1608.11,0.05,7638.52,1379.96,738.72,Cash
+ORD00101,2025-06-02,C0301,Suresh Pawar,Bookshelf,Furniture,West,5.0,6511.06,0.0,32555.3,4422.28,10443.9,Debit Card
+ORD00102,2025-10-06,C0194,Vikas Gupta,Jeans,Fashion,East,5.0,1791.54,0.1,8061.93,1351.78,1303.03,Debit Card
+ORD00103,2025-07-30,C0023,,Cricket Bat,Sports,West,2.0,2860.31,0.05,5434.59,2401.76,631.07,Cash
+ORD00104,2025-10-30,C0170,Priya Joshi,T-Shirt,Fashion,West,2.0,898.74,0.0,1797.48,571.01,655.46,Credit Card
+ORD00105,2025-12-02,C0080,Priya Joshi,Jacket,Fashion,West,4.0,2734.73,0.05,10391.97,1954.77,2572.89,UPI
+ORD00106,2025-12-12,C0274,Pooja Deshmukh,Bookshelf,Furniture,East,5.0,7404.68,0.0,37023.4,6208.78,5979.5,Cash
+ORD00107,2025-12-17,C0148,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,North,5.0,3270.92,0.0,16354.6,2177.57,5466.75,Cash
+ORD00108,2025-01-24,C0167,Amit Sharma,Smartphone,Electronics,East,1.0,24577.59,0.1,22119.83,20963.67,1156.16,UPI
+ORD00109,2025-12-16,C0093,Rahul Patil,Bookshelf,Furniture,South,4.0,6255.7,0.2,20018.24,4475.17,2117.56,Credit Card
+ORD00110,2025-10-26,C0074,Sneha Kulkarni,Running Shoes,Sports,West,4.0,3625.7,0.05,13777.66,2680.65,3055.06,UPI
+ORD00111,2025-12-13,C0280,Rahul Patil,Jeans,Fashion,North,3.0,1890.09,0.15,4819.73,1611.0,-13.27,Cash
+ORD00112,2025-08-22,C0155,Sneha Kulkarni,Bookshelf,Furniture,West,5.0,6578.22,0.15,27957.43,5218.42,1865.33,Cash
+ORD00113,2025-12-25,C0152,Amit Sharma,Smartphone,Electronics,West,2.0,24110.23,0.1,43398.41,18346.62,6705.17,UPI
+ORD00114,2025-09-12,C0147,Sneha Kulkarni,Laptop,Electronics,Central,5.0,61023.61,0.0,305118.05,52173.52,44250.45,UPI
+ORD00115,2025-11-18,C0331,Amit Sharma,Office Chair,Furniture,East,2.0,8808.27,0.05,16735.71,6834.42,3066.87,Cash
+ORD00116,2025-06-01,C0168,Pooja Deshmukh,Laptop,Electronics,South,5.0,52770.21,0.05,250658.5,32993.91,85688.95,Debit Card
+ORD00117,2025-05-20,C0085,Neha Shah,Headphones,Electronics,West,5.0,2782.35,0.1,12520.58,2082.97,2105.73,UPI
+ORD00118,2025-03-14,C0116,Pooja Deshmukh,Cricket Bat,Sports,Central,3.0,3055.56,0.15,7791.68,2657.15,-179.77,UPI
+ORD00119,2025-07-08,C0345,Neha Shah,Smartphone,Electronics,Central,4.0,21354.39,0.2,68334.05,13551.6,14127.65,Cash
+ORD00120,2025-11-14,C0288,Rohan Mehta,Mixer Grinder,Home & Kitchen,Central,3.0,3353.51,0.05,9557.5,2454.81,2193.07,Debit Card
+ORD00121,2025-06-04,C0333,Pooja Deshmukh,Yoga Mat,Sports,North,1.0,1248.75,0.15,1061.44,1067.22,-5.78,Debit Card
+ORD00122,2025-05-01,C0276,Rahul Patil,Laptop,Electronics,West,1.0,51772.02,0.15,44006.22,32746.51,11259.71,Cash
+ORD00123,2025-12-02,C0051,Vikas Gupta,Bookshelf,Furniture,Central,5.0,6830.17,0.05,32443.31,5791.41,3486.26,Cash
+ORD00124,2025-05-01,C0186,Priya Joshi,Desk,Furniture,East,1.0,12685.01,0.05,12050.76,9185.82,2864.94,Net Banking
+ORD00125,2025-03-04,C0233,Priya Joshi,Water Bottle,Home & Kitchen,South,3.0,607.72,0.1,1640.84,396.93,450.05,Net Banking
+ORD00126,2025-10-17,C0106,Priya Joshi,Laptop,Electronics,Central,1.0,59732.11,0.05,56745.5,52377.29,4368.21,Debit Card
+ORD00127,2025-03-17,C0306,Amit Sharma,Running Shoes,Sports,East,2.0,3828.71,0.05,7274.55,2649.45,1975.65,Debit Card
+ORD00128,2025-01-14,C0068,Amit Sharma,Headphones,Electronics,East,5.0,2312.99,0.05,10986.7,1458.99,3691.75,Debit Card
+ORD00129,2025-08-04,C0270,Priya Joshi,Running Shoes,Sports,North,3.0,2991.57,0.1,8077.24,1838.83,2560.75,Cash
+ORD00130,2025-04-24,C0315,Amit Sharma,Jeans,Fashion,Central,3.0,1807.15,0.0,5421.45,1313.01,1482.42,UPI
+ORD00131,2025-08-07,C0056,Vikas Gupta,Jeans,Fashion,West,1.0,1562.85,0.15,1328.42,1308.49,19.93,Credit Card
+ORD00132,2025-05-21,C0320,Suresh Pawar,Water Bottle,Home & Kitchen,Central,1.0,662.64,0.05,629.51,409.77,219.74,UPI
+ORD00133,2025-08-09,C0051,Priya Joshi,T-Shirt,Fashion,Central,5.0,908.25,0.15,3860.06,673.52,492.46,Debit Card
+ORD00134,2025-08-21,C0205,Pooja Deshmukh,T-Shirt,Fashion,North,4.0,1004.78,0.15,3416.25,698.22,623.37,UPI
+ORD00135,2025-12-18,C0243,Priya Joshi,T-Shirt,Fashion,North,3.0,944.58,0.1,2550.37,818.96,93.49,Credit Card
+ORD00136,2025-10-12,C0031,Suresh Pawar,Smartphone,Electronics,Central,4.0,21974.23,0.1,79107.23,18179.18,6390.51,Net Banking
+ORD00137,2025-01-27,C0148,Suresh Pawar,Bookshelf,Furniture,East,1.0,6812.7,0.15,5790.8,5743.55,47.25,UPI
+ORD00138,2025-04-25,C0056,Rohan Mehta,Smartphone,Electronics,Central,5.0,25055.59,0.05,119014.05,19640.73,20810.4,UPI
+ORD00139,2025-11-15,C0315,Anjali Verma,Smartphone,Electronics,North,3.0,25555.75,0.15,65167.16,21381.05,1024.01,Net Banking
+ORD00140,2025-06-08,C0174,Rohan Mehta,Water Bottle,Home & Kitchen,North,3.0,601.08,0.1,1622.92,478.91,186.19,Debit Card
+ORD00141,2025-11-21,C0016,Priya Joshi,Mixer Grinder,Home & Kitchen,Central,2.0,3875.61,0.15,6588.54,2400.88,1786.78,Debit Card
+ORD00142,2025-06-16,C0291,Suresh Pawar,T-Shirt,Fashion,North,4.0,887.48,0.05,3372.42,624.44,874.66,Credit Card
+ORD00143,2025-05-20,C0227, Pooja Deshmukh ,Headphones,Electronics,West,2.0,2690.83,0.0,5381.66,2122.29,1137.08,Net Banking
+ORD00144,2025-08-09,C0057,Neha Shah,Jeans,Fashion,Central,4.0,1677.51,0.2,5368.03,1059.97,1128.15,Cash
+ORD00145,2025-01-29,C0004,Sneha Kulkarni,Jacket,Fashion,East,3.0,2763.6,0.15,7047.18,2419.93,-212.61,Debit Card
+ORD00146,2025-01-04,C0255,Pooja Deshmukh,Coffee Maker,Home & Kitchen,South,2.0,4856.62,0.1,8741.92,3360.17,2021.58,Debit Card
+ORD00147,2025-12-09,C0182,Priya Joshi,T-Shirt,Fashion,West,5.0,954.99,0.2,3819.96,722.4,207.96,Credit Card
+ORD00148,2025-10-22,C0220,Suresh Pawar,T-Shirt,Fashion,West,1.0,889.13,0.0,889.13,748.11,141.02,Cash
+ORD00149,2025-11-13,C0236,Rohan Mehta,Desk,Furniture,North,1.0,11658.12,0.1,10492.31,7555.91,2936.4,Cash
+ORD00150,2025-02-10,C0203,Neha Shah,Mixer Grinder,Home & Kitchen,East,1.0,3507.38,0.2,2805.9,2497.7,308.2,Debit Card
+ORD00151,2025-04-10,C0179,Rohan Mehta,Bookshelf,Furniture,South,2.0,6110.4,0.0,12220.8,4574.06,3072.68,Debit Card
+ORD00152,2025-12-02,C0039,Rahul Patil,Smartphone,Electronics,West,2.0,23169.76,0.05,44022.54,17809.94,8402.66,Cash
+ORD00153,2025-10-17,C0330,Suresh Pawar,Coffee Maker,Home & Kitchen,East,5.0,4850.83,0.15,20616.03,3835.64,1437.83,UPI
+ORD00154,2025-05-21,C0303,Amit Sharma,Headphones,Electronics,East,4.0,2176.21,0.15,7399.11,1690.45,637.31,Net Banking
+ORD00155,2025-05-27,C0040,Priya Joshi,Smartphone,Electronics,Central,3.0,24713.07,0.0,74139.21,15221.5,28474.71,Net Banking
+ORD00156,2025-01-22,C0231,Suresh Pawar,Jacket,Fashion,South,4.0,3164.2,0.2,10125.44,2743.95,-850.36,UPI
+ORD00157,2025-06-25,C0044,Anjali Verma,Running Shoes,Sports,South,4.0,3501.44,0.0,14005.76,2542.56,3835.52,Credit Card
+ORD00158,2025-03-23,C0187,Rohan Mehta,Office Chair,Fashion ,East,4.0,9752.01,0.2,31206.43,7278.6,2092.03,Cash
+ORD00159,2025-11-28,C0172,Priya Joshi,T-Shirt,Fashion,East,3.0,948.3,0.0,2844.9,778.54,509.28,Credit Card
+ORD00160,2025-06-20,C0042,Suresh Pawar,Jacket,Fashion,South,4.0,2992.78,0.2,9576.9,2527.46,-532.94,UPI
+ORD00161,2025-07-12,C0330,Rohan Mehta,Desk,Furniture,South,4.0,10664.23,0.0,42656.92,7322.94,13365.16,Net Banking
+ORD00162,2025-04-03,C0110,Rohan Mehta,Smartphone,Electronics,West,4.0,25063.66,0.0,100254.64,17582.84,29923.28,Debit Card
+ORD00163,2025-02-21,C0260,Anjali Verma,Office Chair,Furniture,Central,2.0,7620.11,0.1,13716.2,6373.76,968.68,Credit Card
+ORD00164,2025-07-12,C0079,Rahul Patil,Yoga Mat,Sports,South,3.0,1335.5,0.2,3205.2,850.3,654.3,Net Banking
+ORD00165,2025-12-13,C0122,Vikas Gupta,Coffee Maker,Home & Kitchen,Central,2.0,4798.6,0.0,9597.2,3431.19,2734.82,UPI
+ORD00166,2025-08-29,C0100,Rohan Mehta,Coffee Maker,Home & Kitchen,Central,4.0,4140.9,0.05,15735.42,2843.35,4362.02,
+ORD00167,2025-03-24,C0103,Suresh Pawar,Jeans,Fashion,South,3.0,1950.19,0.2,4680.46,1458.14,306.04,UPI
+ORD00168,2025-12-31,C0265,Priya Joshi,Laptop,Electronics,East,4.0,61172.93,0.2,195753.38,52706.73,-15073.54,Credit Card
+ORD00169,2025-08-12,C0047,Sneha Kulkarni,Coffee Maker,Home & Kitchen,West,2.0,4193.27,0.2,6709.23,2688.97,1331.29,UPI
+ORD00170,2025-05-01,C0198,Priya Joshi,Water Bottle,Home & Kitchen,East,1.0,682.13,0.15,579.81,505.16,74.65,Debit Card
+ORD00171,2025-03-12,C0020,Neha Shah,Laptop,Electronics,West,3.0,62108.63,0.1,167693.3,51027.62,14610.44,Debit Card
+ORD00172,2025-01-10,C0132,Sneha Kulkarni,Coffee Maker,Home & Kitchen,South,4.0,4430.61,0.0,17722.44,3782.15,2593.84,Net Banking
+ORD00173,2025-05-02,C0155,Priya Joshi,Cricket Bat,Sports,North,5.0,2823.33,0.0,14116.65,2307.59,2578.7,Debit Card
+ORD00174,2025-09-13,C0306,Anjali Verma,T-Shirt,Fashion,North,5.0,888.42,0.0,4442.1,741.18,736.2,Net Banking
+ORD00175,2025-11-11,C0181,Sneha Kulkarni,Running Shoes,Sports,Central,2.0,3729.47,0.1,6713.05,2685.92,1341.21,Cash
+ORD00176,2025-09-27,C0279,Anjali Verma,Headphones,Electronics,Central,1.0,2517.61,0.1,2265.85,1558.28,707.57,Net Banking
+ORD00177,2025-07-11,C0130,,Laptop,Electronics,East,4.0,61159.97,0.0,244639.88,47581.71,54313.04,Credit Card
+ORD00178,2025-06-20,C0069,Amit Sharma,Bookshelf,Furniture,East,2.0,7489.18,0.0,14978.36,6111.32,2755.72,Net Banking
+ORD00179,2025-09-03,C0324,Rahul Patil,Bookshelf,Furniture,South,2.0,7693.81,0.15,13079.48,6729.23,-378.98,Credit Card
+ORD00180,2025-04-13,C0022,Rohan Mehta,Cricket Bat,Sports,East,4.0,2411.07,0.05,9162.07,1476.22,3257.19,Net Banking
+ORD00181,2025-04-08,C0147,Rohan Mehta,T-Shirt,Fashion,North,5.0,892.82,0.0,4464.1,724.01,844.05,UPI
+ORD00182,2025-08-14,C0198,Rohan Mehta,Desk,Furniture,South,1.0,13077.63,0.15,-11115.99,11103.64,12.35,Cash
+ORD00183,2025-02-12,C0218,Priya Joshi,Cricket Bat,Sports,West,4.0,2688.57,0.2,8603.42,1813.93,1347.7,Net Banking
+ORD00184,2025-06-17,C0339,Neha Shah,Mixer Grinder,Home & Kitchen,East,2.0,3851.84,0.1,6933.31,2421.76,2089.79,Cash
+ORD00185,2025-01-22,C0181,Suresh Pawar,Running Shoes,Sports,West,4.0,3149.98,0.15,10709.93,2200.05,1909.73,UPI
+ORD00186,2025-12-14,C0082,Amit Sharma,Yoga Mat,Sports,South,1.0,1047.01,0.15,889.96,734.72,155.24,Net Banking
+ORD00187,2025-11-27,C0188,Rohan Mehta,Yoga Mat,Sports,West,4.0,1032.53,0.0,4130.12,687.75,1379.12,Net Banking
+ORD00188,2025-07-10,C0228,Priya Joshi,Laptop,Electronics,Central,5.0,49281.73,0.15,209447.35,42661.74,-3861.35,Debit Card
+ORD00189,2025-02-28,C0014,Rahul Patil,Jacket,Fashion,West,3.0,3102.11,0.1,8375.7,2078.08,2141.46,Net Banking
+ORD00190,2025-04-20,C0314,Neha Shah,T-Shirt,Fashion,West,5.0,796.8,0.1,3585.6,635.15,409.85,Debit Card
+ORD00191,2025-08-16,C0045,Rohan Mehta,Smartphone,Electronics,East,2.0,27646.2,0.15,46998.54,17924.24,11150.06,Credit Card
+ORD00192,2025-12-31,C0327,Rahul Patil,Jacket,Fashion,East,5.0,2998.75,0.1,13494.38,2514.1,923.88,Net Banking
+ORD00193,2025-09-10,C0014,Rohan Mehta,Office Chair,electronics,Central,1.0,9737.09,0.05,9250.24,6487.69,2762.55,Net Banking
+ORD00194,2025-02-14,C0034, Neha Shah ,Bookshelf,Furniture,West,4.0,7637.69,0.2,24440.61,4860.14,5000.05,Cash
+ORD00195,2025-06-12,C0329,Priya Joshi,Jacket,Fashion,West,4.0,3458.4,0.2,11066.88,2146.46,2481.04,Cash
+ORD00196,2025-04-04,C0067,Pooja Deshmukh,Yoga Mat,Sports,Central,5.0,1144.03,0.2,4576.12,891.36,119.32,Credit Card
+ORD00197,2025-06-15,C0116,Rohan Mehta,Mixer Grinder,Home & Kitchen,Central,1.0,3820.64,0.1,3438.58,2468.53,970.05,UPI
+ORD00198,2025-11-17,C0156,Suresh Pawar,Mixer Grinder,Home & Kitchen,Central,1.0,3515.69,0.2,2812.55,2379.58,432.97,Credit Card
+ORD00199,2025-12-04,C0320,Suresh Pawar,Jacket,Fashion,East,2.0,3288.14,0.2,5261.02,2114.85,1031.32,Net Banking
+ORD00200,2025-04-18,C0293,Pooja Deshmukh,Laptop,Electronics,Central,1.0,48090.18,0.2,38472.14,32417.77,6054.37,Credit Card
+ORD00201,2025-12-17,C0208,Neha Shah,Jeans,Fashion,West,5.0,1686.42,,7588.89,1239.9,1389.39,Credit Card
+ORD00202,2025-04-15,C0175,Suresh Pawar,Cricket Bat,Sports,South,1.0,2512.79,0.15,2135.87,1848.38,287.49,UPI
+ORD00203,2025-03-08,C0190,Anjali Verma,Mixer Grinder,Home & Kitchen,Central,3.0,4066.99,0.1,10980.87,3550.91,328.14,Credit Card
+ORD00204,2025-03-14,C0050,Amit Sharma,Bookshelf,Furniture,East,2.0,6929.59,0.1,12473.26,5030.1,2413.06,Cash
+ORD00205,2025-10-23,C0161,Sneha Kulkarni,Mixer Grinder,ELECTRONICS,South,5.0,3706.67,0.05,17606.68,3068.28,2265.28,Cash
+ORD00206,2025-02-16,C0202,Anjali Verma,Jacket,Fashion,West,4.0,3198.81,0.1,11515.72,2364.76,2056.68,Debit Card
+ORD00207,2025-11-02,C0335,Vikas Gupta,Office Chair,Furniture,East,5.0,8124.88,0.0,40624.4,5515.0,13049.4,Net Banking
+ORD00208,2025-07-26,C0188,Amit Sharma,Laptop,Electronics,West,1.0,53860.31,0.1,48474.28,43287.65,5186.63,Credit Card
+ORD00209,2025-07-17,C0259,Vikas Gupta,Running Shoes,Sports,Central,5.0,3179.39,0.2,12717.56,2164.56,1894.76,UPI
+ORD00210,2025-02-19,C0202,Rohan Mehta,Mixer Grinder,Home & Kitchen,East,5.0,4005.65,0.0,20028.25,2547.7,7289.75,Net Banking
+ORD00211,2025-01-21,C0024,Amit Sharma,Bookshelf,Furniture,South,2.0,6368.02,0.2,10188.83,4536.5,1115.83,UPI
+ORD00212,2025-09-21,C0072,Rohan Mehta,Coffee Maker,Home & Kitchen,Central,4.0,4526.1,0.05,17199.18,3483.98,3263.26,UPI
+ORD00213,2025-09-17,C0261,Anjali Verma,Headphones,Electronics,West,4.0,2867.96,0.1,10324.66,2197.55,1534.46,Net Banking
+ORD00214,2025-02-26,C0214,Suresh Pawar,Desk,Furniture,East,4.0,13136.7,0.1,47292.12,9100.41,10890.48,Credit Card
+ORD00215,2025-01-27,C0299,Vikas Gupta,Running Shoes,Sports,South,4.0,3253.81,0.2,10412.19,2478.55,497.99,Net Banking
+ORD00216,2025-12-15,C0125,Amit Sharma,Yoga Mat,Sports,Central,5.0,1298.86,0.15,5520.15,833.06,1354.85,Credit Card
+ORD00217,2025-12-20,C0105,Pooja Deshmukh,Office Chair,Furniture,Central,1.0,8349.65,0.15,7097.2,5363.82,1733.38,Net Banking
+ORD00218,2025-09-23,C0107,Anjali Verma,Water Bottle,Home & Kitchen,East,4.0,778.29,0.0,3113.16,620.78,630.04,Cash
+ORD00219,2025-09-30,C0176,Anjali Verma,Jacket,Fashion,East,4.0,3021.2,0.05,11480.56,2201.57,2674.28,UPI
+ORD00220,2025-06-02,C0116,Neha Shah,Running Shoes,Sports,East,4.0,3176.88,0.05,12072.14,2154.31,3454.9,Debit Card
+ORD00221,2025-05-21,C0148,Priya Joshi,Cricket Bat,Sports,Central,4.0,2646.31,0.1,9526.72,2003.09,1514.36,Net Banking
+ORD00222,2025-05-28,C0041,Rohan Mehta,T-Shirt,Fashion,north,4.0,985.96,0.05,3746.65,671.76,1059.61,UPI
+ORD00223,2025-10-15,C0140,Rahul Patil,Cricket Bat,Sports,North,4.0,2559.75,0.2,8191.2,1730.18,1270.48,Net Banking
+ORD00224,2025-09-29,C0116,Sneha Kulkarni,Cricket Bat,Sports,North,5.0,2581.0,0.0,12905.0,2032.68,2741.6,Credit Card
+ORD00225,2025-03-12,C0003,Anjali Verma,T-Shirt,electronics,South,3.0,958.69,0.0,2876.07,758.07,601.86,Cash
+ORD00226,2025-05-28,C0165,Neha Shah,Yoga Mat,Sports, West ,4.0,1191.88,0.05,4529.14,967.4,659.54,Credit Card
+ORD00227,2025-03-31,C0214,Rahul Patil,Yoga Mat,Sports,North,5.0,1103.6,0.0,5518.0,944.36,796.2,Cash
+ORD00228,2025-01-05,C0153,Suresh Pawar,Coffee Maker,Home & Kitchen,Central,4.0,4076.52,0.1,14675.47,3446.65,888.87,Credit Card
+ORD00229,2025-03-10,C0259,Vikas Gupta,Water Bottle,Home & Kitchen,East,3.0,654.76,0.2,1571.42,488.98,104.48,Debit Card
+ORD00230,2025-04-06,C0008,Rohan Mehta,Coffee Maker,Home & Kitchen,East,1.0,4271.42,0.15,3630.71,3338.2,292.51,Net Banking
+ORD00231,2025-09-21,C0168,Priya Joshi,Yoga Mat,Sports,West,2.0,1083.18,0.15,1841.41,900.73,39.95,Credit Card
+ORD00232,2025-07-16,C0121,Vikas Gupta,Headphones,Electronics,East,2.0,2483.09,0.05,4717.87,1494.6,1728.67,UPI
+ORD00233,2025-07-04,C0121,Amit Sharma,Desk,Furniture,North,5.0,12802.38,0.0,64011.9,8619.01,20916.85,Cash
+ORD00234,2025-12-27,C0160,Priya Joshi,Desk,Furniture,East,2.0,11659.5,0.2,18655.2,10009.33,-1363.46,UPI
+ORD00235,2025-08-21,C0311,Rohan Mehta,Running Shoes,Sports,West,2.0,3205.09,0.05,6089.67,2352.19,1385.29,Net Banking
+ORD00236,2025-12-15,C0306,Priya Joshi,Water Bottle,Home & Kitchen,Central,4.0,754.04,0.05,2865.35,613.28,412.23,Cash
+ORD00237,2025-10-08,C0259,Sneha Kulkarni,Jacket,Fashion,Central,3.0,2794.98,0.2,6707.95,1764.8,1413.55,Net Banking
+ORD00238,2025-12-15,C0106,Suresh Pawar,Headphones,Electronics,West,2.0,2371.09,0.2,3793.74,1715.99,361.76,Credit Card
+ORD00239,2025-09-20,C0213,Vikas Gupta,Water Bottle,Home & Kitchen,Central,5.0,688.55,0.0,3442.75,500.55,940.0,Credit Card
+ORD00240,2025-07-22,C0131,Amit Sharma,Jacket,Fashion,South,4.0,3365.86,0.1,12117.1,2701.16,1312.46,Net Banking
+ORD00241,2025-01-31,C0036,Vikas Gupta,Smartphone,Electronics,North,1.0,24427.73,0.0,24427.73,18358.07,6069.66,UPI
+ORD00242,2025-07-15,C0230,Pooja Deshmukh,T-Shirt,Fashion,West,2.0,972.62,0.15,1653.45,685.55,282.35,Credit Card
+ORD00243,2025-10-03,C0202,Anjali Verma,Yoga Mat,Sports,South,5.0,1067.88,0.1,4805.46,676.2,1424.46,Debit Card
+ORD00244,2025-10-06,C0218,Anjali Verma,Mixer Grinder,Home & Kitchen,West,1.0,4092.04,0.1,3682.84,2985.72,697.12,Debit Card
+ORD00245,2025-02-27,C0017,Pooja Deshmukh,Office Chair,Furniture,Central,4.0,8107.71,0.1,29187.76,5292.51,8017.72,Credit Card
+ORD00246,2025-11-03,C0345,Amit Sharma,Office Chair,Furniture,South,2.0,7396.59,0.2,11834.54,4507.49,2819.56,Credit Card
+ORD00247,2025-01-29,C0072,Anjali Verma,T-Shirt,Fashion,East,4.0,828.27,0.05,3147.43,671.92,459.75,Debit Card
+ORD00248,2025-06-14,C0122,Neha Shah,Mixer Grinder,Home & Kitchen,South,5.0,3593.55,0.2,14374.2,2933.45,-293.05,Net Banking
+ORD00249,2025-10-30,C0090,Pooja Deshmukh,Office Chair,Furniture,Central,4.0,7991.28,0.0,31965.12,6040.46,7803.28,Cash
+ORD00250,2025-06-13,C0214,Pooja Deshmukh,Laptop,Electronics,South,3.0,62286.18,0.15,158829.76,51076.24,5601.04,UPI
+ORD00251,2025-04-26,C0154,Rahul Patil,T-Shirt,Fashion,West,2.0,968.69,0.15,1646.77,646.57,353.63,Credit Card
+ORD00252,2025-07-18,C0125,Neha Shah,Jacket,Fashion,SOUTH,4.0,3649.07,0.2,11677.02,2730.96,753.18,UPI
+ORD00253,2025-04-08,C0027,Neha Shah,Yoga Mat,Sports,West,1.0,1352.0,0.1,1216.8,846.2,370.6,Net Banking
+ORD00254,2025-10-28,C0344,Anjali Verma,Running Shoes,Sports,South,1.0,3892.3,0.05,3697.68,3212.32,485.36,Cash
+ORD00255,2025-04-08,C0061,Vikas Gupta,Office Chair,Furniture,South,3.0,7998.13,0.0,23994.39,5273.22,8174.73,Net Banking
+ORD00256,2025-05-25,C0195,Vikas Gupta,Cricket Bat,Sports,Central,2.0,2713.17,0.05,5155.02,2047.31,1060.4,UPI
+ORD00257,2025-08-29,C0164,Sneha Kulkarni,Desk,Furniture,East,3.0,11494.72,0.15,29311.54,8396.68,4121.5,UPI
+ORD00258,2025-01-09,C0134,Anjali Verma,T-Shirt,Fashion,Central,1.0,916.88,0.05,871.04,740.43,130.61,Net Banking
+ORD00259,2025-07-14,C0292,Sneha Kulkarni,Cricket Bat,Sports,West,4.0,2627.96,0.05,9986.25,1819.5,2708.25,Net Banking
+ORD00260,2025-11-25,C0252,Vikas Gupta,Yoga Mat,Sports,South,3.0,1112.64,0.15,2837.23,968.69,-68.84,UPI
+ORD00261,2025-10-05,C0329,Amit Sharma,Headphones,Electronics,Central,2.0,2665.24,0.15,4530.91,1736.49,1057.93,Credit Card
+ORD00262,2025-07-31,C0071,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,North,1.0,4307.51,0.0,4307.51,3506.38,801.13,Debit Card
+ORD00263,2025-11-23,C0342,Suresh Pawar,Laptop,Electronics,West,2.0,55094.59,0.1,99170.26,33989.29,31191.68,Cash
+ORD00264,2025-09-29,C0141,Anjali Verma,Laptop,Electronics,East,1.0,55531.51,0.15,47201.78,33503.17,13698.61,Credit Card
+ORD00265,2025-02-19,C0269,Rahul Patil,Jacket,Fashion,South,4.0,3493.92,0.05,13276.9,2201.05,4472.7,Debit Card
+ORD00266,2025-07-23,C0041,Rohan Mehta,Running Shoes,Sports,West,5.0,3240.04,0.1,14580.18,2186.54,3647.48,Cash
+ORD00267,2025-02-11,C0335,Amit Sharma,Running Shoes,Sports,North,2.0,4014.74,0.05,7628.01,2746.05,2135.91,Cash
+ORD00268,2025-12-26,C0088,Priya Joshi,T-Shirt,Fashion,West,4.0,914.23,0.0,3656.92,711.54,810.76,Cash
+ORD00269,2025-01-22,C0118,Sneha Kulkarni,Yoga Mat,Sports,Central,3.0,1223.71,0.0,3671.13,1040.82,548.67,Cash
+ORD00270,2025-10-16,C0337,Amit Sharma,Desk,Furniture,South,1.0,13526.97,0.1,12174.27,11522.37,651.9,UPI
+ORD00271,2025-06-03,C0084,Suresh Pawar,Laptop,Electronics,South,2.0,56436.1,0.15,95941.37,48539.84,-1138.31,Net Banking
+ORD00272,2025-03-13,C0041,Anjali Verma,Mixer Grinder,Home & Kitchen,East,4.0,4001.82,0.2,12805.82,2772.8,1714.62,Credit Card
+ORD00273,2025-11-11,C0305,Pooja Deshmukh,Smartphone,Electronics,East,4.0,22991.08,0.0,91964.32,15987.21,28015.48,Credit Card
+ORD00274,2025-07-02,C0284,Pooja Deshmukh,Yoga Mat,Sports,West,3.0,1302.08,0.15,3320.3,960.11,439.97,Debit Card
+ORD00275,2025-06-01,C0127,Priya Joshi,Yoga Mat,Sports,North,5.0,1257.84,0.0,6289.2,1026.66,1155.9,UPI
+ORD00276,2025-06-12,C0185,Priya Joshi,Headphones,Electronics,North,4.0,2658.76,0.05,10103.29,2145.89,1519.73,Credit Card
+ORD00277,2025-02-14,C0096,Pooja Deshmukh,Desk,Furniture,West,4.0,11495.7,0.1,41384.52,7226.48,12478.6,Net Banking
+ORD00278,2025-10-11,C0048,Suresh Pawar,Jacket,Fashion,Central,,3111.72,0.0,15558.6,1945.12,5833.0,UPI
+ORD00279,2025-02-13,C0287,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,Central,4.0,3244.07,0.15,11029.84,2298.7,1835.04,Net Banking
+ORD00280,2025-09-10,C0075,Priya Joshi,Headphones,Electronics,South,4.0,2252.13,0.1,8107.67,1541.17,1942.99,Cash
+ORD00281,2025-05-07,C0321,Vikas Gupta,Desk,Furniture,Central,4.0,11279.11,0.0,45116.44,7907.95,13484.64,Net Banking
+ORD00282,2025-07-22,C0171,Suresh Pawar,Office Chair,Furniture,West,4.0,7497.78,0.1,26992.01,4512.88,8940.49,UPI
+ORD00283,2025-06-14,C0309,,Jeans,Fashion,West,3.0,1762.53,0.2,4230.07,1124.7,855.97,UPI
+ORD00284,2025-11-21,C0252,Suresh Pawar,Headphones,Electronics,South,4.0,2851.54,0.1,10265.54,2297.67,1074.86,UPI
+ORD00285,2025-10-16,C0103,Suresh Pawar,T-Shirt,Fashion,Central,3.0,985.45,0.15,2512.9,691.99,436.93,Debit Card
+ORD00286,2025-04-18,C0225,Neha Shah,Yoga Mat,Sports,North,,1029.69,0.15,4376.18,889.69,-72.27,Cash
+ORD00287,2025-12-04,C0079,Pooja Deshmukh,Yoga Mat,Sports,West,4.0,1070.1,0.1,3852.36,714.58,994.04,Credit Card
+ORD00288,2025-12-21,C0215,Anjali Verma,Jeans,Fashion,North,5.0,1788.79,0.15,-7602.36,1340.92,897.76,UPI
+ORD00289,2025-05-08,C0337,Rohan Mehta,Cricket Bat,Sports,South,5.0,2878.81,0.0,14394.05,1815.45,5316.8,Net Banking
+ORD00290,2025-06-19,C0221,Priya Joshi,Laptop,Electronics,North,5.0,62979.54,0.15,267663.04,54836.73,-6520.61,Credit Card
+ORD00291,2025-12-19,C0295, Sneha Kulkarni ,Desk,Furniture,West,2.0,12038.43,0.2,19261.49,9103.92,1053.65,UPI
+ORD00292,2025-03-19,C0177,Amit Sharma,T-Shirt,Fashion,West,4.0,973.53,0.2,3115.3,772.32,26.02,Credit Card
+ORD00293,2025-03-14,C0179,,Desk,Furniture,East,4.0,13513.97,0.0,54055.88,8547.58,19865.56,Cash
+ORD00294,2025-08-13,C0232,Rohan Mehta,Coffee Maker,Home & Kitchen,North,2.0,4528.51,0.1,8151.32,3320.87,1509.58,UPI
+ORD00295,2025-12-13,C0085,Sneha Kulkarni,Laptop,Electronics,Central,1.0,47122.65,0.1,42410.39,36823.13,5587.26,Debit Card
+ORD00296,2025-04-29,C0208,Rahul Patil,Jacket,Fashion,South,2.0,3037.75,0.15,5164.18,2637.89,-111.6,Cash
+ORD00297,2025-08-08,C0200,Amit Sharma,T-Shirt,Fashion,South,1.0,964.09,0.05,915.89,699.81,216.08,Debit Card
+ORD00298,2025-06-16,C0101,Vikas Gupta,Desk,Furniture,North,1.0,12278.45,0.2,9822.76,8009.83,1812.93,UPI
+ORD00299,2025-11-09,C0201,Suresh Pawar,Yoga Mat,Sports,North,4.0,1209.98,0.1,4355.93,928.24,642.97,UPI
+ORD00300,2025-10-30,C0044,Rahul Patil,Bookshelf,Furniture,East,4.0,7246.46,0.1,26087.26,6211.89,1239.7,Credit Card
+ORD00301,2025-09-19,C0199,Pooja Deshmukh,Office Chair, furniture,Central,3.0,7523.22,0.1,20312.69,5974.66,2388.71,Debit Card
+ORD00302,2025-12-22,C0331,Rahul Patil,Running Shoes,Sports,Central,4.0,3419.19,0.15,11625.25,2659.93,985.53,Debit Card
+ORD00303,2025-11-14,C0028,Rohan Mehta,Jeans,Fashion,North,3.0,1605.76,0.1,4335.55,1342.02,309.49,Cash
+ORD00304,2025-09-11,C0210,Vikas Gupta,Headphones,Electronics,West,2.0,2736.41,0.2,4378.26,2029.11,320.04,Cash
+ORD00305,2025-04-23,C0150,Amit Sharma,Jeans,Fashion,East,2.0,1574.64,0.0,3149.28,1295.69,557.9,Debit Card
+ORD00306,2025-09-11,C0282,Anjali Verma,Jacket,Fashion,North,3.0,2881.48,0.15,7347.77,2185.26,791.99,Net Banking
+ORD00307,2025-01-22,C0226,Anjali Verma,Smartphone,Electronics,South,3.0,27063.35,0.1,73071.04,20345.47,12034.63,Cash
+ORD00308,2025-06-28,C0045,Vikas Gupta,Smartphone,Electronics,North,2.0,23482.82,0.0,46965.64,17046.77,12872.1,Debit Card
+ORD00309,2025-03-26,C0316,Rahul Patil,Office Chair,Furniture,South,5.0,8982.29,0.2,35929.16,6980.82,1025.06,Debit Card
+ORD00310,2025-10-03,C0087,Rohan Mehta,Coffee Maker,Home & Kitchen,East,1.0,4594.6,0.2,3675.68,3118.37,557.31,UPI
+ORD00311,2025-12-14,C0049,Rahul Patil,Running Shoes,Sports,West,3.0,3975.02,0.2,9540.05,3481.87,-905.56,Credit Card
+ORD00312,2025-12-31,C0165,Sneha Kulkarni,Desk,Furniture,West,2.0,12725.14,0.05,24177.77,8524.69,7128.39,Cash
+ORD00313,2025-02-08,C0325,Priya Joshi,Headphones,Electronics,West,5.0,2599.3,0.15,11047.02,1832.63,1883.87,Net Banking
+ORD00314,2025-09-07,C0168,Suresh Pawar,Cricket Bat,Sports,North,3.0,2963.55,0.1,8001.59,2155.43,1535.3,Credit Card
+ORD00315,2025-10-01,C0204,Sneha Kulkarni,Cricket Bat,Sports,West,4.0,2913.27,0.1,10487.77,2441.41,722.13,Debit Card
+ORD00316,2025-10-23,C0067,Suresh Pawar,Jeans,Fashion,West,3.0,1704.35,0.1,4601.74,1183.79,1050.37,UPI
+ORD00317,2025-03-22,C0226,Vikas Gupta,Water Bottle,Home & Kitchen,North,1.0,604.65,0.15,513.95,365.55,148.4,Cash
+ORD00318,2025-05-21,C0048,,Office Chair,Furniture,East,2.0,9474.48,0.1,17054.06,6106.43,4841.2,Credit Card
+ORD00319,2025-04-30,C0220,Priya Joshi,Bookshelf,Furniture,North,2.0,6058.75,0.1,10905.75,4866.85,1172.05,Credit Card
+ORD00320,2025-12-15,C0228,Amit Sharma,Office Chair,Furniture,North,4.0,7423.74,0.2,23755.97,4924.42,4058.29,UPI
+ORD00321,2025-09-02,C0037,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,West,1.0,4356.5,0.15,3703.03,3460.49,242.54,Credit Card
+ORD00322,2025-03-12,C0196,Rahul Patil,Cricket Bat,Sports,South,1.0,2466.69,0.1,2220.02,2088.49,131.53,Credit Card
+ORD00323,2025-04-20,C0322,Rahul Patil,Jacket,Fashion,West,5.0,2728.14,0.05,12958.66,1973.07,3093.31,Net Banking
+ORD00324,2025-03-13,C0064,Suresh Pawar,Yoga Mat,Sports,West,4.0,1329.59,0.0,5318.36,1131.54,792.2,UPI
+ORD00325,2025-02-13,C0128,Anjali Verma,T-Shirt,Fashion,Central,3.0,978.59,0.05,2788.98,663.04,799.86,Net Banking
+ORD00326,2025-12-04,C0155,Sneha Kulkarni,Cricket Bat,Sports,Central,5.0,2619.33,0.0,13096.65,2193.45,2129.4,Net Banking
+ORD00327,2025-05-03,C0254,Pooja Deshmukh,Jacket,Fashion,North,2.0,3437.93,0.1,6188.27,2684.77,818.73,Debit Card
+ORD00328,2025-06-12,C0068,Pooja Deshmukh,Jeans,Fashion,Central,5.0,1568.35,0.0,7841.75,1374.39,969.8,Cash
+ORD00329,2025-02-07,C0009,Suresh Pawar,Bookshelf,Furniture,North,5.0,7384.18,0.15,31382.76,6403.91,-636.79,Credit Card
+ORD00330,2025-07-23,C0260,Neha Shah,Desk,Furniture,Central,2.0,10343.38,0.0,20686.76,8953.54,2779.68,Cash
+ORD00331,2025-03-20,C0143,Priya Joshi,T-Shirt,Fashion,East,4.0,787.26,0.2,2519.23,590.87,155.75,Credit Card
+ORD00332,2025-07-20,C0301,Priya Joshi,Jacket,Fashion,East,2.0,3655.34,0.05,6945.15,2742.2,1460.75,Cash
+ORD00333,2025-03-01,C0233,Suresh Pawar,Cricket Bat,Sports,Central,2.0,2428.64,0.0,4857.28,2085.95,685.38,Credit Card
+ORD00334,2025-03-25,C0255,Rohan Mehta,Desk,Furniture,Central,2.0,10629.99,0.05,20196.98,8465.94,3265.1,Net Banking
+ORD00335,2025-05-18,C0061,Amit Sharma,Coffee Maker,Home & Kitchen,East,3.0,4050.4,0.05,11543.64,3280.57,1701.93,Cash
+ORD00336,2025-09-12,C0234,Anjali Verma,Desk,Furniture,East,5.0,10429.94,0.2,41719.76,8090.6,1266.76,Credit Card
+ORD00337,2025-02-22,C0294,Priya Joshi,Jeans,Fashion,South,5.0,1620.12,0.05,7695.57,1087.8,2256.57,Net Banking
+ORD00338,2025-08-30,C0187,Pooja Deshmukh,Laptop,Electronics,South,1.0,60918.37,0.0,60918.37,40722.37,20196.0,Debit Card
+ORD00339,2025-05-08,C0214,Rohan Mehta,Water Bottle,Home & Kitchen,East,1.0,711.1,0.15,604.44,471.36,133.08,Credit Card
+ORD00340,2025-09-22,C0024,Pooja Deshmukh,Running Shoes,Sports,North,3.0,3100.37,0.0,9301.11,2015.91,3253.38,Cash
+ORD00341,2025-10-11,C0234,Amit Sharma,Mixer Grinder,Home & Kitchen,East,3.0,4111.82,0.1,11101.91,2843.92,2570.15,Debit Card
+ORD00342,2025-07-08,C0303, Vikas Gupta ,Desk,Furniture,South,5.0,13024.23,0.2,52096.92,8699.19,8600.97,Net Banking
+ORD00343,2025-10-05,C0178,Amit Sharma,Coffee Maker,Fashion ,East,2.0,4028.26,0.15,6848.04,2443.92,1960.2,Credit Card
+ORD00344,2025-09-29,C0122,Pooja Deshmukh,Coffee Maker,Home & Kitchen,West,4.0,4971.16,0.1,17896.18,3127.39,5386.62,Credit Card
+ORD00345,2025-09-24,C0212,Rohan Mehta,Headphones,Electronics,West,3.0,2194.77,0.05,6255.09,1868.28,650.25,Credit Card
+ORD00346,2025-10-18,C0032,Pooja Deshmukh,Running Shoes,Sports,South,1.0,3505.7,0.15,2979.84,2176.87,802.97,Debit Card
+ORD00347,2025-06-17,C0163,Vikas Gupta,Desk,Furniture,East,3.0,13263.29,0.15,33821.39,10560.27,2140.58,Debit Card
+ORD00348,2025-02-24,C0085,Vikas Gupta,Smartphone,Electronics,West,2.0,22270.84,0.2,35633.34,14042.04,7549.26,UPI
+ORD00349,2025-08-26,C0136, Priya Joshi ,T-Shirt,Fashion,North,1.0,909.7,0.05,864.22,660.93,203.29,Debit Card
+ORD00350,2025-06-17,C0076,Priya Joshi,Coffee Maker,Fashion ,South,3.0,4940.62,0.2,11857.49,3020.16,2797.01,UPI
+ORD00351,2025-03-31,C0016, Pooja Deshmukh ,T-Shirt,Fashion,West,5.0,778.22,0.1,3501.99,523.62,883.89,Net Banking
+ORD00352,2025-03-13,C0063,Amit Sharma,Cricket Bat,Sports,North,5.0,2589.88,0.15,11006.99,1627.83,2867.84,Debit Card
+ORD00353,2025-11-27,C0044,Suresh Pawar,Headphones,Electronics,Central,2.0,2742.76,0.1,4936.97,2172.7,591.57,UPI
+ORD00354,2025-11-27,C0228,Rahul Patil,Water Bottle,Home & Kitchen,North,1.0,599.58,0.0,599.58,392.95,206.63,UPI
+ORD00355,2025-10-21,C0222,Pooja Deshmukh,Smartphone,Electronics,West,1.0,28317.1,,28317.1,18322.21,9994.89,Credit Card
+ORD00356,2025-05-21,C0144,Vikas Gupta,T-Shirt,Fashion,South,4.0,811.66,0.05,3084.31,693.42,310.63,Credit Card
+ORD00357,2025-10-09,C0246,Amit Sharma,Running Shoes,Sports,North,5.0,3622.83,0.1,16302.74,2679.77,2903.89,UPI
+ORD00358,2025-10-06,C0010,Pooja Deshmukh,T-Shirt,Fashion,East,2.0,878.19,0.2,1405.1,588.18,228.74,Cash
+ORD00359,2025-07-18,C0139,Rahul Patil,Jacket,Fashion,CENTRAL,4.0,3050.27,0.2,9760.86,2259.24,723.9,UPI
+ORD00360,2025-08-30,C0272,Rohan Mehta,Running Shoes,Sports,Central,2.0,3005.77,0.1,5410.39,1852.77,1704.85,Debit Card
+ORD00361,2025-01-29,C0113,Suresh Pawar,Headphones,Electronics,West,1.0,2310.89,0.05,2195.35,1558.99,636.36,UPI
+ORD00362,2025-12-24,C0184,Suresh Pawar,Water Bottle,Home & Kitchen,North,2.0,631.98,0.2,1011.17,435.46,140.25,UPI
+ORD00363,2025-09-10,C0278,Neha Shah,Running Shoes,Sports,South,5.0,3124.21,0.05,14840.0,2606.45,1807.75,Cash
+ORD00364,2025-09-27,C0245, Amit Sharma ,Laptop,Electronics,East,1.0,47676.77,0.2,38141.42,31527.05,6614.37,Net Banking
+ORD00365,2025-06-15,C0031,Amit Sharma,Office Chair,Furniture,South,2.0,8093.94,0.05,15378.49,6938.6,1501.29,Net Banking
+ORD00366,2025-02-07,C0192,Pooja Deshmukh,Cricket Bat,Sports,Central,2.0,3030.47,0.2,4848.75,2548.59,-248.43,Credit Card
+ORD00367,2025-08-12,C0328,Vikas Gupta,Bookshelf,Furniture,East,3.0,6627.47,0.05,18888.29,5335.5,2881.79,Debit Card
+ORD00368,2025-04-25,C0341,Suresh Pawar,Cricket Bat,Sports,South,5.0,2962.59,0.2,11850.36,2430.38,-301.54,Cash
+ORD00369,2025-10-21,C0201,Suresh Pawar,Desk,Furniture,North,3.0,10658.45,0.0,31975.35,9226.6,4295.55,Debit Card
+ORD00370,2025-10-17,C0054,Vikas Gupta,Running Shoes,Sports,South,3.0,3942.09,0.2,9461.02,2609.07,1633.81,UPI
+ORD00371,2025-02-15,C0344,Rohan Mehta,Cricket Bat,Sports,West,1.0,2579.92,0.1,2321.93,1669.23,652.7,Credit Card
+ORD00372,2025-02-25,C0001,Amit Sharma,Desk,Furniture,West,2.0,11098.35,0.0,22196.7,7748.14,6700.42,Cash
+ORD00373,2025-07-13,C0180,Anjali Verma,Cricket Bat,Sports,West,4.0,3194.05,0.15,10859.77,2357.41,1430.13,Credit Card
+ORD00374,2025-12-18,C0116,Rahul Patil,Mixer Grinder,Home & Kitchen,West,4.0,4129.15,0.2,13213.28,3230.12,292.8,Credit Card
+ORD00375,2025-02-23,C0038,Rohan Mehta,Coffee Maker,Home & Kitchen,South,1.0,4223.13,0.1,3800.82,2842.66,958.16,Cash
+ORD00376,2025-11-11,C0248,Amit Sharma,Headphones,Electronics,West,1.0,2535.28,0.0,2535.28,1761.07,774.21,Debit Card
+ORD00377,2025-04-08,C0210,Anjali Verma,Running Shoes,Sports,Central,4.0,3139.96,0.0,12559.84,2175.07,3859.56,UPI
+ORD00378,2025-10-20,C0282,Vikas Gupta,Yoga Mat,Sports,South,3.0,1127.06,0.0,3381.18,691.9,1305.48,Credit Card
+ORD00379,2025-11-17,C0308,Vikas Gupta,Bookshelf,Furniture,South,1.0,6847.97,0.1,6163.17,5688.55,474.62,Credit Card
+ORD00380,2025-08-31,C0060, Neha Shah ,Laptop,Electronics,West,2.0,49568.73,0.1,89223.71,43302.06,2619.59,Cash
+ORD00381,2025-07-09,C0196,Rohan Mehta,Jeans,Fashion,South,3.0,1579.21,0.2,3790.1,1118.88,433.46,Cash
+ORD00382,2025-05-18,C0289,Amit Sharma,Laptop,Electronics,South,3.0,54005.72,0.1,145815.44,35824.58,38341.7,Credit Card
+ORD00383,2025-10-29,C0117,Anjali Verma,Smartphone,Electronics,North,3.0,27311.35,0.15,69643.94,23809.97,-1785.97,Cash
+ORD00384,2025-09-01,C0294, Sneha Kulkarni ,Mixer Grinder,Home & Kitchen,West,5.0,3707.24,0.2,14828.96,2937.54,141.26,UPI
+ORD00385,2025-09-22,C0293,Suresh Pawar,Smartphone,Electronics,South,4.0,28020.83,0.0,112083.32,20751.9,29075.72,Credit Card
+ORD00386,2025-04-09,C0065,Amit Sharma,Coffee Maker,Home & Kitchen,West,4.0,4058.39,0.05,15421.88,3539.75,1262.88,Credit Card
+ORD00387,2025-05-13,C0164,Priya Joshi,Yoga Mat,Sports,North,4.0,1092.69,0.05,4152.22,910.81,508.98,Cash
+ORD00388,2025-01-07,C0320,Suresh Pawar,Jacket,Fashion,Central,4.0,3249.97,0.1,11699.89,2422.89,2008.33,Cash
+ORD00389,2025-02-21,C0055,Suresh Pawar,Smartphone,Electronics,North,4.0,22372.32,0.2,71591.42,17106.36,3165.98,UPI
+ORD00390,2025-12-02,C0249,Suresh Pawar,Mixer Grinder,Home & Kitchen,Central,5.0,4233.35,0.15,17991.74,2853.1,3726.24,Cash
+ORD00391,2025-12-15,C0206,Amit Sharma,Laptop,Electronics,north,2.0,51294.33,0.05,97459.23,39656.08,18147.07,UPI
+ORD00392,2025-07-10,C0011,Rohan Mehta,Cricket Bat,Sports,East,2.0,2421.4,0.15,4116.38,2077.16,-37.94,UPI
+ORD00393,2025-04-27,C0069,Neha Shah,Desk,Furniture,West,4.0,13289.65,0.0,53158.6,11592.55,6788.4,UPI
+ORD00394,2025-04-19,C0209,Vikas Gupta,Desk,Furniture,Central,4.0,12377.92,0.0,49511.68,8078.1,17199.28,UPI
+ORD00395,2025-12-30,C0260,Pooja Deshmukh,Mixer Grinder,Home & Kitchen,South,1.0,3817.41,0.05,3626.54,2360.58,1265.96,Net Banking
+ORD00396,2025-04-13,C0030,Sneha Kulkarni,Water Bottle,Home & Kitchen,North,5.0,601.08,0.05,2855.13,507.94,315.43,Cash
+ORD00397,2025-08-26,C0259,Pooja Deshmukh,Laptop,Electronics,North,3.0,58376.46,0.1,157616.44,41046.74,34476.22,Credit Card
+ORD00398,2025-08-31,C0301,Anjali Verma,Office Chair,Furniture,East,3.0,8471.41,0.15,21602.1,5504.07,5089.89,UPI
+ORD00399,2025-07-17,C0026,Rahul Patil,Headphones,Electronics,Central,3.0,2686.72,0.0,8060.16,1826.48,2580.72,Debit Card
+ORD00400,2025-07-29,C0263,Amit Sharma,Mixer Grinder,Home & Kitchen,North,2.0,3968.01,0.05,7539.22,2679.77,2179.68,Cash
+ORD00401,2025-04-25,C0130,Suresh Pawar,Water Bottle,Home & Kitchen,East,2.0,730.95,0.2,1169.52,602.48,-35.44,UPI
+ORD00402,2025-08-27,C0155,Anjali Verma,T-Shirt,Fashion,Central,4.0,994.93,0.15,3382.76,667.16,714.12,Cash
+ORD00403,2025-11-01,C0312,Neha Shah,Running Shoes,Sports,East,1.0,2982.71,0.1,2684.44,2258.53,425.91,
+ORD00404,2025-05-22,C0134,Neha Shah,Jeans,Fashion,South,1.0,1711.59,0.1,1540.43,1333.96,206.47,Debit Card
+ORD00405,2025-06-13,C0349,Rahul Patil,Jacket,Fashion,North,2.0,3583.7,0.2,5733.92,2555.71,622.5,Cash
+ORD00406,2025-01-19,C0299,Suresh Pawar,Desk,Furniture,South,3.0,13464.88,0.15,34335.44,9542.79,5707.07,UPI
+ORD00407,2025-12-10,C0184,Anjali Verma,Cricket Bat,Sports,East,2.0,2956.51,0.15,5026.07,2524.35,-22.63,Debit Card
+ORD00408,2025-05-13,C0287,Rahul Patil,Mixer Grinder,Home & Kitchen,East,5.0,3436.49,0.0,17182.45,2514.89,4608.0,Credit Card
+ORD00409,2025-06-19,C0191,Neha Shah,Office Chair,Furniture,Central,,7794.49,0.1,21045.12,5594.36,4262.04,UPI
+ORD00410,2025-11-14,C0037,Vikas Gupta,Jeans,Fashion,South,1.0,1784.09,0.2,1427.27,1360.35,66.92,Net Banking
+ORD00411,2025-03-19,C0071,Sneha Kulkarni,Smartphone,Electronics,East,4.0,25223.79,0.15,85760.89,15516.1,23696.49,Cash
+ORD00412,2025-09-07,C0171,Rahul Patil,Running Shoes,Sports,East,4.0,3125.39,0.05,11876.48,2556.89,1648.92,Credit Card
+ORD00413,2025-03-23,C0251,Priya Joshi,Laptop,Electronics,South,4.0,51263.21,0.05,194800.2,39029.66,38681.56,Net Banking
+ORD00414,2025-01-20,C0274,Sneha Kulkarni,T-Shirt,Fashion,East,4.0,873.92,0.15,2971.33,618.15,498.73,Credit Card
+ORD00415,2025-12-13,C0003,Sneha Kulkarni,Water Bottle,Home & Kitchen,South,3.0,753.94,0.2,1809.46,492.6,331.66,UPI
+ORD00416,2025-03-27,C0034,Amit Sharma,Desk,Furniture,East,2.0,10569.75,0.2,16911.6,8084.04,743.52,UPI
+ORD00417,2025-12-18,C0069, Rohan Mehta ,Jeans,Fashion,West,5.0,1852.04,0.1,8334.18,1336.11,1653.63,UPI
+ORD00418,2025-04-25,C0068,Sneha Kulkarni,Coffee Maker,Home & Kitchen,North,2.0,4047.59,0.15,6880.9,2450.23,1980.44,Net Banking
+ORD00419,2025-11-24,C0131,Anjali Verma,Jacket,Fashion,Central,2.0,2838.24,0.0,5676.48,2001.11,1674.26,Credit Card
+ORD00420,2025-03-01,C0214,Vikas Gupta,Running Shoes,Sports,West,1.0,3670.07,0.0,3670.07,2251.61,1418.46,Credit Card
+ORD00421,2025-12-18,C0323,Amit Sharma,Jacket,Fashion,East,3.0,3175.42,0.05,9049.95,2087.96,2786.07,Cash
+ORD00422,2025-12-25,C0071,Pooja Deshmukh,Yoga Mat,Sports,North,1.0,1258.49,0.1,1132.64,974.55,158.09,Net Banking
+ORD00423,2025-09-12,C0102,Suresh Pawar,Cricket Bat,Sports,South,5.0,2478.9,0.0,12394.5,2032.04,2234.3,UPI
+ORD00424,2025-06-01,C0083,Amit Sharma,Mixer Grinder,Home & Kitchen,Central,5.0,4339.36,0.1,19527.12,3458.31,2235.57,Cash
+ORD00425,2025-01-02,C0007,Priya Joshi,Water Bottle,Home & Kitchen,North,2.0,739.52,0.15,1257.18,512.17,232.84,Net Banking
+ORD00426,2025-02-08,C0052,Neha Shah,Yoga Mat,Sports,South,4.0,1073.69,0.0,4294.76,878.57,780.48,Cash
+ORD00427,2025-01-21,C0149,Rohan Mehta,Desk,Furniture,East,3.0,11871.4,0.0,35614.2,9825.84,6136.68,Cash
+ORD00428,2025-03-12,C0340,Rahul Patil,Cricket Bat,Sports,East,1.0,2459.8,0.0,2459.8,1482.54,977.26,UPI
+ORD00429,2025-02-17,C0191,Rohan Mehta,Water Bottle,Home & Kitchen,South,4.0,795.57,0.1,2864.05,673.03,171.93,Credit Card
+ORD00430,2025-12-20,C0245,Pooja Deshmukh,T-Shirt,Fashion,South,4.0,1024.82,0.1,3689.35,854.7,270.55,Credit Card
+ORD00431,2025-10-30,C0248,Suresh Pawar,Headphones,Electronics,West,1.0,2861.18,0.05,2718.12,1799.8,918.32,Debit Card
+ORD00432,2025-12-17,C0067,Vikas Gupta,Running Shoes,Sports,West,4.0,3793.12,0.2,12137.98,2306.48,2912.06,Credit Card
+ORD00433,2025-06-10,C0007,Anjali Verma,Water Bottle,Home & Kitchen,Central,4.0,687.54,0.0,2750.16,462.89,898.6,Net Banking
+ORD00434,2025-12-05,C0128,Vikas Gupta,Office Chair,Furniture,East,3.0,8548.7,0.2,20516.88,5357.2,4445.28,Cash
+ORD00435,2025-11-26,C0081,Anjali Verma,Headphones,Electronics,West,5.0,2794.05,0.2,11176.2,1719.12,2580.6,Cash
+ORD00436,2025-06-19,C0143,Amit Sharma,Mixer Grinder,Home & Kitchen,Central,2.0,3315.35,0.15,5636.09,2286.85,1062.39,Debit Card
+ORD00437,2025-08-16,C0294,Vikas Gupta,Jacket,Fashion,North,4.0,3107.15,0.05,11807.17,1932.87,4075.69,Cash
+ORD00438,2025-01-10,C0053,Pooja Deshmukh,Jeans,Fashion,West,3.0,1594.1,0.15,4064.95,1289.1,197.65,Credit Card
+ORD00439,2025-11-13,C0327,Neha Shah,Jacket,Fashion,Central,5.0,2720.16,0.0,13600.8,2235.15,2425.05,Net Banking
+ORD00440,2025-04-25,C0233,Rohan Mehta,Office Chair,Furniture,Central,4.0,9648.41,0.1,34734.28,8018.67,2659.6,Net Banking
+ORD00441,2025-02-28,C0050,Sneha Kulkarni,Running Shoes,Sports,North,4.0,3727.49,0.1,13418.96,2983.69,1484.2,UPI
+ORD00442,2025-01-24,C0085,Vikas Gupta,Bookshelf,Furniture,South,3.0,7100.15,0.1,19170.4,5655.89,2202.73,Cash
+ORD00443,2025-07-21,C0111,Vikas Gupta,Smartphone,Electronics,South,3.0,25831.39,0.05,73619.46,16372.16,24502.98,UPI
+ORD00444,2025-08-19,C0235,Suresh Pawar,Smartphone,Electronics,Central,4.0,21598.75,0.2,69116.0,13704.44,14298.24,Debit Card
+ORD00445,2025-08-10,C0300,Vikas Gupta,Jeans,Fashion,Central,1.0,1816.4,0.0,1816.4,1371.21,445.19,Debit Card
+ORD00446,2025-12-03,C0308,Suresh Pawar,Cricket Bat,Sports,East,5.0,2525.87,0.05,11997.88,1588.76,4054.08,Net Banking
+ORD00447,2025-05-08,C0141,Pooja Deshmukh,Water Bottle,Home & Kitchen,East,4.0,682.92,0.2,2185.34,584.89,-154.22,UPI
+ORD00448,2025-09-20,C0154,Anjali Verma,Jeans,Fashion,East,2.0,1604.62,0.2,2567.39,1277.28,12.83,Net Banking
+ORD00449,2025-12-18,C0177,Rahul Patil,Yoga Mat,Sports,South,2.0,1092.32,0.2,1747.71,873.89,-0.07,
+ORD00450,2025-10-26,C0293,Pooja Deshmukh,Jacket,Fashion,Central,3.0,3401.94,0.1,9185.24,2576.76,1454.96,UPI
+ORD00451,2025-07-15,C0075,Amit Sharma,Water Bottle,Home & Kitchen,North,4.0,764.74,0.2,2447.17,481.64,520.61,Debit Card
+ORD00452,2025-02-01,C0152,Sneha Kulkarni,Desk,Furniture,Central,2.0,13740.72,0.1,24733.3,8807.8,7117.7,Credit Card
+ORD00453,2025-11-28,C0288,Pooja Deshmukh,Bookshelf,Furniture,South,4.0,6165.21,0.2,19728.67,5192.07,-1039.61,Net Banking
+ORD00454,2025-07-18,C0214,Rohan Mehta,Coffee Maker,Home & Kitchen,Central,3.0,4760.46,0.0,14281.38,4091.21,2007.75,Credit Card
+ORD00455,2025-11-21,C0332,Rohan Mehta,Laptop,Electronics,Central,3.0,50100.94,0.15,127757.4,41703.79,2646.03,Net Banking
+ORD00456,2025-04-01,C0350,Priya Joshi,Cricket Bat,Sports,South,5.0,2545.03,0.05,12088.89,1736.65,3405.64,Debit Card
+ORD00457,2025-10-12,C0136,Rahul Patil,Cricket Bat,Sports,South,5.0,2480.26,0.0,12401.3,1785.74,3472.6,Net Banking
+ORD00458,2025-03-21,C0021,Rahul Patil,Mixer Grinder,Home & Kitchen,East,3.0,3236.44,0.15,8252.92,2584.99,497.95,Net Banking
+ORD00459,2025-10-21,C0282,Rohan Mehta,Laptop,Electronics,North,5.0,60661.81,0.1,272978.15,44729.24,49331.95,UPI
+ORD00460,2025-09-16,C0082,Pooja Deshmukh,Jacket,Fashion,Central,2.0,3638.71,0.2,5821.94,2252.69,1316.56,Net Banking
+ORD00461,2025-06-19,C0185,Neha Shah,T-Shirt,Fashion,South,1.0,859.34,0.05,816.37,675.21,141.16,Net Banking
+ORD00462,2025-06-27,C0229,Sneha Kulkarni,Jacket,Fashion,Central,4.0,3676.77,0.0,14707.08,2324.17,5410.4,Net Banking
+ORD00463,2025-02-28,C0198,Neha Shah,Office Chair,Furniture,Central,1.0,8965.51,0.1,8068.96,6336.68,1732.28,UPI
+ORD00464,2025-09-18,C0229,Vikas Gupta,Laptop,Electronics,North,5.0,60314.8,0.1,271416.6,44874.61,47043.55,UPI
+ORD00465,2025-03-27,C0276,Anjali Verma,Water Bottle,Home & Kitchen,North,2.0,662.27,0.0,1324.54,573.19,178.16,Credit Card
+ORD00466,2025-04-16,C0276,Pooja Deshmukh,Office Chair,Furniture,North,2.0,9430.62,0.15,16032.05,7865.01,302.03,Debit Card
+ORD00467,2025-01-28,C0092,Neha Shah,Laptop,Electronics,Central,4.0,58578.33,0.0,234313.32,36582.51,87983.28,Credit Card
+ORD00468,2025-11-19,C0208,Pooja Deshmukh,Running Shoes, furniture,East,2.0,3931.54,0.15,6683.62,2786.08,1111.46,Credit Card
+ORD00469,2025-10-27,C0024,Priya Joshi,T-Shirt,Fashion,East,1.0,909.41,0.2,727.53,561.75,165.78,Net Banking
+ORD00470,2025-05-25,C0225,Pooja Deshmukh,Smartphone,Electronics,West,3.0,27151.69,0.1,73309.56,20902.41,10602.33,Credit Card
+ORD00471,2025-10-07,C0152,Rahul Patil,Jeans,Fashion,East,2.0,1818.07,0.05,3454.33,1470.98,512.37,UPI
+ORD00472,2025-01-03,C0294,Suresh Pawar,Laptop,Electronics,West,5.0,61183.65,0.05,290622.34,38821.38,96515.44,Net Banking
+ORD00473,2025-11-27,C0263,Rahul Patil,Jacket,Fashion,South,1.0,3012.5,0.1,2711.25,1986.1,725.15,Debit Card
+ORD00474,2025-12-10,C0291,Amit Sharma,Office Chair,Furniture,Central,5.0,9353.61,0.05,44429.65,5912.36,14867.85,Cash
+ORD00475,2025-04-12,C0298,Vikas Gupta,Yoga Mat,Sports,East,5.0,1046.33,0.0,5231.65,701.24,1725.45,UPI
+ORD00476,2025-04-10,C0163,Vikas Gupta,Headphones,Electronics,West,2.0,2200.03,0.2,3520.05,1363.02,794.01,UPI
+ORD00477,2025-07-06,C0162,Pooja Deshmukh,Running Shoes,Sports,South,3.0,3703.13,0.05,10553.92,2808.29,2129.05,Credit Card
+ORD00478,2025-07-04,C0069,Rohan Mehta,Bookshelf,Furniture,West,2.0,7599.89,0.15,12919.81,5148.7,2622.41,Cash
+ORD00479,2025-03-31,C0331,Suresh Pawar,Jeans,Fashion,North,3.0,1948.37,0.15,4968.34,1469.98,558.4,UPI
+ORD00480,2025-11-17,C0040,Priya Joshi,Mixer Grinder,Home & Kitchen,North,2.0,4246.08,0.05,8067.55,2860.61,2346.33,Net Banking
+ORD00481,2025-10-30,C0109,Amit Sharma,Yoga Mat,Sports,Central,1.0,1312.55,0.2,1050.04,936.42,113.62,UPI
+ORD00482,2025-04-25,C0302,Neha Shah,Jacket,Fashion,South,5.0,3173.22,0.05,15072.79,2228.96,3927.99,Cash
+ORD00483,2025-12-06,C0123,Suresh Pawar,Jacket,Fashion,South,5.0,2806.93,0.1,12631.18,2078.83,2237.03,Net Banking
+ORD00484,2025-12-04,C0075,Vikas Gupta,Headphones,Electronics,East,4.0,2244.42,0.2,7182.14,1942.86,-589.3,Credit Card
+ORD00485,2025-01-22,C0343,Sneha Kulkarni,Office Chair,Furniture,Central,4.0,7815.96,0.1,28137.46,5498.07,6145.18,UPI
+ORD00486,2025-11-29,C0166,Priya Joshi,T-Shirt,Fashion,Central,4.0,1012.83,0.0,4051.32,619.01,1575.28,UPI
+ORD00487,2025-12-01,C0194,Rohan Mehta,Mixer Grinder,Home & Kitchen,Central,3.0,3889.64,0.2,9335.14,2523.12,1765.78,Credit Card
+ORD00488,2025-06-30,C0177,Vikas Gupta,Jacket,Fashion,West,3.0,3081.28,0.05,8781.65,2294.27,1898.84,Net Banking
+ORD00489,2025-02-09,C0264, Neha Shah ,Laptop,Electronics,South,5.0,61303.57,0.15,260540.17,39624.77,62416.32,Debit Card
+ORD00490,2025-08-01,C0170,Priya Joshi,Headphones,Electronics,West,2.0,2396.67,0.0,4793.34,1881.65,1030.04,Cash
+ORD00491,2025-01-23,C0066,Suresh Pawar,Jeans,Fashion,Central,2.0,1849.03,0.15,3143.35,1121.04,901.27,Debit Card
+ORD00492,2025-03-27,C0133,Rahul Patil,Headphones,Electronics,Central,5.0,2154.39,0.2,8617.56,1381.23,1711.41,Cash
+ORD00493,2025-04-21,C0230,Suresh Pawar,Running Shoes,Sports,West,5.0,3644.5,0.1,16400.25,3153.33,633.6,Cash
+ORD00494,2025-10-26,C0094,Suresh Pawar,Headphones,Electronics,Central,2.0,2747.77,0.2,4396.43,1758.46,879.51,UPI
+ORD00495,2025-04-28,C0194,Pooja Deshmukh,Headphones,Electronics,South,3.0,2816.76,0.2,6760.22,2155.85,292.67,Credit Card
+ORD00496,2025-03-18,C0311,Priya Joshi,Laptop,Electronics,South,2.0,55374.74,0.2,88599.58,43835.92,927.74,Cash
+ORD00497,2025-03-02,C0048,Vikas Gupta,Water Bottle,Home & Kitchen,South,5.0,720.96,0.2,-2883.84,534.18,212.94,Net Banking
+ORD00498,2025-07-09,C0023,Anjali Verma,Jacket,Fashion,West,1.0,3581.09,0.15,3043.93,2672.11,371.82,Debit Card
+ORD00499,2025-12-23,C0295,Priya Joshi,Coffee Maker,Home & Kitchen,West,4.0,4890.9,0.15,16629.06,3414.56,2970.82,Debit Card
+ORD00500,2025-10-06,C0210,Neha Shah,Desk,Furniture,South,4.0,12957.09,0.0,51828.36,8801.94,16620.6,Credit Card
+ORD00501,2025-07-12,C0336,Sneha Kulkarni,Cricket Bat,Sports,East,1.0,2865.51,0.0,2865.51,2136.33,729.18,Cash
+ORD00502,2025-10-02,C0217,Suresh Pawar,Bookshelf,Furniture,East,1.0,6275.04,0.2,5020.03,4210.66,809.37,Net Banking
+ORD00503,2025-10-13,C0248,Rahul Patil,Desk,Furniture,East,4.0,12917.9,0.15,43920.86,9747.71,4930.02,Net Banking
+ORD00504,2025-12-28,C0204,Rahul Patil,Jacket,Fashion,North,4.0,2963.63,0.1,10669.07,2257.52,1638.99,Debit Card
+ORD00505,2025-06-23,C0282,Suresh Pawar,Jeans,Fashion,North,2.0,1584.15,0.2,2534.64,1128.16,278.32,Debit Card
+ORD00506,2025-11-04,C0223,Priya Joshi,T-Shirt,Fashion,North,1.0,982.18,0.05,933.07,719.02,214.05,UPI
+ORD00507,2025-07-25,C0315,Anjali Verma,Office Chair,SPORTS,East,3.0,7429.1,0.0,22287.3,5964.52,4393.74,Net Banking
+ORD00508,2025-12-03,C0266,Neha Shah,Laptop,Electronics,South,2.0,57314.81,0.15,97435.18,34560.77,28313.64,Credit Card
+ORD00509,2025-12-12,C0019,Rohan Mehta,Coffee Maker,Home & Kitchen,South,5.0,4514.24,0.05,21442.64,3486.14,4011.94,Credit Card
+ORD00510,2025-07-22,C0208,Suresh Pawar,Headphones,Electronics,South,1.0,2872.61,0.15,2441.72,2007.6,434.12,
+ORD00511,2025-10-14,C0299,Rohan Mehta,Laptop,Electronics,East,1.0,61916.43,0.2,49533.14,42082.01,7451.13,UPI
+ORD00512,2025-10-22,C0003,Neha Shah,Office Chair,Furniture,South,5.0,9680.8,0.15,41143.4,8328.58,-499.5,Cash
+ORD00513,2025-03-01,C0263,Neha Shah,Jacket,Fashion,Central,,3256.29,0.2,2605.03,2222.06,382.97,Net Banking
+ORD00514,2025-05-05,C0174,Vikas Gupta,Desk,Furniture,West,4.0,13677.8,0.2,43768.96,10058.88,3533.44,Net Banking
+ORD00515,2025-11-21,C0113,,Mixer Grinder,Home & Kitchen,East,1.0,3779.45,0.1,3401.51,2339.16,1062.35,Cash
+ORD00516,2025-02-17,C0205,Rohan Mehta,Bookshelf,Furniture,North,5.0,7074.87,0.1,31836.92,4736.71,8153.37,Net Banking
+ORD00517,2025-10-21,C0138,Rahul Patil,Water Bottle,Home & Kitchen,South,2.0,695.08,0.1,1251.14,459.59,331.96,Cash
+ORD00518,2025-04-16,C0118,Sneha Kulkarni,Cricket Bat,Sports,South,2.0,2577.28,0.05,4896.83,2176.17,544.49,Net Banking
+ORD00519,2025-12-13,C0340,Vikas Gupta,Bookshelf,Furniture,Central,2.0,7585.77,0.0,15171.54,6505.96,2159.62,Credit Card
+ORD00520,2025-06-11,C0253,Suresh Pawar,Coffee Maker,Home & Kitchen,East,5.0,5118.29,0.15,21752.73,3602.94,3738.03,Cash
+ORD00521,2025-03-07,C0028,Anjali Verma,Headphones,Electronics,West,5.0,2335.2,0.05,11092.2,1891.62,1634.1,Cash
+ORD00522,2025-03-31,C0235,Priya Joshi,Jacket,Fashion,Central,1.0,3202.38,0.15,2722.02,2692.92,29.1,Cash
+ORD00523,2025-02-21,C0167,Rohan Mehta,Bookshelf,Furniture,Central,1.0,5974.82,0.05,5676.08,4219.66,1456.42,UPI
+ORD00524,2025-11-10,C0176,Rohan Mehta,Headphones,Electronics,South,5.0,2322.14,0.1,10449.63,1699.75,1950.88,Cash
+ORD00525,2025-07-25,C0144,Vikas Gupta,T-Shirt,Fashion,South,2.0,878.16,0.1,1580.69,616.66,347.37,Net Banking
+ORD00526,2025-05-01,C0285,Pooja Deshmukh,Headphones,Electronics,West,5.0,2639.51,0.0,13197.55,2116.43,2615.4,Debit Card
+ORD00527,2025-09-13,C0069,Anjali Verma,Headphones,Electronics,Central,2.0,2479.74,0.0,4959.48,1610.47,1738.54,UPI
+ORD00528,2025-01-25,C0204,Priya Joshi,Coffee Maker, furniture,South,4.0,4230.05,0.2,13536.16,3554.85,-683.24,Credit Card
+ORD00529,2025-06-21,C0134,Rohan Mehta,Office Chair,Furniture,East,3.0,8440.18,0.0,25320.54,6127.23,6938.85,Net Banking
+ORD00530,2025-12-14,C0311,Sneha Kulkarni,Jacket,Fashion,Central,3.0,3050.37,0.15,7778.44,1933.77,1977.13,Net Banking
+ORD00531,2025-12-11,C0262,Vikas Gupta,Yoga Mat,Sports,West,5.0,1082.83,0.1,4872.73,757.36,1085.93,Credit Card
+ORD00532,2025-11-24,C0173,Pooja Deshmukh,T-Shirt,Fashion,Central,5.0,842.36,0.05,4001.21,710.2,450.21,Net Banking
+ORD00533,2025-06-12,C0335,Neha Shah,T-Shirt,Fashion,East,1.0,786.36,0.1,707.72,522.07,185.65,Net Banking
+ORD00534,2025-07-05,C0301,Anjali Verma,Yoga Mat,Sports,West,4.0,1117.65,0.15,3800.01,914.99,140.05,Cash
+ORD00535,2025-12-05,C0129,Priya Joshi,Headphones,Electronics,South,2.0,2765.66,0.05,5254.75,2222.97,808.81,Debit Card
+ORD00536,2025-01-14,C0204,Anjali Verma,T-Shirt,Fashion,North,1.0,790.8,,672.18,595.92,76.26,Credit Card
+ORD00537,2025-05-07,C0146,Vikas Gupta,Desk,Furniture,South,5.0,10758.99,0.15,45725.71,7387.38,8788.81,Debit Card
+ORD00538,2025-06-16,C0244,Vikas Gupta,Jacket,Fashion,Central,2.0,2747.43,0.1,4945.37,2310.32,324.73,UPI
+ORD00539,2025-11-02,C0234,Suresh Pawar,Jacket,Fashion,West,4.0,2849.71,0.2,9119.07,1851.09,1714.71,Net Banking
+ORD00540,2025-04-27,C0046,Vikas Gupta,Yoga Mat,Sports,East,5.0,1131.48,0.1,5091.66,831.48,934.26,UPI
+ORD00541,2025-03-11,C0177,Neha Shah,T-Shirt, furniture,West,3.0,807.04,0.0,2421.12,484.24,968.4,Net Banking
+ORD00542,2025-08-09,C0150,Suresh Pawar,Laptop,Electronics,South,4.0,62374.8,0.15,212074.32,42657.56,41444.08,Credit Card
+ORD00543,2025-05-08,C0084,Pooja Deshmukh,Jacket,Fashion,West,3.0,2901.03,0.2,6962.47,2095.67,675.46,Debit Card
+ORD00544,2025-11-10,C0140,Neha Shah,Desk,Furniture, West ,1.0,11720.06,0.05,11134.06,8727.35,2406.71,UPI
+ORD00545,2025-02-26,C0327,Vikas Gupta,T-Shirt,Fashion,Central,2.0,995.44,0.05,1891.34,635.34,620.66,Cash
+ORD00546,2025-01-26,C0274,Amit Sharma,Desk,Furniture,South,5.0,11971.19,0.1,53870.36,7247.73,17631.71,Credit Card
+ORD00547,2025-04-30,C0047,Rahul Patil,Desk,Furniture,North,3.0,10650.14,0.15,27157.86,8558.35,1482.81,Cash
+ORD00548,2025-08-26,C0017,Rohan Mehta,Office Chair,Furniture,North,3.0,8296.62,0.15,21156.38,7296.29,-732.49,Debit Card
+ORD00549,2025-04-03,C0099,Neha Shah,Laptop,Electronics,West,3.0,59548.27,0.0,178644.81,44785.88,44287.17,Credit Card
+ORD00550,2025-01-18,C0102,Vikas Gupta,Smartphone,Electronics,North,2.0,24135.98,0.15,41031.17,16151.93,8727.31,Net Banking
+ORD00551,2025-03-23,C0323,Amit Sharma,Yoga Mat,Sports,Central,2.0,1190.22,0.1,2142.4,1026.14,90.12,Net Banking
+ORD00552,2025-01-27,C0342,Sneha Kulkarni,Smartphone,Electronics,North,3.0,24859.22,0.1,67119.89,16298.76,18223.61,Debit Card
+ORD00553,2025-10-27,C0062,Pooja Deshmukh,Yoga Mat,Sports,South,4.0,1136.82,0.05,4319.92,934.95,580.12,Credit Card
+ORD00554,2025-03-21,C0191,Priya Joshi,Laptop,Electronics,South,5.0,59677.34,0.15,253628.69,47309.44,17081.49,Debit Card
+ORD00555,2025-11-17,C0031,,Jeans,Fashion,East,1.0,1900.41,0.1,1710.37,1635.56,74.81,Debit Card
+ORD00556,2025-06-12,C0286,Rohan Mehta,Cricket Bat,Sports,West,5.0,3044.83,0.05,14462.94,2242.81,3248.89,Debit Card
+ORD00557,2025-01-21,C0249,Vikas Gupta,Laptop,Electronics,Central,4.0,52659.76,0.05,200107.09,35292.31,58937.85,UPI
+ORD00558,2025-06-15,C0240,Neha Shah,Jacket,Fashion,Central,4.0,2902.18,0.05,11028.28,2183.06,2296.04,Net Banking
+ORD00559,2025-05-15,C0278,Rohan Mehta,Headphones,Electronics,West,1.0,2523.35,0.15,2144.85,1722.91,421.94,Credit Card
+ORD00560,2025-11-14,C0187,Suresh Pawar,Coffee Maker,Home & Kitchen,South,5.0,4336.71,0.05,20599.37,3674.15,2228.62,UPI
+ORD00561,2025-04-08,C0269,Vikas Gupta,Cricket Bat,Sports,east,1.0,2932.96,0.2,2346.37,2432.4,-86.03,Debit Card
+ORD00562,2025-09-25,C0338,Priya Joshi,Running Shoes,Sports,North,3.0,3313.73,0.1,8947.07,2090.73,2674.88,Debit Card
+ORD00563,2025-01-17,C0293,Pooja Deshmukh,Headphones,Electronics,West,1.0,2276.56,0.15,1935.08,1488.08,447.0,Net Banking
+ORD00564,2025-02-06,C0007,Sneha Kulkarni,Running Shoes,Sports,West,5.0,3243.74,0.1,14596.83,2146.71,3863.28,Credit Card
+ORD00565,2025-12-29,C0030,Suresh Pawar,Jeans,Fashion,East,1.0,1724.9,0.15,1466.16,1431.96,34.2,Net Banking
+ORD00566,2025-09-23,C0050,Priya Joshi,Laptop,Electronics,east,1.0,60518.53,0.0,60518.53,52317.6,8200.93,Net Banking
+ORD00567,2025-04-02,C0286,Anjali Verma,T-Shirt,Fashion,West,2.0,817.14,0.05,1552.57,620.71,311.15,Credit Card
+ORD00568,2025-08-07,C0054,Rahul Patil,Coffee Maker,Home & Kitchen,South,5.0,4308.25,0.15,18310.06,3432.44,1147.86,Net Banking
+ORD00569,2025-11-04,C0227,Rohan Mehta,T-Shirt,Fashion,East,5.0,856.13,0.05,4066.62,641.66,858.32,Net Banking
+ORD00570,2025-06-15,C0312,Sneha Kulkarni,Bookshelf,Furniture,Central,3.0,6815.92,0.15,17380.6,5666.23,381.91,Net Banking
+ORD00571,2025-08-20,C0230,Pooja Deshmukh,Office Chair,Furniture,North,4.0,9177.56,0.1,33039.22,6431.66,7312.58,Credit Card
+ORD00572,2025-06-04,C0004,Neha Shah,Desk,Furniture,South,5.0,10258.69,0.05,48728.78,9008.72,3685.18,Debit Card
+ORD00573,2025-09-19,C0285,Suresh Pawar,Mixer Grinder,Home & Kitchen,Central,3.0,3254.74,0.1,8787.8,2790.46,416.42,Debit Card
+ORD00574,2025-07-07,C0299,Sneha Kulkarni,Smartphone,Electronics,South,1.0,24702.77,0.05,23467.63,15779.0,7688.63,UPI
+ORD00575,2025-04-22,C0040,Rohan Mehta,Coffee Maker,Home & Kitchen,West,3.0,3949.07,0.15,10070.13,2998.68,1074.09,Debit Card
+ORD00576,2025-06-03,C0020,Suresh Pawar,Jeans,Fashion,West,5.0,1972.54,0.0,9862.7,1512.28,2301.3,Credit Card
+ORD00577,2025-08-11,C0214,Priya Joshi,Coffee Maker,Home & Kitchen,South,1.0,5069.53,0.1,4562.58,3535.59,1026.99,Net Banking
+ORD00578,2025-09-26,C0022,Rohan Mehta,Water Bottle,Home & Kitchen,Central,1.0,728.12,0.15,618.9,447.91,170.99,Net Banking
+ORD00579,2025-12-11,C0202,Vikas Gupta,Headphones,Electronics,Central,3.0,2501.8,0.05,7130.13,1608.4,2304.93,Net Banking
+ORD00580,2025-03-17,C0068,Rohan Mehta,Jacket,Fashion,North,1.0,2933.2,0.1,2639.88,2405.76,234.12,Cash
+ORD00581,2025-09-14,C0223,,Running Shoes,Sports,South,1.0,3550.56,0.1,3195.5,2214.92,980.58,Cash
+ORD00582,2025-11-12,C0269,Sneha Kulkarni,Jacket,Fashion,South,2.0,3188.35,0.2,5101.36,2088.08,925.2,Credit Card
+ORD00583,2025-12-10,C0212,Pooja Deshmukh,Desk,Furniture,East,4.0,11364.28,0.2,36365.7,7103.66,7951.06,UPI
+ORD00584,2025-03-28,C0180,Suresh Pawar,Office Chair,Furniture,West,3.0,8103.54,0.0,24310.62,6608.52,4485.06,Net Banking
+ORD00585,2025-07-11,C0080,Priya Joshi,Headphones,Electronics,North,4.0,2158.66,0.05,8202.91,1415.89,2539.35,Credit Card
+ORD00586,2025-12-22,C0057,Neha Shah,Office Chair,Furniture,West,5.0,9588.16,0.1,43146.72,5789.77,14197.87,Cash
+ORD00587,2025-10-07,C0268,Neha Shah,Laptop,Electronics,Central,3.0,50198.66,0.2,120476.78,33097.24,21185.06,Cash
+ORD00588,2025-12-06,C0270,Amit Sharma,Running Shoes,Sports,East,2.0,3704.82,0.0,7409.64,2613.56,2182.52,Debit Card
+ORD00589,2025-08-27,C0336,Amit Sharma,Laptop,Electronics,North,3.0,50061.48,0.2,120147.55,33839.5,18629.05,Cash
+ORD00590,2025-01-10,C0150, Pooja Deshmukh ,Yoga Mat,Sports,South,3.0,1258.67,0.1,3398.41,1059.8,219.01,Cash
+ORD00591,2025-09-30,C0046,Rahul Patil,Jacket,Fashion,east,1.0,3587.72,0.15,3049.56,3023.36,26.2,Net Banking
+ORD00592,2025-09-29,C0157,Rohan Mehta,Jeans,Fashion,West,5.0,2030.23,0.0,10151.15,1240.74,3947.45,Cash
+ORD00593,2025-06-04,C0121,Anjali Verma,Cricket Bat,Sports,East,2.0,2395.43,0.1,4311.77,1675.62,960.53,Credit Card
+ORD00594,2025-05-24,C0116,Rahul Patil,Yoga Mat,Sports,East,3.0,1336.32,0.0,4008.96,1155.06,543.78,Cash
+ORD00595,2025-12-14,C0314,Sneha Kulkarni,Yoga Mat,Sports,West,2.0,1051.61,0.15,1787.74,784.29,219.16,Debit Card
+ORD00596,2025-06-18,C0230,Anjali Verma,Running Shoes,ELECTRONICS,South,2.0,3422.79,0.1,6161.02,2925.55,309.92,
+ORD00597,2025-06-08,C0269,Rahul Patil,Yoga Mat,Sports,West,2.0,1229.17,0.05,2335.42,1034.38,266.66,Debit Card
+ORD00598,2025-09-30,C0061,Rahul Patil,Yoga Mat,Sports,East,5.0,1350.16,0.1,6075.72,835.73,1897.07,Debit Card
+ORD00599,2025-06-05,C0227,Neha Shah,Cricket Bat,Sports,South,1.0,3022.97,0.15,2569.52,2627.37,-57.85,Debit Card
+ORD00600,2025-11-07,C0291,Suresh Pawar,Smartphone,Electronics,South,2.0,22635.6,0.2,36216.96,17491.55,1233.86,Net Banking
+ORD00601,2025-09-02,C0069,Anjali Verma,Office Chair,Furniture,Central,2.0,8977.81,0.1,16160.06,5586.47,4987.12,Cash
+ORD00602,2025-03-12,C0084,Sneha Kulkarni,Cricket Bat,Sports,South,3.0,2534.54,0.15,6463.08,1869.49,854.61,Credit Card
+ORD00603,2025-12-10,C0104,Sneha Kulkarni,T-Shirt,Fashion,North,1.0,1014.87,0.15,862.64,672.16,190.48,Debit Card
+ORD00604,2025-08-23,C0127,Pooja Deshmukh,Water Bottle,Home & Kitchen,West,4.0,777.1,0.15,2642.14,615.93,178.42,Credit Card
+ORD00605,2025-10-20,C0305,Anjali Verma,Running Shoes,Sports,Central,4.0,3731.21,0.15,12686.11,2877.59,1175.75,Credit Card
+ORD00606,2025-05-06,C0266,Anjali Verma,Jacket,Fashion,West,1.0,3153.55,0.0,3153.55,2667.2,486.35,Credit Card
+ORD00607,2025-08-14,C0204,Neha Shah,Jacket,Fashion,East,4.0,3215.48,0.0,12861.92,2100.22,4461.04,Cash
+ORD00608,2025-03-14,C0238,Vikas Gupta,Headphones,Electronics,North,4.0,2345.81,0.0,9383.24,1860.67,1940.56,Net Banking
+ORD00609,2025-07-31,C0166,Vikas Gupta,Smartphone,Electronics,North,2.0,27090.48,0.2,43344.77,17280.63,8783.51,Debit Card
+ORD00610,2025-02-16,C0129,Rohan Mehta,Jeans,Fashion,South,5.0,2014.17,0.05,9567.31,1706.23,1036.16,Credit Card
+ORD00611,2025-12-29,C0197,Anjali Verma,Smartphone,Electronics,Central,1.0,26546.7,0.1,23892.03,16562.11,7329.92,Debit Card
+ORD00612,2025-10-17,C0338,Rahul Patil,T-Shirt,Fashion,South,5.0,867.76,0.05,4121.86,742.31,410.31,Debit Card
+ORD00613,2025-08-17,C0148,Rahul Patil,Headphones,Electronics,North,1.0,2439.69,0.1,2195.72,1962.6,233.12,Debit Card
+ORD00614,2025-09-12,C0256,Anjali Verma,Office Chair,Furniture,North,1.0,8812.53,0.1,7931.28,5317.64,2613.64,Net Banking
+ORD00615,2025-08-21,C0210,Vikas Gupta,Water Bottle,Home & Kitchen,North,4.0,644.95,0.2,2063.84,506.06,39.6,Net Banking
+ORD00616,2025-11-18,C0286,Sneha Kulkarni,Running Shoes,Sports,North,1.0,3231.95,0.2,2585.56,2190.85,394.71,Debit Card
+ORD00617,2025-01-17,C0342,Suresh Pawar,Headphones,Electronics,Central,,2614.96,0.0,2614.96,1675.42,939.54,UPI
+ORD00618,2025-03-24,C0345,Neha Shah,Bookshelf,Furniture,Central,1.0,6052.97,0.15,5145.02,5316.0,-170.98,Net Banking
+ORD00619,2025-07-04,C0019,Priya Joshi,Running Shoes,Sports,East,5.0,3161.29,,13435.48,2560.06,635.18,UPI
+ORD00620,2025-02-03,C0150,Vikas Gupta,Bookshelf,Furniture,South,4.0,7672.56,0.15,-26086.7,6415.23,425.78,Credit Card
+ORD00621,2025-12-23,C0108,Suresh Pawar,Cricket Bat,Sports,North,3.0,2656.54,0.15,6774.18,1984.17,821.67,Credit Card
+ORD00622,2025-11-06,C0148,Pooja Deshmukh,Running Shoes,Sports,Central,5.0,4011.55,0.15,17049.09,3220.23,947.94,UPI
+ORD00623,2025-03-08,C0315,Suresh Pawar,Desk,Furniture,West,5.0,12270.51,0.2,49082.04,8578.06,6191.74,Net Banking
+ORD00624,2025-04-30,C0149,Sneha Kulkarni,Cricket Bat,SPORTS,North,4.0,2793.7,0.05,10616.06,2367.45,1146.26,Credit Card
+ORD00625,2025-04-17,C0316,Pooja Deshmukh,Laptop,Electronics,West,,57070.1,0.0,228280.4,46026.53,44174.28,Credit Card
+ORD00626,2025-04-14,C0145, Neha Shah ,Bookshelf,Furniture,North,3.0,7126.87,0.05,20311.58,4298.67,7415.57,UPI
+ORD00627,2025-06-20,C0175,Pooja Deshmukh,Desk,Furniture,Central,5.0,12179.98,0.0,60899.9,7696.22,22418.8,Net Banking
+ORD00628,2025-09-03,C0243,Amit Sharma,Laptop,Electronics,South,2.0,49951.26,0.1,89912.27,42870.09,4172.09,Cash
+ORD00629,2025-08-25,C0212,Amit Sharma,Headphones,Electronics,Central,4.0,2794.04,0.2,8940.93,2377.34,-568.43,UPI
+ORD00630,2025-12-17,C0170,Rohan Mehta,Running Shoes,Sports,North,3.0,3557.94,0.0,10673.82,2342.24,3647.1,Debit Card
+ORD00631,2025-03-26,C0293,Suresh Pawar,Desk,Furniture,West,1.0,11420.95,0.15,9707.81,8856.07,851.74,Debit Card
+ORD00632,2025-06-11,C0017,Neha Shah,Running Shoes,Sports,West,1.0,3882.82,0.1,3494.54,3096.45,398.09,Credit Card
+ORD00633,2025-06-04,C0090,Priya Joshi,Jeans,Fashion,East,2.0,1730.66,0.1,3115.19,1143.13,828.93,Credit Card
+ORD00634,2025-09-05,C0257,Rahul Patil,Coffee Maker,Home & Kitchen, West ,2.0,5058.03,0.15,8598.65,3751.43,1095.79,UPI
+ORD00635,2025-06-17,C0074,Priya Joshi,Water Bottle,Home & Kitchen,Central,4.0,748.81,0.2,2396.19,514.36,338.75,Debit Card
+ORD00636,2025-06-09,C0023,Suresh Pawar,Office Chair,Furniture,North,1.0,8396.39,0.2,6717.11,5310.16,1406.95,UPI
+ORD00637,2025-06-09,C0328,Sneha Kulkarni,Jeans,Fashion,East,1.0,1585.68,,1427.11,961.39,465.72,Debit Card
+ORD00638,2025-12-10,C0061,Neha Shah,Office Chair,Furniture,South,3.0,7930.46,0.1,21412.24,6474.27,1989.43,Debit Card
+ORD00639,2025-02-22,C0106,Anjali Verma,Desk,Furniture,East,1.0,10254.92,0.2,8203.94,7759.85,444.09,Net Banking
+ORD00640,2025-03-29,C0037,Neha Shah,Bookshelf,Furniture,Central,3.0,6247.27,0.1,16867.63,4752.57,2609.92,UPI
+ORD00641,2025-12-12,C0026,Priya Joshi,Jacket,Fashion,West,4.0,2768.7,0.0,11074.8,2026.15,2970.2,Credit Card
+ORD00642,2025-11-19,C0229,Suresh Pawar,Smartphone,Electronics,East,4.0,24189.38,0.2,77406.02,20550.26,-4795.02,UPI
+ORD00643,2025-08-27,C0291,Rahul Patil,Bookshelf,Furniture,North,2.0,7447.09,0.2,11915.34,4632.04,2651.26,Cash
+ORD00644,2025-04-25,C0074,Suresh Pawar,Smartphone,Electronics,East,4.0,23577.94,0.15,80165.0,17253.22,11152.12,UPI
+ORD00645,2025-06-16,C0233,Vikas Gupta,T-Shirt,Fashion,North,2.0,953.9,0.1,1717.02,783.02,150.98,Credit Card
+ORD00646,2025-05-25,C0179, Suresh Pawar ,Jeans,Fashion,Central,1.0,1719.78,0.15,1461.81,1439.14,22.67,Debit Card
+ORD00647,2025-11-29,C0037,Neha Shah,Jacket,Fashion,Central,1.0,3109.46,0.0,3109.46,2149.39,960.07,Cash
+ORD00648,2025-03-23,C0247,Pooja Deshmukh,T-Shirt,Fashion,North,5.0,876.63,0.2,3506.52,585.79,577.57,UPI
+ORD00649,2025-06-25,C0279,Sneha Kulkarni,Office Chair,Furniture,South,5.0,8324.43,0.15,35378.83,6316.74,3795.13,Credit Card
+ORD00650,2025-08-26,C0167,Anjali Verma,Cricket Bat,Sports,North,5.0,3082.87,0.0,15414.35,2360.88,3609.95,Cash
+ORD00651,2025-12-17,C0306,Pooja Deshmukh,Headphones,Electronics,East,3.0,2841.91,0.0,8525.73,2181.2,1982.13,Cash
+ORD00652,2025-11-22,C0001,Rahul Patil,Yoga Mat,Sports,South,1.0,1052.59,0.05,999.96,893.05,106.91,Cash
+ORD00653,2025-04-16,C0349,Rohan Mehta,Jacket,Fashion,East,3.0,3094.38,0.2,7426.51,2244.06,694.33,Net Banking
+ORD00654,2025-06-26,C0046,Suresh Pawar,Coffee Maker,Home & Kitchen,North,3.0,5064.98,0.15,12915.7,4056.96,744.82,Net Banking
+ORD00655,2025-10-09,C0028,Amit Sharma,Jacket,Fashion,Central,4.0,3533.73,0.1,12721.43,2181.99,3993.47,UPI
+ORD00656,2025-10-30,C0202,Rohan Mehta,Smartphone,Electronics,West,3.0,27742.6,0.05,79066.41,19999.09,19069.14,Cash
+ORD00657,2025-04-07,C0285,Pooja Deshmukh,T-Shirt,Fashion,East,4.0,912.18,0.05,3466.28,668.6,791.88,Cash
+ORD00658,2025-02-06,C0332,Amit Sharma,Headphones,Electronics,South,3.0,2873.09,0.05,8188.31,1831.88,2692.67,Cash
+ORD00659,2025-11-25,C0213,Vikas Gupta,Yoga Mat,Sports,Central,4.0,1370.99,0.05,5209.76,855.09,1789.4,Cash
+ORD00660,2025-08-19,C0197,Rohan Mehta,Running Shoes,Sports,South,2.0,3452.11,0.15,5868.59,2604.87,658.85,Debit Card
+ORD00661,2025-05-02,C0257,Neha Shah,T-Shirt,Fashion,West,5.0,767.01,,3259.79,642.07,49.44,Net Banking
+ORD00662,2025-12-27,C0189,Priya Joshi,Running Shoes,Sports,Central,3.0,3010.13,0.0,9030.39,2284.94,2175.57,Cash
+ORD00663,2025-05-24,C0239,Anjali Verma,Cricket Bat,Sports,North,1.0,2499.35,0.2,1999.48,2187.94,-188.46,Net Banking
+ORD00664,2025-12-06,C0343,Priya Joshi,Water Bottle,Home & Kitchen,Central,5.0,613.57,0.15,2607.67,476.49,225.22,Net Banking
+ORD00665,2025-01-06,C0241,Vikas Gupta,Desk,Furniture,Central,5.0,10389.99,0.1,46754.96,7790.51,7802.41,Cash
+ORD00666,2025-01-19,C0306,Neha Shah,Running Shoes,Sports,Central,3.0,3417.07,0.1,9226.09,2326.95,2245.24,UPI
+ORD00667,2025-05-30,C0320,Amit Sharma,Laptop,Electronics,East,4.0,56289.33,0.2,180125.86,34587.18,41777.14,Cash
+ORD00668,2025-11-12,C0144,Neha Shah,Smartphone,Electronics,East,2.0,25041.97,0.1,45075.55,16792.5,11490.55,Credit Card
+ORD00669,2025-12-04,C0229,Rohan Mehta,Cricket Bat,Sports,South,1.0,2887.21,0.2,2309.77,2329.72,-19.95,UPI
+ORD00670,2025-06-25,C0044,Rahul Patil,Coffee Maker,Home & Kitchen,Central,2.0,4479.64,0.2,7167.42,3769.01,-370.6,Debit Card
+ORD00671,2025-05-02,C0339,Vikas Gupta,Mixer Grinder,Home & Kitchen,South,4.0,4088.15,0.15,13899.71,3334.72,560.83,Debit Card
+ORD00672,2025-03-01,C0027,Rahul Patil,Running Shoes,Sports,West,3.0,3032.04,0.1,8186.51,2460.61,804.68,Cash
+ORD00673,2025-12-16,C0200,Vikas Gupta,Jeans,Fashion,East,3.0,1787.18,0.2,4289.23,1189.23,721.54,Debit Card
+ORD00674,2025-06-11,C0272,Amit Sharma,Jacket,Fashion,North,4.0,2731.39,0.15,9286.73,1930.99,1562.77,Net Banking
+ORD00675,2025-11-30,C0140,Rohan Mehta,Yoga Mat,Sports,East,3.0,1364.23,0.15,3478.79,1051.73,323.6,UPI
+ORD00676,2025-12-12,C0124,Suresh Pawar,Coffee Maker,Home & Kitchen,South,1.0,4169.71,0.2,3335.77,2958.51,377.26,Net Banking
+ORD00677,2025-02-04,C0007,Pooja Deshmukh,Bookshelf,Furniture,North,2.0,6607.87,0.0,13215.74,5209.54,2796.66,Net Banking
+ORD00678,2025-01-18,C0013,Suresh Pawar,Smartphone,Electronics,North,4.0,23886.37,0.1,85990.93,16016.55,21924.73,Credit Card
+ORD00679,2025-03-03,C0045,Suresh Pawar,Running Shoes,Sports,CENTRAL,2.0,3973.01,0.0,7946.02,3171.5,1603.02,Cash
+ORD00680,2025-12-23,C0095,Neha Shah,Yoga Mat,Sports,East,5.0,1309.15,0.05,6218.46,1113.93,648.81,Cash
+ORD00681,2025-12-21,C0342, Rohan Mehta ,Yoga Mat,Sports,East,1.0,1249.96,0.1,1124.96,1019.24,105.72,Debit Card
+ORD00682,2025-06-20,C0031,Neha Shah,Coffee Maker,Home & Kitchen,East,1.0,4199.34,0.0,4199.34,2969.7,1229.64,Debit Card
+ORD00683,2025-04-02,C0331,Vikas Gupta,Jeans,Fashion,North,1.0,1795.53,0.05,1705.75,1384.15,321.6,Debit Card
+ORD00684,2025-05-13,C0053,Amit Sharma,Jacket,Fashion,North,4.0,2929.65,0.0,11718.6,2506.41,1692.96,Credit Card
+ORD00685,2025-03-18,C0335, Amit Sharma ,Running Shoes,Sports,North,3.0,3791.1,0.0,11373.3,3226.32,1694.34,Cash
+ORD00686,2025-09-21,C0252,Vikas Gupta,Desk,Furniture,West,2.0,12720.2,0.15,21624.34,9678.79,2266.76,Cash
+ORD00687,2025-12-19,C0247,Priya Joshi,Mixer Grinder,Home & Kitchen,Central,1.0,3845.75,0.0,3845.75,2721.4,1124.35,Net Banking
+ORD00688,2025-11-20,C0332,Priya Joshi,Water Bottle, furniture,East,3.0,665.02,0.1,1795.55,473.61,374.72,Net Banking
+ORD00689,2025-05-29,C0332,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,South,3.0,3321.72,0.15,8470.39,2700.32,369.43,Net Banking
+ORD00690,2025-02-24,C0323,Rohan Mehta,Laptop,Electronics,West,4.0,57652.11,0.1,207547.6,45824.61,24249.16,Credit Card
+ORD00691,2025-01-13,C0304,Sneha Kulkarni,Water Bottle,Home & Kitchen,West,4.0,749.42,0.05,2847.8,457.14,1019.24,Cash
+ORD00692,2025-08-19,C0009,Amit Sharma,Smartphone,Electronics,East,5.0,26075.56,0.15,110821.13,19543.72,13102.53,Credit Card
+ORD00693,2025-12-08,C0268,Vikas Gupta,Bookshelf,Furniture,Central,1.0,6801.57,0.05,6461.49,5618.02,843.47,Debit Card
+ORD00694,2025-03-14,C0251,Amit Sharma,Cricket Bat,Sports,West,5.0,2575.71,0.0,12878.55,1572.02,5018.45,Net Banking
+ORD00695,2025-11-20,C0026,Neha Shah,Laptop,Electronics,North,2.0,58321.4,0.05,110810.66,35227.42,40355.82,Cash
+ORD00696,2025-02-24,C0059,Vikas Gupta,Running Shoes,Sports,Central,2.0,3852.12,0.0,7704.24,3193.35,1317.54,Net Banking
+ORD00697,2025-12-14,C0206,Rohan Mehta,Office Chair,Furniture,North,1.0,9276.36,0.15,7884.91,6442.02,1442.89,Net Banking
+ORD00698,2025-10-31,C0089,Rohan Mehta,Jacket,Fashion,North,2.0,3028.73,0.05,5754.59,2465.34,823.91,Credit Card
+ORD00699,2025-10-11,C0085,Vikas Gupta,Desk,Furniture,South,2.0,12927.18,0.05,24561.64,10276.63,4008.38,Net Banking
+ORD00700,2025-03-22,C0009,Vikas Gupta,Laptop,Electronics,North,2.0,48399.47,0.2,77439.15,34136.95,9165.25,Credit Card
+ORD00701,2025-08-02,C0244,Rahul Patil,Laptop,Electronics,South,2.0,62031.26,0.2,99250.02,52623.37,-5996.72,Debit Card
+ORD00702,2025-03-31,C0313,Amit Sharma,Yoga Mat,Sports,Central,3.0,1208.31,0.15,3081.19,805.93,663.4,Debit Card
+ORD00703,2025-06-04,C0179,Pooja Deshmukh,Cricket Bat,Sports,North,4.0,2894.12,0.0,11576.48,2244.72,2597.6,Net Banking
+ORD00704,2025-11-13,C0186,Anjali Verma,Office Chair,Furniture,north,2.0,7524.64,0.2,12039.42,6572.79,-1106.16,Debit Card
+ORD00705,2025-03-18,C0243,Vikas Gupta,Jeans,Fashion,South,2.0,1679.27,0.05,3190.61,1060.54,1069.53,Debit Card
+ORD00706,2025-08-11,C0129,Rohan Mehta,Yoga Mat,Sports,Central,1.0,1039.45,0.1,935.51,706.64,228.87,Cash
+ORD00707,2025-01-15,C0249,Anjali Verma,Laptop,Electronics,North,1.0,58966.88,0.2,47173.5,38284.16,8889.34,Credit Card
+ORD00708,2025-08-03,C0102,Rohan Mehta,Water Bottle,Home & Kitchen,South,2.0,746.49,0.2,1194.38,569.07,56.24,Credit Card
+ORD00709,2025-07-12,C0113,Priya Joshi,Bookshelf,Furniture,West,2.0,6155.93,0.15,10465.08,5192.95,79.18,Net Banking
+ORD00710,2025-11-09,C0233,Rahul Patil,Jeans,Fashion,West,1.0,2010.86,0.05,1910.32,1328.23,582.09,UPI
+ORD00711,2025-04-14,C0172,Rahul Patil,Headphones,Electronics,north,4.0,2664.87,0.1,9593.53,2326.85,286.13,Net Banking
+ORD00712,2025-03-29,C0176, Sneha Kulkarni ,Laptop,Electronics,East,3.0,49002.27,0.15,124955.79,35693.36,17875.71,Net Banking
+ORD00713,2025-04-28,C0045,Pooja Deshmukh,Headphones,Electronics,Central,5.0,2804.18,0.2,11216.72,2444.23,-1004.43,Cash
+ORD00714,2025-08-08,C0127,Sneha Kulkarni,Mixer Grinder,Home & Kitchen,East,2.0,3904.4,0.15,6637.48,2647.84,1341.8,Cash
+ORD00715,2025-10-21,C0003,Pooja Deshmukh,Running Shoes,Sports,CENTRAL,2.0,3911.41,0.2,6258.26,3383.18,-508.1,Credit Card
+ORD00716,2025-12-23,C0051,Vikas Gupta,Jeans,Fashion,West,5.0,1548.16,0.2,6192.64,1099.83,693.49,Debit Card
+ORD00717,2025-03-09,C0184,Neha Shah,Smartphone,Electronics,South,5.0,26898.09,0.15,114316.88,23293.25,-2149.37,Credit Card
+ORD00718,2025-10-20,C0299,,Laptop,Electronics,West,4.0,57789.09,0.05,219598.54,46053.59,35384.18,Cash
+ORD00719,2025-07-09,C0321,Vikas Gupta,Coffee Maker,electronics,North,2.0,5005.17,0.15,8508.79,3262.29,1984.21,Credit Card
+ORD00720,2025-05-19,C0314,Anjali Verma,T-Shirt,Fashion,Central,3.0,908.35,0.1,2452.55,653.33,492.56,Debit Card
+ORD00721,2025-01-29,C0264,Rohan Mehta,Coffee Maker,Home & Kitchen,North,1.0,4662.61,0.1,4196.35,3758.12,438.23,Credit Card
+ORD00722,2025-03-31,C0332,,T-Shirt,electronics,North,3.0,890.65,0.0,2671.95,625.56,795.27,Net Banking
+ORD00723,2025-02-28,C0333,Vikas Gupta,Cricket Bat,Sports,Central,2.0,2496.26,0.1,4493.27,1664.55,1164.17,Debit Card
+ORD00724,2025-08-05,C0142,Amit Sharma,Coffee Maker,Home & Kitchen,North,2.0,4257.63,0.1,7663.73,3154.9,1353.93,UPI
+ORD00725,2025-08-29,C0273,Anjali Verma,Bookshelf,Furniture,East,4.0,6971.08,0.2,22307.46,5801.87,-900.02,Cash
+ORD00726,2025-08-23,C0045,Priya Joshi,Running Shoes,Sports,West,-2.0,3814.9,0.0,11444.7,2490.13,3974.31,Debit Card
+ORD00727,2025-03-17,C0255,Rahul Patil,Desk,Furniture,South,1.0,10593.71,0.1,9534.34,6688.52,2845.82,
+ORD00728,2025-08-31,C0178,Pooja Deshmukh,Yoga Mat,Sports,West,1.0,1125.54,0.2,900.43,968.96,-68.53,Credit Card
+ORD00729,2025-09-24,C0331,Rohan Mehta,Desk,Furniture,West,2.0,10426.62,0.05,19810.58,8693.56,2423.46,Net Banking
+ORD00730,2025-08-16,C0235,Neha Shah,Bookshelf,Furniture,Central,3.0,6970.91,0.2,16730.18,5825.83,-747.31,Debit Card
+ORD00731,2025-07-10,C0148,Amit Sharma,Water Bottle,Home & Kitchen,South,3.0,631.06,0.1,1703.86,418.71,447.73,UPI
+ORD00732,2025-12-31,C0275,Neha Shah,Desk,Furniture,South,4.0,13642.37,0.2,43655.58,11715.48,-3206.34,Debit Card
+ORD00733,2025-12-06,C0295,Rahul Patil,Mixer Grinder,Home & Kitchen,West,2.0,3413.83,0.0,6827.66,2087.63,2652.4,UPI
+ORD00734,2025-06-26,C0076,Rohan Mehta,Bookshelf,Furniture,West,2.0,6380.83,0.0,12761.66,5017.6,2726.46,Net Banking
+ORD00735,2025-09-13,C0075,Vikas Gupta,Headphones,Electronics,East,5.0,2351.17,0.0,11755.85,1677.04,3370.65,Debit Card
+ORD00736,2025-06-01,C0243,Neha Shah,Laptop,Electronics,Central,5.0,62847.42,0.1,282813.39,49098.18,37322.49,Debit Card
+ORD00737,2025-02-27,C0246,Amit Sharma,Coffee Maker,Home & Kitchen,South,5.0,4808.53,0.15,20436.25,3341.12,3730.65,Net Banking
+ORD00738,2025-08-17,C0183,Priya Joshi,Smartphone,Electronics,East,3.0,21435.97,0.2,51446.33,17908.59,-2279.44,Credit Card
+ORD00739,2025-05-23,C0101,Amit Sharma,Running Shoes,Sports,North,2.0,3587.6,0.05,6816.44,2937.38,941.68,Net Banking
+ORD00740,2025-07-21,C0100,Vikas Gupta,Mixer Grinder,Home & Kitchen,East,4.0,4001.85,0.0,16007.4,3494.56,2029.16,Net Banking
+ORD00741,2025-08-07,C0190,Pooja Deshmukh,Running Shoes,Sports,East,5.0,3965.57,0.1,17845.07,2820.77,3741.22,Credit Card
+ORD00742,2025-02-14,C0111,Vikas Gupta,Desk,Furniture,West,3.0,11464.88,0.15,29235.44,9685.58,178.7,Cash
+ORD00743,2025-08-01,C0072,Suresh Pawar,Desk,Furniture,Central,2.0,13100.42,0.15,22270.71,10532.86,1204.99,Credit Card
+ORD00744,2025-02-03,C0303,Pooja Deshmukh,Headphones,Electronics,North,2.0,2352.42,0.2,3763.87,2061.33,-358.79,Credit Card
+ORD00745,2025-10-18,C0071,Sneha Kulkarni,T-Shirt,Fashion,South,3.0,876.92,0.2,2104.61,639.62,185.75,Cash
+ORD00746,2025-06-05,C0253,Anjali Verma,Desk,Furniture,West,5.0,11966.11,0.1,53847.5,9975.95,3967.75,Debit Card
+ORD00747,2025-11-22,C0242,Priya Joshi,Laptop,Electronics,East,1.0,49291.4,0.1,44362.26,42769.53,1592.73,Cash
+ORD00748,2025-05-22,C0253,Priya Joshi,Headphones,Electronics,Central,4.0,2805.09,0.05,10659.34,1705.39,3837.78,UPI
+ORD00749,2025-09-01,C0062,Rohan Mehta,Running Shoes,Sports,Central,4.0,3568.85,0.1,12847.86,2768.85,1772.46,Net Banking
+ORD00750,2025-08-25,C0070,Rohan Mehta,Laptop,Electronics,South,3.0,49436.98,0.0,148310.94,31685.07,53255.73,Credit Card
+ORD00751,2025-05-30,C0272,Priya Joshi,Desk,Furniture,Central,3.0,11710.25,0.1,31617.67,7185.88,10060.03,Debit Card
+ORD00752,2025-10-06,C0166,Rohan Mehta,Coffee Maker,Home & Kitchen,East,2.0,4857.33,0.2,7771.73,3938.01,-104.29,UPI
+ORD00753,2025-03-15,C0007,Rahul Patil,Yoga Mat,Sports,Central,3.0,1054.5,0.2,2530.8,736.52,321.24,UPI
+ORD00754,2025-03-21,C0258,Sneha Kulkarni,Bookshelf,Furniture,South,4.0,6815.19,0.05,25897.72,4284.55,8759.52,Net Banking
+ORD00755,2025-02-28,C0214,Vikas Gupta,Running Shoes,Sports,North,5.0,3863.37,0.2,15453.48,3077.69,65.03,Credit Card
+ORD00756,2025-12-20,C0186,Rahul Patil,Mixer Grinder,Home & Kitchen,West,2.0,4282.69,0.15,7280.57,2987.17,1306.23,Net Banking
+ORD00757,2025-03-02,C0114,Rahul Patil,Jacket,Fashion,South,3.0,2885.32,0.1,7790.36,1754.43,2527.07,Debit Card
+ORD00758,2025-02-27,C0040,Amit Sharma,Desk,Furniture,West,2.0,10955.43,0.0,21910.86,7876.36,6158.14,Cash
+ORD00759,2025-08-29,C0061,Neha Shah,Laptop,Electronics,North,2.0,48528.99,0.2,77646.38,37177.54,3291.3,Credit Card
+ORD00760,2025-04-16,C0301,Sneha Kulkarni,Desk,Furniture,South,1.0,12916.38,0.0,12916.38,11077.44,1838.94,UPI
+ORD00761,2025-06-28,C0181,Rahul Patil,Laptop,Electronics,Central,1.0,49151.69,0.1,44236.52,42548.73,1687.79,Net Banking
+ORD00762,2025-01-08,C0271,Sneha Kulkarni,Office Chair,Furniture,South,5.0,8679.1,0.0,43395.5,7199.18,7399.6,UPI
+ORD00763,2025-09-16,C0244,Rohan Mehta,Headphones,Electronics,Central,5.0,2128.25,0.0,10641.25,1827.71,1502.7,Debit Card
+ORD00764,2025-08-06,C0110,Anjali Verma,Jeans,Fashion,South,1.0,1627.66,0.1,1464.89,1423.82,41.07,Cash
+ORD00765,2025-09-11,C0185,Neha Shah,Smartphone,Electronics,Central,3.0,22177.12,0.0,66531.36,16533.57,16930.65,Credit Card
+ORD00766,2025-11-04,C0160,Vikas Gupta,Smartphone,Electronics,South,3.0,24952.85,0.15,63629.77,16953.25,12770.02,Net Banking
+ORD00767,2025-02-05,C0244,Rohan Mehta,T-Shirt,Fashion,South,3.0,1030.94,0.15,2628.9,673.06,609.72,Credit Card
+ORD00768,2025-12-04,C0347,Priya Joshi,Yoga Mat,Sports,North,4.0,1261.95,0.15,4290.63,911.96,642.79,Debit Card
+ORD00769,2025-03-28,C0034,Rohan Mehta,T-Shirt,Fashion,South,4.0,952.66,0.0,3810.64,769.37,733.16,UPI
+ORD00770,2025-06-08,C0256,Neha Shah,Office Chair,Furniture,Central,5.0,9377.28,0.15,39853.44,5948.7,10109.94,Net Banking
+ORD00771,2025-09-06,C0262,Neha Shah,Desk,Furniture,South,4.0,11481.95,0.2,36742.24,9943.81,-3033.0,Cash
+ORD00772,2025-03-10,C0016,Priya Joshi,Smartphone,Electronics,North,1.0,23130.17,0.15,19660.64,15373.01,4287.63,Credit Card
+ORD00773,2025-06-17,C0079,Neha Shah,Jeans,Fashion,Central,1.0,2054.92,0.15,1746.68,1580.82,165.86,Net Banking
+ORD00774,2025-08-27,C0104,Neha Shah,Smartphone,Electronics,West,1.0,26208.1,0.2,20966.48,21357.51,-391.03,Cash
+ORD00775,2025-01-17,C0221,Priya Joshi,Jacket,Fashion,West,3.0,3240.74,0.2,7777.78,2440.45,456.43,Cash
+ORD00776,2025-10-13,C0338,Neha Shah,Bookshelf,Furniture,South,4.0,6879.37,0.0,27517.48,4190.92,10753.8,Cash
+ORD00777,2025-02-26,C0292,Vikas Gupta,T-Shirt,Fashion,Central,2.0,849.36,0.15,1443.91,625.54,192.83,Net Banking
+ORD00778,2025-07-20,C0135,Vikas Gupta,Running Shoes,Sports,Central,4.0,3474.71,0.05,13203.9,2577.79,2892.74,Cash
+ORD00779,2025-01-15,C0303,Amit Sharma,Running Shoes,Sports,South,3.0,3779.79,0.1,10205.43,2607.05,2384.28,UPI
+ORD00780,2025-08-08,C0177,Rohan Mehta,Bookshelf,Furniture,West,5.0,6006.49,0.1,27029.2,4243.95,5809.45,UPI
+ORD00781,2025-12-19,C0034,Neha Shah,Laptop,Electronics,North,2.0,50835.63,0.1,91504.13,38935.46,13633.21,UPI
+ORD00782,2025-08-05,C0291,Anjali Verma,Headphones,Electronics,West,1.0,2528.81,0.0,2528.81,1843.64,685.17,UPI
+ORD00783,2025-07-19,C0166,Suresh Pawar,Laptop,Electronics,North,4.0,56451.82,0.1,203226.55,39841.8,43859.35,Cash
+ORD00784,2025-12-08,C0174,Rahul Patil,Smartphone,Electronics,Central,2.0,23769.76,0.2,38031.62,19662.54,-1293.46,UPI
+ORD00785,2025-10-02,C0110,Neha Shah,Bookshelf,Furniture,East,4.0,6373.69,0.0,25494.76,5323.98,4198.84,Credit Card
+ORD00786,2025-02-17,C0297,Priya Joshi,Desk,Furniture,Central,5.0,11647.3,0.05,55324.67,9025.26,10198.37,UPI
+ORD00787,2025-04-18,C0178,Priya Joshi,Desk,Furniture,East,1.0,12239.14,0.2,9791.31,8972.21,819.1,Net Banking
+ORD00788,2025-08-01,C0206,Neha Shah,Coffee Maker,Home & Kitchen,Central,3.0,4409.43,0.2,10582.63,3032.54,1485.01,Net Banking
+ORD00789,2025-09-22,C0096,Suresh Pawar,Jeans,Fashion,West,5.0,1627.52,0.0,8137.6,1262.62,1824.5,Debit Card
+ORD00790,2025-08-11,C0290,Amit Sharma,Yoga Mat,Sports,Central,4.0,1116.46,0.2,3572.67,922.76,-118.37,Debit Card
+ORD00791,2025-06-03,C0223,Pooja Deshmukh,Bookshelf,Furniture,East,4.0,6260.26,0.05,23788.99,5064.56,3530.75,Credit Card
+ORD00792,2025-11-27,C0083,Neha Shah,Yoga Mat,Sports,Central,2.0,1324.55,0.1,2384.19,1100.22,183.75,
+ORD00793,2025-06-08,C0238,Vikas Gupta,T-Shirt,Fashion,Central,2.0,795.66,0.05,1511.75,483.57,544.61,Cash
+ORD00794,2025-05-13,C0143,Anjali Verma,T-Shirt,Fashion,South,1.0,819.54,0.1,737.59,523.03,214.56,Credit Card
+ORD00795,2025-02-12,C0161,Suresh Pawar,Cricket Bat,Sports,East,4.0,3037.08,0.0,12148.32,2553.22,1935.44,Credit Card
+ORD00796,2025-03-13,C0121,Priya Joshi,Water Bottle,Home & Kitchen,Central,4.0,783.32,0.0,3133.28,557.04,905.12,Net Banking
+ORD00797,2025-09-26,C0129,Vikas Gupta,Water Bottle,Home & Kitchen,North,1.0,704.61,0.2,563.69,610.13,-46.44,Debit Card
+ORD00798,2025-10-27,C0200,Sneha Kulkarni,Running Shoes,Sports,West,1.0,3786.85,0.1,3408.16,2621.26,786.9,Debit Card
+ORD00799,2025-05-11,C0302,Amit Sharma,Headphones,Electronics,West,1.0,2256.37,0.1,2030.73,1631.48,399.25,Net Banking
+ORD00800,2025-05-07,C0143,Rahul Patil,Bookshelf,Furniture,East,1.0,6614.63,0.15,5622.44,4848.25,774.19,Cash
+ORD00801,2025-11-07,C0018,Amit Sharma,Cricket Bat,Sports,SOUTH,3.0,3069.95,0.0,9209.85,2396.74,2019.63,UPI
+ORD00802,2025-12-17,C0063,Anjali Verma,Jacket,Fashion,South,4.0,3016.9,0.1,10860.84,2573.07,568.56,Cash
+ORD00803,2025-05-11,C0155,Priya Joshi,T-Shirt,Fashion,South,1.0,1010.64,0.15,859.04,868.85,-9.81,UPI
+ORD00804,2025-11-26,C0209,Amit Sharma,Office Chair,Furniture,East,2.0,9560.52,0.1,17208.94,8090.6,1027.74,Credit Card
+ORD00805,2025-06-20,C0217,Priya Joshi,Mixer Grinder,Home & Kitchen,South,4.0,3767.04,0.15,12807.94,3237.47,-141.94,UPI
+ORD00806,2025-10-08,C0168,Vikas Gupta,Jacket,Fashion,North,1.0,3057.78,0.2,2446.22,2459.02,-12.8,Credit Card
+ORD00807,2025-04-13,C0322,Neha Shah,Yoga Mat,Sports,East,2.0,1246.86,0.05,2369.03,749.19,870.65,Net Banking
+ORD00808,2025-11-29,C0067,Suresh Pawar,Smartphone,Electronics,West,1.0,22433.67,0.2,17946.94,17942.4,4.54,UPI
+ORD00809,2025-12-18,C0304,Rohan Mehta,Jeans,Fashion,East,4.0,2001.69,0.05,7606.42,1347.12,2217.94,Debit Card
+ORD00810,2025-10-20,C0115,Amit Sharma,Smartphone,Electronics,North,4.0,24007.0,0.15,81623.8,20295.26,442.76,Net Banking
+ORD00811,2025-04-12,C0135,Rahul Patil,Yoga Mat,Sports,North,5.0,1245.59,0.0,6227.95,1087.1,792.45,Cash
+ORD00812,2025-07-08,C0088,Suresh Pawar,Running Shoes,Sports,North,4.0,3605.41,0.05,13700.56,2253.15,4687.96,Credit Card
+ORD00813,2025-09-11,C0061,Sneha Kulkarni,Cricket Bat,Sports,South,5.0,2745.53,0.15,11668.5,2283.27,252.15,Debit Card
+ORD00814,2025-08-09,C0106,Suresh Pawar,Mixer Grinder,Home & Kitchen,South,3.0,3558.28,0.15,9073.61,2515.63,1526.72,UPI
+ORD00815,2025-01-15,C0149,Neha Shah,Cricket Bat,Sports,South,2.0,2731.4,0.15,4643.38,2244.91,153.56,Net Banking
+ORD00816,2025-08-29,C0069,Rohan Mehta,Jeans,Fashion,West,2.0,1729.6,0.15,2940.32,1079.28,781.76,Debit Card
+ORD00817,2025-02-18,C0286,Amit Sharma,Cricket Bat,Sports,North,4.0,2975.1,0.2,9520.32,1998.5,1526.32,UPI
+ORD00818,2025-12-10,C0307,Amit Sharma,Water Bottle,Home & Kitchen,North,2.0,693.9,,1249.02,610.0,29.02,UPI
+ORD00819,2025-03-09,C0287,Amit Sharma,Jacket,Fashion,Central,5.0,3085.7,0.15,13114.23,2431.39,957.28,Debit Card
+ORD00820,2025-03-09,C0046,Rohan Mehta,Desk,Furniture,Central,2.0,12013.49,0.1,21624.28,10161.14,1302.0,Cash
+ORD00821,2025-09-13,C0144,Rohan Mehta,Headphones,Electronics,West,3.0,2212.63,0.0,6637.89,1933.8,836.49,UPI
+ORD00822,2025-08-12,C0085,Rohan Mehta,Water Bottle,Home & Kitchen,West,3.0,723.72,0.1,1954.04,538.99,337.07,Debit Card
+ORD00823,2025-04-04,C0019,Vikas Gupta,Jacket,Fashion,East,4.0,2771.09,0.05,10530.14,1704.99,3710.18,Debit Card
+ORD00824,2025-07-02,C0288,Vikas Gupta,Cricket Bat,Sports,West,4.0,2746.6,0.15,9338.44,1679.33,2621.12,Cash
+ORD00825,2025-05-26,C0093,Rahul Patil,Smartphone,Electronics,Central,2.0,22177.41,0.0,44354.82,14571.57,15211.68,UPI
+ORD00826,2025-10-20,C0093,Pooja Deshmukh,Running Shoes,Sports,North,5.0,3198.02,0.0,15990.1,2389.83,4040.95,Debit Card
+ORD00827,2025-12-15,C0349,Priya Joshi,Coffee Maker,Home & Kitchen,West,4.0,4738.83,0.1,17059.79,2877.75,5548.79,UPI
+ORD00828,2025-08-24,C0338,Vikas Gupta,Running Shoes,Sports,West,1.0,3853.83,0.05,3661.14,2343.46,1317.68,UPI
+ORD00829,2025-08-20,C0167,Suresh Pawar,Running Shoes,Sports,South,1.0,3320.9,0.0,3320.9,2602.68,718.22,Debit Card
+ORD00830,2025-01-29,C0037,Anjali Verma,Mixer Grinder,Home & Kitchen,Central,1.0,4143.78,0.1,3729.4,2861.23,868.17,Cash
+ORD00831,2025-07-24,C0046,Amit Sharma,Smartphone,Electronics,South,4.0,23163.73,0.05,88022.17,20157.4,7392.57,Debit Card
+ORD00832,2025-09-09,C0222,Neha Shah,T-Shirt,Fashion,Central,4.0,841.93,0.05,3199.33,533.59,1064.97,Debit Card
+ORD00833,2025-08-17,C0199,Vikas Gupta,Bookshelf,Furniture,East,1.0,7697.31,0.2,6157.85,5049.16,1108.69,Net Banking
+ORD00834,2025-11-11,C0096,Pooja Deshmukh,Running Shoes,Sports,West,4.0,3069.73,0.15,10437.08,2538.91,281.44,Credit Card
+ORD00835,2025-11-28,C0080,Vikas Gupta,Laptop,Electronics,Central,5.0,52388.79,0.15,222652.36,41355.88,15872.96,Net Banking
+ORD00836,2025-09-02,C0154,Rahul Patil,Smartphone,Electronics,South,3.0,24761.64,0.0,74284.92,21146.89,10844.25,UPI
+ORD00837,2025-10-10,C0040,Amit Sharma,Mixer Grinder,Home & Kitchen,Central,2.0,3826.32,0.1,6887.38,2904.9,1077.58,Credit Card
+ORD00838,2025-10-19,C0130,Rohan Mehta,Jacket,Fashion,East,4.0,3116.5,0.15,10596.1,2446.58,809.78,Net Banking
+ORD00839,2025-04-04,C0202,Amit Sharma,Smartphone,Electronics,North,5.0,21372.02,0.15,90831.09,13897.68,21342.69,Cash
+ORD00840,2025-08-19,C0320,Neha Shah,Water Bottle,Home & Kitchen,East,3.0,660.93,0.15,1685.37,536.71,75.24,Debit Card
+ORD00841,2025-12-11,C0055,Pooja Deshmukh,Office Chair,Furniture,Central,2.0,7424.46,0.2,11879.14,4993.76,1891.62,Credit Card
+ORD00842,2025-08-24,C0208,Suresh Pawar,Laptop,Electronics,West,4.0,48675.19,0.05,184965.72,38143.06,32393.48,UPI
+ORD00843,2025-02-14,C0065,Rahul Patil,Running Shoes,Sports,North,5.0,3353.77,0.15,14253.52,2767.86,414.22,Debit Card
+ORD00844,2025-04-18,C0247,Rahul Patil,Smartphone,Electronics,South,1.0,26470.24,0.05,25146.73,22248.86,2897.87,Cash
+ORD00845,2025-03-17,C0243,Pooja Deshmukh,Mixer Grinder,Home & Kitchen,North,5.0,3447.64,0.1,15514.38,2811.63,1456.23,Credit Card
+ORD00846,2025-08-30,C0011,Vikas Gupta,Headphones,Electronics,Central,2.0,2679.09,0.15,4554.45,2330.49,-106.53,Debit Card
+ORD00847,2025-01-05,C0053,Pooja Deshmukh,Office Chair,Furniture,West,3.0,8677.05,0.15,22126.48,5329.95,6136.63,Cash
+ORD00848,2025-01-19,C0250,Pooja Deshmukh,Cricket Bat,Sports,West,5.0,2880.51,0.2,11522.04,2534.06,-1148.26,Net Banking
+ORD00849,2025-02-01,C0271,Amit Sharma,Running Shoes,Sports,West,5.0,3957.05,0.15,16817.46,2631.18,3661.56,Net Banking
+ORD00850,2025-03-01,C0254,Suresh Pawar,Bookshelf,Furniture,East,5.0,6083.37,0.15,25854.32,5164.53,31.67,Cash
+ORD00851,2025-08-29,C0177,Vikas Gupta,Cricket Bat,Sports,South,4.0,2397.48,0.1,8630.93,1925.99,926.97,Net Banking
+ORD00852,2025-12-03,C0240,Rahul Patil,Office Chair,Furniture,East,5.0,9543.13,0.1,42944.08,8188.83,1999.93,Cash
+ORD00853,2025-05-25,C0045,Vikas Gupta,T-Shirt,Fashion,South,,979.91,0.05,2792.74,758.56,517.06,Debit Card
+ORD00854,2025-09-10,C0156,Sneha Kulkarni,Office Chair,Furniture,South,2.0,8769.66,0.0,17539.32,7210.2,3118.92,Net Banking
+ORD00855,2025-03-23,C0090,Anjali Verma,Laptop,Electronics, West ,1.0,52669.98,0.1,47402.98,36867.53,10535.45,Credit Card
+ORD00856,2025-04-25,C0250,Neha Shah,Bookshelf,Furniture,East,4.0,6189.34,0.05,23519.49,3922.76,7828.45,UPI
+ORD00857,2025-03-19,C0264,Suresh Pawar,Coffee Maker,Home & Kitchen,North,1.0,4864.63,0.2,3891.7,3283.13,608.57,Credit Card
+ORD00858,2025-11-09,C0313,Priya Joshi,Water Bottle,Home & Kitchen,Central,4.0,762.79,0.0,3051.16,665.84,387.8,Credit Card
+ORD00859,2025-07-05,C0081,Neha Shah,Jacket,Fashion,West,1.0,2880.36,0.0,2880.36,2430.57,449.79,Net Banking
+ORD00860,2025-03-12,C0063,Sneha Kulkarni,Jeans,Fashion,West,1.0,1613.32,0.1,1451.99,1119.14,332.85,Cash
+ORD00861,2025-09-16,C0088,Priya Joshi,Coffee Maker,Home & Kitchen,East,1.0,4156.18,0.15,3532.75,2890.91,641.84,UPI
+ORD00862,2025-09-29,C0216,Sneha Kulkarni,Cricket Bat,Sports,South,-1.0,2682.94,0.05,10195.17,1723.66,3300.53,Cash
+ORD00863,2025-07-05,C0016,Vikas Gupta,T-Shirt,Fashion,South,4.0,1007.48,0.2,-3223.94,828.64,-90.62,Credit Card
+ORD00864,2025-07-25,C0085,Pooja Deshmukh,Cricket Bat,Sports,North,5.0,3172.66,0.0,15863.3,2204.13,4842.65,Cash
+ORD00865,2025-01-30,C0324,Anjali Verma,Coffee Maker,Home & Kitchen,East,1.0,4716.24,0.05,4480.43,4021.55,458.88,Cash
+ORD00866,2025-01-05,C0144,Anjali Verma,T-Shirt,Fashion,Central,5.0,1000.86,0.1,4503.87,855.32,227.27,
+ORD00867,2025-11-16,C0317,Vikas Gupta,Cricket Bat,Sports,East,4.0,2754.8,0.05,10468.24,2337.51,1118.2,Cash
+ORD00868,2025-06-21,C0200,Rahul Patil,Coffee Maker,Home & Kitchen,Central,2.0,5014.32,0.0,10028.64,3060.5,3907.64,Net Banking
+ORD00869,2025-06-24,C0326,Rahul Patil,Desk,Furniture,North,2.0,10534.15,0.2,16854.64,7241.5,2371.64,Credit Card
+ORD00870,2025-06-05,C0217,Anjali Verma,Water Bottle,Home & Kitchen,North,5.0,719.43,0.05,3417.29,599.3,420.79,Credit Card
+ORD00871,2025-01-25,C0334,Priya Joshi,Mixer Grinder,Home & Kitchen,West,3.0,3526.12,0.2,8462.69,2465.65,1065.74,UPI
+ORD00872,2025-10-25,C0290,Anjali Verma,Running Shoes,Sports,Central,1.0,3450.8,0.05,3278.26,2848.66,429.6,Debit Card
+ORD00873,2025-07-13,C0267,Sneha Kulkarni,Bookshelf,Furniture,North,3.0,6547.52,0.2,15714.05,5161.29,230.18,UPI
+ORD00874,2025-03-17,C0218,Pooja Deshmukh,Jacket,Fashion,North,5.0,2904.85,0.1,13071.83,2112.43,2509.68,Credit Card
+ORD00875,2025-02-09,C0190,Anjali Verma,Laptop,Electronics,West,4.0,61410.4,0.15,208795.36,40539.44,46637.6,Net Banking
+ORD00876,2025-11-22,C0217,Vikas Gupta,Jacket,Fashion,West,-1.0,3467.67,0.1,15604.51,2647.93,2364.86,Cash
+ORD00877,2025-08-23,C0067, Anjali Verma ,Mixer Grinder,Home & Kitchen,Central,2.0,3394.55,0.05,6449.65,2497.49,1454.67,Credit Card
+ORD00878,2025-10-14,C0190,Priya Joshi,Cricket Bat,Sports,Central,2.0,2762.56,0.0,5525.12,2234.96,1055.2,Cash
+ORD00879,2025-03-20,C0061,Rohan Mehta,Smartphone,Electronics,East,1.0,24021.89,0.1,21619.7,14684.08,6935.62,UPI
+ORD00880,2025-10-29,C0216,Amit Sharma,Desk,Furniture,East,3.0,11949.33,0.05,34055.59,7645.17,11120.08,UPI
+ORD00881,2025-10-08,C0179,Priya Joshi,Office Chair,Furniture,North,2.0,9313.77,0.15,15833.41,5593.7,4646.01,Cash
+ORD00882,2025-07-13,C0244,,Jeans,Fashion,South,5.0,1697.24,0.15,7213.27,1446.19,-17.68,Debit Card
+ORD00883,2025-06-16,C0046,Suresh Pawar,Jacket,Fashion,Central,4.0,3451.21,0.15,11734.11,2214.69,2875.35,Cash
+ORD00884,2025-12-10,C0227,Neha Shah,T-Shirt,Fashion,North,2.0,1008.07,0.1,1814.53,757.54,299.45,Debit Card
+ORD00885,2025-03-05,C0330,Anjali Verma,Cricket Bat,Sports,North,1.0,2860.48,0.1,2574.43,2165.65,408.78,
+ORD00886,2025-09-25,C0097,Vikas Gupta,Running Shoes,Sports,Central,5.0,3580.7,0.0,17903.5,3108.2,2362.5,Credit Card
+ORD00887,2025-04-16,C0126,Suresh Pawar,Smartphone,Electronics,West,5.0,22598.08,0.0,112990.4,15298.66,36497.1,Credit Card
+ORD00888,2025-09-09,C0012,Rohan Mehta,Coffee Maker,Home & Kitchen, West ,5.0,4644.25,0.15,19738.06,3552.34,1976.36,Debit Card
+ORD00889,2025-02-16,C0059,Priya Joshi,T-Shirt,Fashion,Central,1.0,997.11,0.1,897.4,704.92,192.48,Debit Card
+ORD00890,2025-07-28,C0348,Rahul Patil,Desk,Furniture,North,2.0,10857.61,0.0,21715.22,6983.44,7748.34,Net Banking
+ORD00891,2025-02-20,C0164,Rahul Patil,Bookshelf,Furniture,West,2.0,6007.06,0.0,12014.12,4105.51,3803.1,UPI
+ORD00892,2025-05-03,C0306,Suresh Pawar,Desk,Furniture,South,4.0,13589.68,0.0,54358.72,8351.21,20953.88,Cash
+ORD00893,2025-06-12,C0238,Anjali Verma,Jacket,Fashion,West,5.0,3089.65,,15448.25,2086.75,5014.5,Credit Card
+ORD00894,2025-01-10,C0138,Anjali Verma,Jeans,Fashion,Central,1.0,1750.05,0.05,1662.55,1497.77,164.78,Credit Card
+ORD00895,2025-07-28,C0229,Priya Joshi,Office Chair,Furniture,Central,5.0,8886.45,0.05,42210.64,6089.81,11761.59,Debit Card
+ORD00896,2025-10-03,C0217,Anjali Verma,Coffee Maker,Home & Kitchen,West,2.0,4328.96,0.05,8225.02,3545.27,1134.48,Credit Card
+ORD00897,2025-03-27,C0001,Amit Sharma,Laptop,Electronics,West,4.0,62608.39,0.2,200346.85,42635.68,29804.13,UPI
+ORD00898,2025-11-20,C0109,Suresh Pawar,Running Shoes,Sports,Central,3.0,3856.46,0.15,9833.97,3392.87,-344.64,UPI
+ORD00899,2025-02-15,C0203,Priya Joshi,Laptop,Electronics,South,2.0,58946.52,0.2,94314.43,36522.19,21270.05,Net Banking
+ORD00900,2025-06-12,C0350,Rohan Mehta,Desk,Furniture,East,4.0,10959.06,0.2,35068.99,9513.31,-2984.25,Cash
+ORD00901,2025-08-24,C0307,Rohan Mehta,Desk,Furniture,North,2.0,12584.2,0.1,22651.56,8754.28,5143.0,Debit Card
+ORD00902,2025-12-11,C0089,Pooja Deshmukh,Yoga Mat,Sports,Central,1.0,1239.16,0.0,1239.16,1056.27,182.89,Cash
+ORD00903,2025-12-10,C0228,Priya Joshi,Coffee Maker,Home & Kitchen,East,4.0,4551.48,0.0,18205.92,3417.35,4536.52,Cash
+ORD00904,2025-12-23,C0005,Priya Joshi,Mixer Grinder,Home & Kitchen,West,5.0,3638.08,0.05,17280.88,3037.65,2092.63,UPI
+ORD00905,2025-05-24,C0349,Rohan Mehta,Water Bottle,Home & Kitchen,South,2.0,688.36,0.05,1307.88,556.25,195.38,Credit Card
+ORD00906,2025-10-09,C0186,Amit Sharma,Mixer Grinder,Home & Kitchen,East,5.0,3942.77,0.05,18728.16,2624.28,5606.76,Cash
+ORD00907,2025-11-23,C0203,Priya Joshi,Water Bottle,Home & Kitchen,East,5.0,638.91,0.05,3034.82,559.43,237.67,Net Banking
+ORD00908,2025-10-17,C0345,Suresh Pawar,Jacket,Fashion,Central,4.0,2883.66,0.05,10957.91,2262.97,1906.03,Debit Card
+ORD00909,2025-10-19,C0117,Anjali Verma,Smartphone,Electronics,East,5.0,22211.85,0.0,111059.25,14119.64,40461.05,Debit Card
+ORD00910,2025-12-15,C0287,Vikas Gupta,Mixer Grinder,Home & Kitchen,North,1.0,4360.82,0.2,3488.66,3366.76,121.9,Cash
+ORD00911,2025-07-28,C0141,Priya Joshi,Yoga Mat,Sports,Central,1.0,1327.39,0.1,1194.65,957.2,237.45,Cash
+ORD00912,2025-04-25,C0025,Neha Shah,Jeans,Fashion,West,3.0,1809.32,0.0,5427.96,1533.33,827.97,Net Banking
+ORD00913,2025-10-20,C0013,Sneha Kulkarni,Jeans,Fashion,West,3.0,1532.79,0.05,4368.45,1063.32,1178.49,Credit Card
+ORD00914,2025-11-17,C0321,Priya Joshi,Water Bottle,Home & Kitchen,North,2.0,636.34,0.1,1145.41,437.18,271.05,Cash
+ORD00915,2025-05-07,C0056,Vikas Gupta,T-Shirt,Fashion,South,1.0,924.98,0.1,832.48,772.67,59.81,UPI
+ORD00916,2025-02-07,C0308,Suresh Pawar,Mixer Grinder,Home & Kitchen,West,1.0,4166.66,0.2,3333.33,3426.46,-93.13,Credit Card
+ORD00917,2025-01-18,C0194,Rohan Mehta,Yoga Mat,Sports,North,4.0,1228.42,0.0,4913.68,1072.25,624.68,Debit Card
+ORD00918,2025-02-03,C0053,Amit Sharma,Laptop,Electronics,Central,4.0,47654.02,0.2,152492.86,36947.68,4702.14,Credit Card
+ORD00919,2025-04-30,C0307,Suresh Pawar,Desk,Furniture,North,4.0,11646.06,0.2,37267.39,9439.71,-491.45,Cash
+ORD00920,2025-06-23,C0334,Amit Sharma,T-Shirt,Fashion,West,4.0,979.69,0.2,3135.01,757.68,104.29,Net Banking
+ORD00921,2025-02-04,C0304,Sneha Kulkarni,Bookshelf,Furniture,east,5.0,6354.21,0.0,31771.05,3834.39,12599.1,Debit Card
+ORD00922,2025-11-14,C0228,Rahul Patil,Yoga Mat,Sports,South,5.0,1112.26,0.15,4727.11,817.28,640.71,Debit Card
+ORD00923,2025-09-20,C0334,Rohan Mehta,Coffee Maker,Home & Kitchen,East,1.0,3906.66,0.1,3515.99,2983.38,532.61,Net Banking
+ORD00924,2025-11-05,C0176,Neha Shah,Water Bottle,Home & Kitchen,East,5.0,757.85,0.05,3599.79,554.34,828.09,Credit Card
+ORD00925,2025-09-17,C0287,Amit Sharma,Jacket,Fashion,West,5.0,3351.37,0.05,15919.01,2064.61,5595.96,UPI
+ORD00926,2025-06-24,C0097,Vikas Gupta,Office Chair,Furniture,West,2.0,8858.41,0.05,16830.98,7262.78,2305.42,Net Banking
+ORD00927,2025-11-12,C0154,Pooja Deshmukh,Cricket Bat,Fashion ,East,3.0,3095.69,0.2,7429.66,2692.19,-646.91,Debit Card
+ORD00928,2025-01-02,C0328,Sneha Kulkarni,Smartphone,Electronics,South,4.0,27820.79,0.0,111283.16,20555.69,29060.4,Cash
+ORD00929,2025-07-12,C0106,Pooja Deshmukh,Running Shoes,Sports,South,2.0,3225.97,0.1,5806.75,2664.77,477.21,Credit Card
+ORD00930,2025-03-14,C0149,Vikas Gupta,Bookshelf,Furniture,South,1.0,6104.84,0.0,6104.84,4611.07,1493.77,Net Banking
+ORD00931,2025-05-26,C0090,Sneha Kulkarni,Water Bottle,Home & Kitchen,East,3.0,604.22,0.0,1812.66,396.22,624.0,Debit Card
+ORD00932,2025-05-15,C0052,Amit Sharma,Bookshelf,Furniture,CENTRAL,5.0,6466.52,0.05,30715.97,3918.83,11121.82,Cash
+ORD00933,2025-05-03,C0190, Rohan Mehta ,Yoga Mat,Sports,South,1.0,1141.82,0.05,1084.73,782.63,302.1,Net Banking
+ORD00934,2025-03-08,C0098,Sneha Kulkarni,Coffee Maker,Home & Kitchen,Central,5.0,5015.25,0.0,25076.25,3175.55,9198.5,Cash
+ORD00935,2025-05-06,C0024,Suresh Pawar,Cricket Bat,Sports,Central,3.0,2647.08,0.15,6750.05,2312.37,-187.06,Debit Card
+ORD00936,2025-01-28,C0323,Neha Shah,Mixer Grinder,Home & Kitchen,South,5.0,3565.37,0.05,16935.51,2466.35,4603.76,Net Banking
+ORD00937,2025-12-06,C0315,Priya Joshi,Running Shoes,Sports,South,4.0,3194.7,0.0,12778.8,2618.72,2303.92,Net Banking
+ORD00938,2025-06-14,C0192,Anjali Verma,T-Shirt,Fashion,West,5.0,866.05,0.2,3464.2,632.21,303.15,Cash
+ORD00939,2025-04-17,C0113,Sneha Kulkarni,Jeans,Fashion,West,3.0,1843.84,0.2,4425.22,1441.75,99.97,Debit Card
+ORD00940,2025-07-11,C0131,Anjali Verma,T-Shirt,Fashion,North,2.0,847.62,0.15,1440.95,644.18,152.59,Debit Card
+ORD00941,2025-10-26,C0022,Vikas Gupta,Coffee Maker,Home & Kitchen,Central,1.0,4223.31,0.2,3378.65,2949.73,428.92,Net Banking
+ORD00942,2025-09-12,C0163,Neha Shah,Bookshelf,Furniture,West,4.0,6897.42,0.15,23451.23,4928.25,3738.23,Credit Card
+ORD00943,2025-02-12,C0151,Anjali Verma,Headphones,Electronics,Central,4.0,2300.34,0.0,9201.36,1611.49,2755.4,Net Banking
+ORD00944,2025-02-06,C0185,Amit Sharma,Yoga Mat,Sports,Central,1.0,1302.91,0.05,1237.76,817.65,420.11,Debit Card
+ORD00945,2025-12-16,C0141,Sneha Kulkarni,Bookshelf,Furniture,Central,2.0,7367.73,0.1,13261.91,5045.13,3171.65,Debit Card
+ORD00946,2025-05-25,C0178,Pooja Deshmukh,Mixer Grinder,Home & Kitchen,West,5.0,4270.12,0.0,21350.6,3482.8,3936.6,Net Banking
+ORD00947,2025-03-18,C0204,Sneha Kulkarni,Coffee Maker,Home & Kitchen,South,1.0,4462.21,0.2,3569.77,3913.34,-343.57,Debit Card
+ORD00948,2025-08-25,C0175,Priya Joshi,Jeans,Fashion,East,2.0,1808.55,0.2,2893.68,1468.78,-43.88,Debit Card
+ORD00949,2025-01-16,C0192,Rahul Patil,T-Shirt,Fashion,Central,4.0,821.59,0.15,2793.41,689.17,36.73,Debit Card
+ORD00950,2025-08-03,C0218,Pooja Deshmukh,Desk,Furniture,Central,1.0,11999.28,0.1,10799.35,8341.3,2458.05,UPI
+ORD00951,2025-03-20,C0170,Suresh Pawar,Bookshelf,Furniture,Central,5.0,5998.8,0.0,29994.0,5148.17,4253.15,Net Banking
+ORD00952,2025-02-02,C0274,Pooja Deshmukh,Running Shoes,Sports,South,4.0,4004.18,0.05,15215.88,3466.15,1351.28,Cash
+ORD00953,2025-06-05,C0048,Rahul Patil,Smartphone,Electronics,North,3.0,25521.36,0.15,65079.47,19879.12,5442.11,Net Banking
+ORD00954,2025-04-06,C0102,Priya Joshi,Headphones,Electronics,West,1.0,2744.86,0.2,2195.89,2022.45,173.44,UPI
+ORD00955,2025-01-30,C0189,Anjali Verma,Office Chair,Furniture,North,2.0,7967.32,0.2,12747.71,4936.51,2874.69,Debit Card
+ORD00956,2025-08-03,C0245,Priya Joshi,Bookshelf,Furniture,West,-3.0,6771.32,0.0,27085.28,4307.63,9854.76,Debit Card
+ORD00957,2025-10-22,C0159,Suresh Pawar,Headphones,Electronics,South,2.0,2357.32,0.15,4007.44,1519.2,969.04,Net Banking
+ORD00958,2025-08-17,C0033,Pooja Deshmukh,Cricket Bat,Sports,Central,4.0,2611.37,0.0,10445.48,2291.49,1279.52,Debit Card
+ORD00959,2025-10-22,C0021,Priya Joshi,Jacket,Fashion,East,3.0,3593.89,0.15,9164.42,2619.43,1306.13,Cash
+ORD00960,2025-04-02,C0317,Pooja Deshmukh,Bookshelf,Furniture,West,-2.0,6771.29,0.05,19298.18,4849.7,4749.08,Cash
+ORD00961,2025-01-23,C0123,Rahul Patil,Water Bottle,Home & Kitchen,East,2.0,741.69,0.0,1483.38,526.74,429.9,Net Banking
+ORD00962,2025-07-30,C0284,Priya Joshi,Desk,Furniture,East,1.0,12712.96,0.05,12077.31,10862.54,1214.77,Credit Card
+ORD00963,2025-03-26,C0130,Sneha Kulkarni,Coffee Maker,Home & Kitchen,Central,1.0,4505.93,0.1,4055.34,3220.96,834.38,Credit Card
+ORD00964,2025-07-24,C0100,Pooja Deshmukh,Jeans,Fashion,North,1.0,1569.53,0.15,1334.1,1109.22,224.88,Credit Card
+ORD00965,2025-08-26,C0249,Vikas Gupta,Desk,Furniture,North,1.0,12752.76,0.05,12115.12,8819.69,3295.43,Credit Card
+ORD00966,2025-05-23,C0083,Rahul Patil,Jacket,Fashion,North,2.0,3405.04,0.15,5788.57,2176.75,1435.07,Net Banking
+ORD00967,2025-03-28,C0040,Amit Sharma,Smartphone,Electronics,East,2.0,23456.08,0.2,37529.73,18943.25,-356.77,Debit Card
+ORD00968,2025-09-30,C0111,Vikas Gupta,Jeans, furniture,North,3.0,1626.09,0.0,4878.27,1382.1,731.97,Net Banking
+ORD00969,2025-11-03,C0003,Amit Sharma,Yoga Mat,Sports,West,1.0,1160.62,0.1,1044.56,840.66,203.9,Debit Card
+ORD00970,2025-01-09,C0216,Amit Sharma,Water Bottle,Home & Kitchen,North,2.0,673.68,0.05,1279.99,441.93,396.13,
+ORD00971,2025-02-19,C0341,Rahul Patil,Mixer Grinder,Fashion ,South,2.0,4005.15,0.0,8010.3,2650.44,2709.42,Credit Card
+ORD00972,2025-11-17,C0098, Suresh Pawar ,T-Shirt,Fashion,South,5.0,794.07,0.1,3573.32,548.19,832.37,Net Banking
+ORD00973,2025-06-15,C0089,Amit Sharma,T-Shirt,Fashion,West,4.0,797.62,0.05,3030.96,502.22,1022.08,UPI
+ORD00974,2025-05-23,C0333,Suresh Pawar,Laptop,Electronics,East,4.0,50260.67,0.05,190990.55,31085.45,66648.75,Credit Card
+ORD00975,2025-02-22,C0275,Suresh Pawar,Smartphone,Electronics,South,2.0,24333.23,0.2,38933.17,18003.7,2925.77,UPI
+ORD00976,2025-12-22,C0069,Rohan Mehta,Smartphone,Electronics,South,5.0,23682.66,0.15,100651.3,18704.85,7127.05,UPI
+ORD00977,2025-10-27,C0230, Pooja Deshmukh ,Mixer Grinder,Home & Kitchen,Central,4.0,3306.97,0.0,13227.88,2547.65,3037.28,Debit Card
+ORD00978,2025-11-12,C0064,Neha Shah,Jacket,Fashion,South,5.0,3396.44,0.0,16982.2,2259.07,5686.85,Cash
+ORD00979,2025-09-13,C0152,Sneha Kulkarni,Coffee Maker,Home & Kitchen,South,2.0,4661.68,0.0,9323.36,2976.56,3370.24,Cash
+ORD00980,2025-08-16,C0169,Rahul Patil,Office Chair,Furniture,East,1.0,7832.06,0.2,6265.65,6867.11,-601.46,UPI
+ORD00981,2025-05-28,C0013,Sneha Kulkarni,Yoga Mat,Sports,East,1.0,1207.51,0.15,1026.38,943.61,82.77,UPI
+ORD00982,2025-12-23,C0114,Suresh Pawar,Office Chair,Furniture,West,2.0,8600.24,0.05,16340.46,7090.09,2160.28,Net Banking
+ORD00983,2025-09-09,C0036,Sneha Kulkarni,Bookshelf,Furniture,North,2.0,6878.96,0.0,13757.92,4251.84,5254.24,Debit Card
+ORD00984,2025-04-15,C0121,Anjali Verma,Office Chair,Furniture,North,2.0,7458.99,0.2,11934.38,5621.67,691.04,Cash
+ORD00985,2025-04-01,C0311,Sneha Kulkarni,Cricket Bat,Sports,East,4.0,2641.63,0.05,10038.19,1766.14,2973.63,UPI
+ORD00986,2025-09-04,C0041,Rohan Mehta,Running Shoes,Sports,West,4.0,3991.11,0.05,15166.22,2698.47,4372.34,Cash
+ORD00987,2025-08-10,C0080,Vikas Gupta,Headphones,Electronics,North,4.0,2456.03,0.2,7859.3,1892.69,288.54,Cash
+ORD00988,2025-03-20,C0284,Rahul Patil,T-Shirt,Fashion,East,1.0,969.89,0.1,872.9,743.57,129.33,Cash
+ORD00989,2025-09-04,C0037,Rohan Mehta,Jeans,Fashion,South,3.0,1774.95,0.15,4526.12,1344.35,493.07,Cash
+ORD00990,2025-09-14,C0192,Vikas Gupta,Office Chair,Furniture,West,2.0,9561.14,0.0,19122.28,5771.04,7580.2,Cash
+ORD00991,2025-10-29,C0037,Pooja Deshmukh,T-Shirt,Fashion,North,3.0,868.69,0.1,2345.46,677.14,314.04,Credit Card
+ORD00992,2025-06-28,C0261,Vikas Gupta,T-Shirt,Fashion,East,5.0,808.84,0.15,3437.57,702.06,-72.73,Credit Card
+ORD00993,2025-01-18,C0186,Amit Sharma,Yoga Mat,Sports,South,4.0,1353.55,0.05,5143.49,903.98,1527.57,UPI
+ORD00994,2025-11-05,C0297,Rahul Patil,Running Shoes,Sports,North,4.0,3966.48,0.05,15072.62,2662.3,4423.42,Credit Card
+ORD00995,2025-10-28,C0042,Anjali Verma,Coffee Maker,Home & Kitchen,South,1.0,4694.94,0.15,3990.7,3339.73,650.97,Cash
+ORD00996,2025-09-30,C0338,Pooja Deshmukh,Headphones,Electronics,Central,4.0,2314.65,0.1,8332.74,1713.26,1479.7,UPI
+ORD00997,2025-10-21,C0177,Rahul Patil,Cricket Bat,Sports,East,4.0,3012.07,0.0,12048.28,1899.4,4450.68,Debit Card
+ORD00998,2025-09-09,C0001,Priya Joshi,Water Bottle,Home & Kitchen,North,4.0,741.79,0.0,2967.16,650.08,366.84,Cash
+ORD00999,2025-07-11,C0096,Rahul Patil,Jacket,Fashion,South,4.0,3348.34,0.15,11384.36,2168.98,2708.44,Cash
+ORD01000,2025-04-19,C0096,Sneha Kulkarni,Headphones,Electronics,North,5.0,2836.36,0.15,12054.53,2152.19,1293.58,Debit Card
+ORD01001,2025-11-16,C0056,Rahul Patil,Coffee Maker,SPORTS,North,2.0,4175.13,0.15,7097.72,3020.31,1057.1,UPI
+ORD01002,2025-10-27,C0121,Vikas Gupta,Smartphone,Electronics,West,4.0,22185.11,0.0,88740.44,15436.46,26994.6,Credit Card
+ORD01003,2025-01-22,C0050,Sneha Kulkarni,Laptop,Electronics,Central,1.0,51140.33,0.0,51140.33,40211.14,10929.19,Credit Card
+ORD01004,2025-08-31,C0173,Suresh Pawar,T-Shirt,Fashion,West,5.0,905.42,0.1,4074.39,779.56,176.59,UPI
+ORD01005,2025-12-07,C0205,Pooja Deshmukh,Bookshelf,ELECTRONICS,Central,3.0,8048.83,0.05,22939.17,6949.98,2089.23,Credit Card
+ORD01006,2025-12-24,C0206,Rahul Patil,Bookshelf,Furniture,North,3.0,7643.17,0.0,22929.51,5563.75,6238.26,Net Banking
+ORD01007,2025-11-13,C0338,Vikas Gupta,Smartphone,Electronics,Central,5.0,23346.01,0.05,110893.55,16415.99,28813.6,Cash
+ORD01008,2025-07-04,C0024,Rohan Mehta,Yoga Mat,Sports,West,2.0,1021.13,0.1,1838.03,617.43,603.17,Debit Card
+ORD01009,2025-06-28,C0220,Vikas Gupta,Running Shoes,Sports,North,4.0,3395.17,0.2,10864.54,2791.88,-302.98,Cash
+ORD01010,2025-10-20,C0259,Amit Sharma,Desk,Furniture,South,5.0,10902.28,0.05,51785.83,9196.73,5802.18,Cash
+ORD01011,2025-08-28,C0087,Vikas Gupta,Coffee Maker,Home & Kitchen,North,1.0,4231.82,0.2,3385.46,3708.86,-323.4,Cash
+ORD01012,2025-12-04,C0046,Priya Joshi,Yoga Mat,Sports,West,5.0,1106.72,0.05,5256.92,716.85,1672.67,Credit Card
+ORD01013,2025-05-12,C0341,Vikas Gupta,Headphones,Electronics,North,3.0,2801.99,0.1,7565.37,1854.09,2003.1,Debit Card
+ORD01014,2025-12-21,C0171,Sneha Kulkarni,Water Bottle,Home & Kitchen,Central,5.0,728.05,0.15,3094.21,455.27,817.86,Net Banking
+ORD01015,2025-10-15,C0224,Sneha Kulkarni,Smartphone,Electronics,South,3.0,24077.58,0.15,61397.83,18855.09,4832.56,UPI
+ORD01016,2025-10-31,C0097,Priya Joshi,Smartphone,Electronics,Central,3.0,21907.6,0.0,65722.8,15231.62,20027.94,UPI
+ORD01017,2025-06-09,C0032,Suresh Pawar,Headphones,Electronics,Central,3.0,2840.55,0.2,6817.32,2290.44,-54.0,Debit Card
+ORD01018,2025-12-14,C0065,Anjali Verma,Mixer Grinder,Home & Kitchen,Central,4.0,4347.03,0.1,15649.31,3547.0,1461.31,Net Banking
+ORD01019,2025-06-11,C0075,Neha Shah,Office Chair,Furniture,South,1.0,8233.05,0.2,6586.44,6904.74,-318.3,Cash
+ORD01020,2025-12-07,C0018,Suresh Pawar,Yoga Mat,Sports,East,4.0,1073.07,0.1,3863.05,687.67,1112.37,UPI
+ORD01021,2025-04-21,C0254,Neha Shah,Jacket,Fashion,West,1.0,2982.51,0.2,2386.01,2188.92,197.09,Credit Card
+ORD01022,2025-04-26,C0027,Rahul Patil,Coffee Maker,Home & Kitchen,West,3.0,4031.15,0.05,11488.78,3375.93,1360.99,Cash
+ORD01023,2025-08-05,C0348,Vikas Gupta,Desk,Furniture,East,2.0,13767.83,0.2,22028.53,9772.96,2482.61,Cash
+ORD01024,2025-04-10,C0281,Pooja Deshmukh,T-Shirt,Fashion,North,1.0,907.52,0.1,816.77,616.26,200.51,Debit Card
+ORD01025,2025-12-30,C0156,Vikas Gupta,Bookshelf,Furniture,South,5.0,7768.3,0.0,38841.5,6509.42,6294.4,Net Banking
+ORD01026,2025-04-18,C0112,Sneha Kulkarni,Headphones,Electronics,North,4.0,2646.97,0.1,9529.09,2253.16,516.45,UPI
+ORD01027,2025-08-07,C0348,Rahul Patil,Cricket Bat,Sports,North,5.0,2465.64,0.05,11711.79,1739.35,3015.04,Credit Card
+ORD01028,2025-09-21,C0333,Rohan Mehta,Bookshelf,Furniture,Central,4.0,6327.23,0.0,25308.92,4004.23,9292.0,Cash
+ORD01029,2025-09-08,C0155,,Headphones,Electronics,South,4.0,2308.75,0.0,9235.0,1540.95,3071.2,Cash
+ORD01030,2025-12-01,C0228,Rohan Mehta,Coffee Maker,Home & Kitchen,North,1.0,4874.94,0.15,4143.7,3300.63,843.07,Credit Card
+ORD01031,2025-10-28,C0294, Suresh Pawar ,Smartphone,ELECTRONICS,West,1.0,22165.39,0.2,17732.31,14695.25,3037.06,UPI
+ORD01032,2025-11-27,C0223,Neha Shah,Cricket Bat,Sports,Central,1.0,3047.25,0.05,2894.89,2155.96,738.93,Debit Card
+ORD01033,2025-12-25,C0011,Pooja Deshmukh,Smartphone,Electronics,Central,3.0,21726.24,0.2,52142.98,14160.49,9661.51,Net Banking
+ORD01034,2025-10-03,C0334,Priya Joshi,Coffee Maker,Home & Kitchen,South,5.0,4484.56,0.2,17938.24,3741.92,-771.36,Credit Card
+ORD01035,2025-06-10,C0063,Amit Sharma,Headphones,Electronics,South,5.0,2646.41,0.0,13232.05,1998.89,3237.6,Net Banking
+ORD01036,2025-01-18,C0044,Priya Joshi,Office Chair,Furniture,Central,2.0,7448.94,0.1,13408.09,6245.24,917.61,UPI
+ORD01037,2025-01-24,C0266,Neha Shah,Bookshelf,Furniture,Central,5.0,6310.37,0.0,31551.85,4225.01,10426.8,Cash
+ORD01038,2025-06-30,C0311,Anjali Verma,Headphones,Electronics,Central,5.0,2492.83,0.1,11217.74,1860.52,1915.14,Debit Card
+ORD01039,2025-04-07,C0073,Neha Shah,Cricket Bat,Sports,South,1.0,2936.6,0.0,2936.6,1956.92,979.68,Debit Card
+ORD01040,2025-11-15,C0217,Priya Joshi,Running Shoes,Sports,Central,5.0,3201.84,0.1,14408.28,2169.79,3559.33,UPI
+ORD01041,2025-02-12,C0131,Pooja Deshmukh,Desk,Furniture,South,4.0,12539.17,0.05,47648.85,8928.1,11936.45,Net Banking
+ORD01042,2025-12-23,C0331,Sneha Kulkarni,Office Chair,Furniture,East,1.0,8830.4,0.1,7947.36,7759.28,188.08,Net Banking
+ORD01043,2025-06-11,C0223,Pooja Deshmukh,Yoga Mat,Sports,North,5.0,1237.78,0.15,5260.56,1027.41,123.51,Net Banking
+ORD01044,2025-10-08,C0209,Priya Joshi,Office Chair,Furniture,East,1.0,7913.82,0.2,6331.06,4992.02,1339.04,Credit Card
+ORD01045,2025-04-26,C0141,Amit Sharma,Bookshelf,Furniture,North,3.0,7583.95,0.05,21614.26,6395.39,2428.09,Cash
+ORD01046,2025-06-06,C0302,Vikas Gupta,Office Chair,Furniture,North,4.0,9652.05,0.0,38608.2,6266.16,13543.56,Net Banking
+ORD01047,2025-02-20,C0025,Rahul Patil,Bookshelf,Furniture,East,5.0,7767.34,0.2,31069.36,5249.91,4819.81,Cash
+ORD01048,2025-07-26,C0245,Suresh Pawar,Headphones,Electronics,South,3.0,2729.56,0.2,6550.94,2059.37,372.83,UPI
+ORD01049,2025-10-18,C0137,Amit Sharma,Laptop,Electronics,East,5.0,58518.17,0.05,277961.31,37448.56,90718.51,Debit Card
+ORD01050,2025-07-01,C0240,Anjali Verma,Yoga Mat,Sports,East,5.0,1170.57,0.15,4974.92,762.36,1163.12,UPI
+ORD01051,2025-02-14,C0157,Pooja Deshmukh,T-Shirt,Fashion,East,5.0,1019.25,0.05,4841.44,698.65,1348.19,Credit Card
+ORD01052,2025-03-26,C0295,Amit Sharma,Yoga Mat,Sports,North,1.0,1047.61,0.05,995.23,905.72,89.51,UPI
+ORD01053,2025-08-06,C0347,Anjali Verma,Jacket,Fashion,South,4.0,3496.01,0.0,13984.04,3039.45,1826.24,Cash
+ORD01054,2025-07-27,C0008,Suresh Pawar,Jeans,Fashion,South,5.0,1899.97,0.2,7599.88,1511.25,43.63,Credit Card
+ORD01055,2025-12-05,C0271,Suresh Pawar,Cricket Bat,Sports,North,4.0,2970.18,0.1,10692.65,1985.22,2751.77,Net Banking
+ORD01056,2025-03-31,C0039,Rohan Mehta,Jeans,Fashion,South,2.0,1894.24,0.2,3030.78,1615.91,-201.04,Net Banking
+ORD01057,2025-02-27,C0174,Sneha Kulkarni,Bookshelf,Furniture,Central,1.0,6837.72,0.15,5812.06,4429.03,1383.03,Credit Card
+ORD01058,2025-11-20,C0292,Pooja Deshmukh,Desk,Furniture,South,3.0,11939.25,0.1,32235.98,7875.83,8608.49,UPI
+ORD01059,2025-11-13,C0250,Amit Sharma,Water Bottle,Home & Kitchen,East,5.0,768.4,0.0,3842.0,662.3,530.5,Credit Card
+ORD01060,2025-06-29,C0096,Pooja Deshmukh,Running Shoes,Sports,East,4.0,3319.98,0.1,11951.93,2091.61,3585.49,Credit Card
+ORD01061,2025-03-20,C0211,Priya Joshi,Smartphone,Electronics,West,4.0,24940.35,0.0,99761.4,18659.05,25125.2,Credit Card
+ORD01062,2025-07-06,C0220,Rahul Patil,Headphones,Electronics,Central,3.0,2294.57,0.15,5851.15,1617.23,999.46,UPI
+ORD01063,2025-07-01,C0223,Amit Sharma,Smartphone,Electronics,East,4.0,26172.1,0.15,88985.14,16889.21,21428.3,Debit Card
+ORD01064,2025-06-19,C0017,Rahul Patil,Smartphone,Electronics,South,2.0,23386.75,0.05,44434.82,16615.65,11203.52,Cash
+ORD01065,2025-12-16,C0066,Rohan Mehta,Yoga Mat,Sports,West,3.0,1062.77,0.15,2710.06,801.37,305.95,Net Banking
+ORD01066,2025-03-06,C0080,Rohan Mehta,Cricket Bat,Sports,east,4.0,2490.39,0.0,9961.56,2047.0,1773.56,Credit Card
+ORD01067,2025-11-02,C0005,Pooja Deshmukh,Coffee Maker,Home & Kitchen,West,2.0,3895.25,0.1,7011.45,2805.77,1399.91,UPI
+ORD01068,2025-03-20,C0262,Rahul Patil,Desk,Furniture,South,4.0,10497.41,0.15,35691.19,7026.64,7584.63,UPI
+ORD01069,2025-08-08,C0102,Vikas Gupta,Coffee Maker,Home & Kitchen,North,1.0,4991.63,0.05,4742.05,3926.28,815.77,Net Banking
+ORD01070,2025-03-18,C0118,Priya Joshi,Running Shoes,Sports,South,2.0,3173.1,0.2,5076.96,2462.62,151.72,Cash
+ORD01071,2025-11-12,C0103,Priya Joshi,Laptop,Electronics,North,3.0,63091.58,0.05,179811.0,45385.86,43653.42,Cash
+ORD01072,2025-08-07,C0246,Amit Sharma,T-Shirt,Fashion,Central,5.0,847.74,0.05,4026.76,561.29,1220.31,Cash
+ORD01073,2025-06-29,C0215,Sneha Kulkarni,Yoga Mat,Sports,East,1.0,1129.54,0.1,1016.59,792.71,223.88,Credit Card
+ORD01074,2025-08-30,C0144,Suresh Pawar,Headphones,Electronics,North,1.0,2125.4,0.1,1912.86,1401.39,511.47,Cash
+ORD01075,2025-02-27,C0050,Amit Sharma,Headphones,Electronics,Central,3.0,2836.25,0.1,7657.88,1967.22,1756.22,Debit Card
+ORD01076,2025-10-29,C0271,Suresh Pawar,Bookshelf,ELECTRONICS,East,3.0,7506.71,0.1,20268.12,6065.58,2071.38,Debit Card
+ORD01077,2025-02-24,C0067,Suresh Pawar,Yoga Mat,Sports,North,3.0,1095.61,0.15,2793.81,684.13,741.42,Credit Card
+ORD01078,2025-02-08,C0280,Suresh Pawar,Running Shoes,Sports,East,2.0,3177.57,0.15,5401.87,2729.98,-58.09,UPI
+ORD01079,2025-03-20,C0023,Rahul Patil,Cricket Bat,Sports,South,4.0,3211.3,0.05,12202.94,2406.54,2576.78,Cash
+ORD01080,2025-07-07,C0230,Priya Joshi,Jacket,Fashion,SOUTH,3.0,3575.92,0.2,8582.21,3121.9,-783.49,Credit Card
+ORD01081,2025-03-27,C0307,Neha Shah,Jeans,Fashion,South,4.0,1812.83,0.2,5801.06,1489.15,-155.54,UPI
+ORD01082,2025-07-23,C0254,Anjali Verma,Laptop,Electronics,Central,5.0,47753.09,0.05,226827.18,38555.86,34047.88,Credit Card
+ORD01083,2025-07-19,C0206,Suresh Pawar,Headphones,Electronics,East,4.0,2688.05,0.15,9139.37,2036.2,994.57,Debit Card
+ORD01084,2025-01-05,C0263,Vikas Gupta,Headphones,Electronics,Central,1.0,2245.0,0.05,2132.75,1719.2,413.55,Net Banking
+ORD01085,2025-10-10,C0061,Rahul Patil,Desk,Furniture,South,3.0,13268.91,0.1,35826.06,10592.72,4047.9,Credit Card
+ORD01086,2025-05-23,C0069,Neha Shah,Jacket,Fashion,North,2.0,3000.17,0.05,5700.32,2591.47,517.38,Debit Card
+ORD01087,2025-11-20,C0310,Rohan Mehta,Mixer Grinder,Home & Kitchen,East,2.0,3839.44,0.0,7678.88,3000.99,1676.9,Credit Card
+ORD01088,2025-11-10,C0151,Rohan Mehta,Cricket Bat,Sports,North,5.0,2601.79,0.05,12358.5,1858.55,3065.75,Credit Card
+ORD01089,2025-01-09,C0276,Suresh Pawar,Mixer Grinder,Home & Kitchen,North,3.0,3479.98,0.1,9395.95,2260.2,2615.35,Cash
+ORD01090,2025-08-15,C0113,Rohan Mehta,Yoga Mat,Sports,East,3.0,1333.21,0.2,3199.7,1005.57,182.99,Debit Card
+ORD01091,2025-08-11,C0189,Rahul Patil,Running Shoes,Sports,West,4.0,3138.42,0.05,11926.0,2524.38,1828.48,Credit Card
+ORD01092,2025-09-09,C0093,Neha Shah,Jeans,Fashion,North,2.0,1778.07,0.05,3378.33,1160.87,1056.59,UPI
+ORD01093,2025-03-15,C0037,Pooja Deshmukh,Headphones,Electronics,South,2.0,2738.12,0.2,4380.99,1786.89,807.21,Cash
+ORD01094,2025-01-07,C0309,Priya Joshi,Water Bottle,Home & Kitchen,West,4.0,616.05,0.2,1971.36,393.31,398.12,Cash
+ORD01095,2025-02-12,C0138,Rahul Patil,Laptop,Electronics,Central,1.0,60388.28,0.0,60388.28,38467.95,21920.33,Credit Card
+ORD01096,2025-06-23,C0044,Sneha Kulkarni,Coffee Maker,Home & Kitchen,South,1.0,5117.78,0.0,5117.78,3847.87,1269.91,Cash
+ORD01097,2025-09-03,C0080,Sneha Kulkarni,Coffee Maker,Home & Kitchen,North,5.0,5029.73,0.05,23891.22,3450.74,6637.52,Net Banking
+ORD01098,2025-01-23,C0053,Anjali Verma,Cricket Bat,Sports,East,3.0,2907.09,0.0,8721.27,1761.52,3436.71,Credit Card
+ORD01099,2025-08-07,C0198,Rahul Patil,Jacket,Fashion,East,4.0,2856.16,0.05,10853.41,1732.89,3921.85,UPI
+ORD01100,2025-02-26,C0115,Priya Joshi,Office Chair,Furniture,East,4.0,8976.25,0.0,35905.0,6621.87,9417.52,UPI
+ORD01101,2025-02-13,C0023,Suresh Pawar,Smartphone,Electronics,South,5.0,23752.94,0.1,106888.23,20392.6,4925.23,Debit Card
+ORD01102,2025-03-18,C0342,Neha Shah,T-Shirt,Fashion,Central,5.0,855.41,0.05,4063.2,675.98,683.3,UPI
+ORD01103,2025-05-16,C0040,Amit Sharma,Bookshelf,Furniture,South,1.0,6519.3,0.15,5541.4,5119.51,421.89,Debit Card
+ORD01104,2025-02-27,C0296,Pooja Deshmukh,Bookshelf,Furniture,East,2.0,6770.26,0.15,11509.44,5606.47,296.5,Debit Card
+ORD01105,2025-06-30,C0164,Vikas Gupta,Smartphone,Electronics,West,3.0,28710.79,0.05,81825.75,23396.71,11635.62,Cash
+ORD01106,2025-12-01,C0126,Pooja Deshmukh,Cricket Bat,Sports,West,4.0,2885.46,0.1,10387.66,1842.95,3015.86,Net Banking
+ORD01107,2025-04-28,C0197,Priya Joshi,Jeans,Fashion,Central,5.0,1818.24,0.2,7272.96,1363.93,453.31,Cash
+ORD01108,2025-05-01,C0186,Amit Sharma,Jacket,Fashion,South,5.0,3465.53,0.05,16461.27,2761.56,2653.47,Credit Card
+ORD01109,2025-01-31,C0179,Rohan Mehta,Bookshelf,Furniture,South,5.0,6945.25,0.05,32989.94,5958.0,3199.94,UPI
+ORD01110,2025-08-04,C0125,Sneha Kulkarni,Jeans,Fashion,South,2.0,1981.04,0.2,3169.66,1727.68,-285.7,Credit Card
+ORD01111,2025-01-14,C0218,Rohan Mehta,Cricket Bat,Sports,North,2.0,2478.48,0.05,4709.11,1749.04,1211.03,Credit Card
+ORD01112,2025-01-16,C0076,Rohan Mehta,Yoga Mat,Sports,South,5.0,1046.56,0.2,4186.24,883.02,-228.86,Credit Card
+ORD01113,2025-04-04,C0241,Rahul Patil,Office Chair,Furniture,Central,1.0,7256.82,0.15,6168.3,4658.3,1510.0,UPI
+ORD01114,2025-12-22,C0007,Neha Shah,Jeans,Fashion,North,4.0,1920.18,0.15,6528.61,1572.23,239.69,Debit Card
+ORD01115,2025-01-06,C0203,Pooja Deshmukh,Laptop,Electronics,West,1.0,56718.86,0.05,53882.92,42024.29,11858.63,Net Banking
+ORD01116,2025-04-27,C0217,Rahul Patil,Cricket Bat,Sports,SOUTH,3.0,3152.09,0.2,7565.02,2161.36,1080.94,Credit Card
+ORD01117,2025-07-25,C0317,Amit Sharma,Jacket,Fashion,South,4.0,3658.81,0.05,13903.48,2956.6,2077.08,Cash
+ORD01118,2025-08-28,C0245,Rohan Mehta,Headphones,ELECTRONICS,West,5.0,2578.81,0.0,12894.05,2136.9,2209.55,Cash
+ORD01119,2025-02-25,C0054,Priya Joshi,Headphones,Electronics,East,1.0,2727.5,0.15,2318.38,1785.22,533.16,Net Banking
+ORD01120,2025-02-24,C0034,Sneha Kulkarni,Coffee Maker,Home & Kitchen,Central,3.0,3862.87,0.1,10429.75,2493.76,2948.47,Credit Card
+ORD01121,2025-01-17,C0124,Neha Shah,Coffee Maker,Home & Kitchen,North,3.0,4078.45,0.05,11623.58,3176.09,2095.31,Net Banking
+ORD01122,2025-06-11,C0048,Neha Shah,Running Shoes,Sports,North,1.0,3566.93,0.15,3031.89,2185.78,846.11,UPI
+ORD01123,2025-07-20,C0183,Rahul Patil,Coffee Maker,Home & Kitchen,North,3.0,5119.3,0.2,12286.32,3350.93,2233.53,UPI
+ORD01124,2025-07-15,C0245,Suresh Pawar,T-Shirt,Fashion,North,5.0,792.27,0.05,3763.28,480.62,1360.18,UPI
+ORD01125,2025-02-17,C0119,Sneha Kulkarni,Headphones,Electronics,South,2.0,2636.78,0.0,5273.56,2235.61,802.34,Debit Card
+ORD01126,2025-06-24,C0230,Rahul Patil,Jacket,Fashion,East,5.0,3672.59,0.2,14690.36,2873.4,323.36,UPI
+ORD01127,2025-12-31,C0350,Pooja Deshmukh,Bookshelf,Furniture,South,5.0,7747.5,0.15,32926.88,4735.3,9250.38,Debit Card
+ORD01128,2025-09-12,C0050,Amit Sharma,Running Shoes,Sports,South,5.0,3053.75,0.05,14505.31,2316.98,2920.41,UPI
+ORD01129,2025-06-01,C0083,Priya Joshi,Jacket,Fashion,East,1.0,3198.96,0.15,2719.12,2200.38,518.74,Net Banking
+ORD01130,2025-08-24,C0133,Vikas Gupta,Bookshelf,Furniture,East,3.0,6137.38,0.05,17491.53,4903.66,2780.55,Cash
+ORD01131,2025-07-06,C0147,Pooja Deshmukh,Yoga Mat,Sports,West,2.0,1358.34,0.2,2173.34,1000.71,171.92,Net Banking
+ORD01132,2025-06-10,C0192,Priya Joshi,Water Bottle,Home & Kitchen,West,2.0,687.57,0.2,1100.11,575.19,-50.27,Net Banking
+ORD01133,2025-11-26,C0030,Sneha Kulkarni,Jeans,Fashion,Central,3.0,2003.8,0.0,6011.4,1550.48,1359.96,Credit Card
+ORD01134,2025-02-07,C0115,Pooja Deshmukh,Headphones,Electronics,West,1.0,2343.0,0.05,2225.85,1779.83,446.02,Credit Card
+ORD01135,2025-08-27,C0056,Priya Joshi,Bookshelf,Furniture,South,4.0,6933.83,0.2,22188.26,5907.87,-1443.22,Credit Card
+ORD01136,2025-02-03,C0163,Rohan Mehta,Water Bottle,Home & Kitchen,Central,,756.33,0.05,2874.05,538.83,718.73,Cash
+ORD01137,2025-03-21,C0241,Rahul Patil,Office Chair,Furniture,South,4.0,7516.53,0.15,25556.2,4590.49,7194.24,UPI
+ORD01138,2025-07-05,C0221,Vikas Gupta,Running Shoes,Sports,South,1.0,4012.2,0.15,3410.37,2477.42,932.95,Credit Card
+ORD01139,2025-11-22,C0091,Priya Joshi,Office Chair,Furniture,South,1.0,9654.24,0.15,8206.1,6521.99,1684.11,Credit Card
+ORD01140,2025-09-26,C0110,Neha Shah,Desk,Furniture,South,4.0,10494.15,0.15,35680.11,8856.65,253.51,Credit Card
+ORD01141,2025-06-28,C0215,Vikas Gupta,Smartphone,Electronics,West,4.0,23815.14,0.1,85734.5,15386.23,24189.58,Net Banking
+ORD01142,2025-12-21,C0293,Pooja Deshmukh,Cricket Bat,Sports,North,2.0,3191.1,0.15,5424.87,2231.58,961.71,Net Banking
+ORD01143,2025-06-15,C0341,Rohan Mehta,Coffee Maker,Home & Kitchen,North,5.0,4093.06,0.2,16372.24,3162.39,560.29,Debit Card
+ORD01144,2025-02-28,C0346,Pooja Deshmukh,Water Bottle,Home & Kitchen,East,4.0,791.1,0.15,2689.74,666.11,25.3,Net Banking
+ORD01145,2025-11-24,C0297,Priya Joshi,Cricket Bat,Sports,North,1.0,3210.12,0.05,3049.61,2496.2,553.41,Debit Card
+ORD01146,2025-11-04,C0194,Sneha Kulkarni,Cricket Bat,Sports,East,2.0,2732.95,0.2,4372.72,2232.35,-91.98,Debit Card
+ORD01147,2025-01-09,C0155,Neha Shah,Office Chair,Furniture,Central,5.0,9660.52,0.1,43472.34,7997.54,3484.64,Credit Card
+ORD01148,2025-06-30,C0181,Anjali Verma,Cricket Bat,Sports,West,4.0,2925.09,0.15,9945.31,2094.17,1568.63,Net Banking
+ORD01149,2025-07-11,C0091,,Coffee Maker,Home & Kitchen,Central,3.0,3978.06,0.05,11337.47,2897.9,2643.77,Debit Card
+ORD01150,2025-12-26,C0318,Priya Joshi,Jacket,Fashion,North,4.0,3086.3,0.15,10493.42,2399.75,894.42,Credit Card
+ORD01151,2025-11-16,C0279,Priya Joshi,Smartphone,Electronics,West,1.0,25871.95,0.15,21991.16,16274.21,5716.95,Net Banking
+ORD01152,2025-08-21,C0283,Pooja Deshmukh,Running Shoes,Sports,North,1.0,3676.1,0.15,3124.68,2423.74,700.94,Debit Card
+ORD01153,2025-08-26,C0212,Pooja Deshmukh,Mixer Grinder,Home & Kitchen,North,4.0,4313.63,0.1,15529.07,3756.88,501.55,UPI
+ORD01154,2025-05-16,C0158,Pooja Deshmukh,Coffee Maker,Home & Kitchen,South,2.0,4510.21,0.1,8118.38,3816.95,484.48,Credit Card
+ORD01155,2025-07-11,C0266,Suresh Pawar,Water Bottle,Home & Kitchen,East,4.0,601.86,,2407.44,386.96,859.6,UPI
+ORD01156,2025-07-20,C0099,Suresh Pawar,Headphones,Electronics,West,5.0,2869.62,0.05,13630.69,2168.31,2789.14,Credit Card
+ORD01157,2025-03-30,C0207,Rohan Mehta,Coffee Maker,Home & Kitchen,Central,5.0,4404.29,0.15,18718.23,3847.85,-521.02,Debit Card
+ORD01158,2025-11-20,C0296,Pooja Deshmukh,T-Shirt,Fashion,East,2.0,791.89,0.05,1504.59,586.94,330.71,Net Banking
+ORD01159,2025-01-06,C0322,Suresh Pawar,Headphones,Electronics,South,3.0,2277.82,0.0,6833.46,1383.05,2684.31,Credit Card
+ORD01160,2025-01-13,C0067,Vikas Gupta,Running Shoes,Sports,East,5.0,3941.62,0.0,19708.1,2996.03,4727.95,Debit Card
+ORD01161,2025-07-13,C0134,Amit Sharma,Office Chair,Furniture,north,2.0,7982.15,0.2,12771.44,6667.71,-563.98,Credit Card
+ORD01162,2025-02-26,C0236,Suresh Pawar,Water Bottle,electronics,North,2.0,726.76,0.2,1162.82,612.47,-62.12,Credit Card
+ORD01163,2025-09-11,C0186,Sneha Kulkarni,Headphones,Electronics,West,3.0,2321.5,0.05,6616.27,1453.21,2256.64,Credit Card
+ORD01164,2025-02-09,C0108,Pooja Deshmukh,Jeans,Fashion,West,1.0,1753.42,0.15,1490.41,1522.99,-32.58,UPI
+ORD01165,2025-04-02,C0338,Suresh Pawar,Yoga Mat,Sports,Central,4.0,1311.08,0.05,4982.1,896.32,1396.82,Credit Card
+ORD01166,2025-11-04,C0280,Amit Sharma,Smartphone,Electronics,South,3.0,28703.05,0.15,73192.78,25217.83,-2460.71,Net Banking
+ORD01167,2025-10-02,C0012,Anjali Verma,Cricket Bat,Sports,Central,3.0,3158.33,0.05,9001.24,2431.0,1708.24,Debit Card
+ORD01168,2025-03-12,C0113,Priya Joshi,Office Chair,Furniture,South,3.0,7517.71,0.05,21425.47,4572.72,7707.31,UPI
+ORD01169,2025-10-10,C0334,Neha Shah,Desk,Furniture,West,4.0,10917.26,0.0,43669.04,7615.83,13205.72,Cash
+ORD01170,2025-04-12,C0144,Pooja Deshmukh,T-Shirt,Fashion,North,5.0,1020.51,0.05,4847.42,683.77,1428.57,Net Banking
+ORD01171,2025-09-07,C0222,Vikas Gupta,Coffee Maker,Home & Kitchen,West,5.0,4245.64,0.05,20166.79,3681.2,1760.79,Net Banking
+ORD01172,2025-07-16,C0220,Sneha Kulkarni,Cricket Bat,Sports,Central,3.0,3065.35,0.2,7356.84,1931.53,1562.25,UPI
+ORD01173,2025-05-10,C0301,Pooja Deshmukh,Bookshelf,Furniture,East,1.0,6893.75,0.0,6893.75,5985.62,908.13,Net Banking
+ORD01174,2025-06-15,C0220,Rahul Patil,Mixer Grinder,Home & Kitchen,East,5.0,3631.57,0.0,18157.85,2295.52,6680.25,Debit Card
+ORD01175,2025-06-10,C0063,Amit Sharma,Smartphone,Electronics,East,2.0,26177.16,0.1,47118.89,16769.38,13580.13,Credit Card
+ORD01176,2025-04-30,C0288,Priya Joshi,Cricket Bat,Sports,West,3.0,2559.57,0.2,6142.97,2105.67,-174.04,UPI
+ORD01177,2025-11-08,C0344,Priya Joshi,Running Shoes,Sports,Central,2.0,3528.63,0.0,7057.26,2671.41,1714.44,Cash
+ORD01178,2025-01-26,C0253,Vikas Gupta,Yoga Mat,Sports,North,4.0,1134.4,0.1,4083.84,743.58,1109.52,UPI
+ORD01179,2025-10-30,C0197,Sneha Kulkarni,T-Shirt,Fashion,Central,1.0,798.51,0.05,758.58,613.58,145.0,Credit Card
+ORD01180,2025-08-25,C0146,Rahul Patil,Desk,Furniture,West,1.0,12517.2,0.2,10013.76,10972.92,-959.16,Credit Card
+ORD01181,2025-01-09,C0036,Vikas Gupta,Water Bottle,Home & Kitchen,North,5.0,787.79,0.0,3938.95,547.1,1203.45,Cash
+ORD01182,2025-10-12,C0161,Vikas Gupta,Cricket Bat,Sports,Central,3.0,2610.73,0.1,7048.97,1859.09,1471.7,Credit Card
+ORD01183,2025-11-25,C0063,Rohan Mehta,T-Shirt,Fashion,Central,3.0,953.04,0.15,2430.25,703.47,319.84,Credit Card
+ORD01184,2025-06-15,C0224,Sneha Kulkarni,Laptop,Electronics,South,2.0,47539.26,0.0,95078.52,30370.25,34338.02,Credit Card
+ORD01185,2025-12-19,C0027,Neha Shah,Office Chair,Furniture,North,3.0,9306.18,,22334.83,8162.25,-2151.92,Credit Card
+ORD01186,2025-07-14,C0139,Rahul Patil,Laptop,Electronics,South,3.0,47988.2,0.1,129568.14,38036.31,15459.21,Net Banking
+ORD01187,2025-07-31,C0327,Vikas Gupta,Jeans,Fashion,north,1.0,1598.2,0.05,1518.29,1295.9,222.39,Net Banking
+ORD01188,2025-06-14,C0248,Sneha Kulkarni,Jacket,Fashion,North,2.0,3274.77,0.15,5567.11,2860.11,-153.11,UPI
+ORD01189,2025-05-05,C0338,Sneha Kulkarni,Coffee Maker,Home & Kitchen,North,3.0,4785.36,0.1,12920.47,3619.57,2061.76,Credit Card
+ORD01190,2025-07-17,C0097,Vikas Gupta,Jeans,Fashion,North,1.0,1644.74,0.05,1562.5,1202.44,360.06,UPI
+ORD01191,2025-06-09,C0233,Rahul Patil,Office Chair,Furniture,Central,5.0,9167.09,0.2,36668.36,7703.73,-1850.29,Credit Card
+ORD01192,2025-08-20,C0318,Anjali Verma,Water Bottle,Home & Kitchen,South,2.0,640.94,0.1,1153.69,453.76,246.17,Cash
+ORD01193,2025-10-23,C0332,Priya Joshi,Office Chair,Furniture,South,1.0,7933.49,0.05,7536.82,6284.55,1252.27,Cash
+ORD01194,2025-08-24,C0096,Neha Shah,Water Bottle,Home & Kitchen,North,1.0,751.46,0.05,713.89,454.37,259.52,Cash
+ORD01195,2025-10-09,C0044,Rohan Mehta,Yoga Mat,Fashion ,West,5.0,1182.95,0.1,5323.28,748.96,1578.48,Debit Card
+ORD01196,2025-08-14,C0140,Rohan Mehta,Headphones,Electronics,North,4.0,2501.64,0.2,8005.25,1734.75,1066.25,Credit Card
+ORD01197,2025-04-07,C0207,Rahul Patil,Yoga Mat,Sports,Central,4.0,1283.52,0.15,4363.97,839.81,1004.73,UPI
+ORD01198,2025-01-26,C0331,Sneha Kulkarni,Jacket,Fashion,North,5.0,3193.87,0.15,13573.95,2013.96,3504.15,Debit Card
+ORD01199,2025-02-03,C0273,Priya Joshi,Smartphone,Electronics,East,1.0,27962.94,0.2,22370.35,18861.84,3508.51,
+ORD01200,2025-02-21,C0113,Neha Shah,Water Bottle,Home & Kitchen,West,5.0,741.9,0.15,3153.07,526.55,520.32,Debit Card
+ORD01179,2025-10-30,C0197,Sneha Kulkarni,T-Shirt,Fashion,Central,1.0,798.51,0.05,758.58,613.58,145.0,Credit Card
+ORD00866,2025-01-05,C0144,Anjali Verma,T-Shirt,Fashion,Central,5.0,1000.86,0.1,4503.87,855.32,227.27,
+ORD00102,2025-10-06,C0194,Vikas Gupta,Jeans,Fashion,East,5.0,1791.54,0.1,8061.93,1351.78,1303.03,Debit Card
+ORD00440,2025-04-25,C0233,Rohan Mehta,Office Chair,Furniture,Central,4.0,9648.41,0.1,34734.28,8018.67,2659.6,Net Banking
+ORD00059,2025-06-19,C0278,Vikas Gupta,T-Shirt,Fashion,West,2.0,955.73,0.0,1911.46,684.46,542.54,Credit Card
+ORD01121,2025-01-17,C0124,Neha Shah,Coffee Maker,Home & Kitchen,North,3.0,4078.45,0.05,11623.58,3176.09,2095.31,Net Banking
+ORD00324,2025-03-13,C0064,Suresh Pawar,Yoga Mat,Sports,West,4.0,1329.59,0.0,5318.36,1131.54,792.2,UPI
+ORD00975,2025-02-22,C0275,Suresh Pawar,Smartphone,Electronics,South,2.0,24333.23,0.2,38933.17,18003.7,2925.77,UPI
+ORD00412,2025-09-07,C0171,Rahul Patil,Running Shoes,Sports,East,4.0,3125.39,0.05,11876.48,2556.89,1648.92,Credit Card
+ORD00856,2025-04-25,C0250,Neha Shah,Bookshelf,Furniture,East,4.0,6189.34,0.05,23519.49,3922.76,7828.45,UPI
+ORD00821,2025-09-13,C0144,Rohan Mehta,Headphones,Electronics,West,3.0,2212.63,0.0,6637.89,1933.8,836.49,UPI
+ORD00045,2025-05-14,C0092,Suresh Pawar,T-Shirt,Fashion,East,5.0,854.41,0.0,4272.05,540.24,1570.85,Credit Card
+ORD00050,2025-04-18,C0221,Suresh Pawar,Desk,Furniture,Central,4.0,12172.57,0.0,48690.28,8339.24,15333.32,UPI
+ORD00850,2025-03-01,C0254,Suresh Pawar,Bookshelf,Furniture,East,5.0,6083.37,0.15,25854.32,5164.53,31.67,Cash
+ORD00241,2025-01-31,C0036,Vikas Gupta,Smartphone,Electronics,North,1.0,24427.73,0.0,24427.73,18358.07,6069.66,UPI
