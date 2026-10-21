@@ -233,7 +233,7 @@ performance_df=pd.DataFrame(
 )
 
 performance_df.to_csv(
-      "product_performance_csv",
+      "product_performance.csv",
       index=False
 )
 
